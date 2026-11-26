@@ -1,0 +1,87 @@
+{
+  "status": "INSUFFICIENT_INFORMATION_EVALUATION_NOT_FEASIBLE",
+  "protocol_id": "EP_P6_UNBLINDING_EVALUATION_PROTOCOL_FINAL_V3",
+  "version": "3.0.0",
+  "adjudication": "VARIANT_B_P2_LAYER1",
+  "target_endpoint": "first_observed_pairs",
+  "reason": "Sample size below frozen protocol threshold (Variant B Adjudication): positive_pairs=2 (min=10), large_pool_hard_cases_variant_b=0 (min=3). [Descriptive Variant A=2].",
+  "threshold_checks": {
+    "required_min_pairs": 10,
+    "actual_pairs": 2,
+    "pairs_passed": false,
+    "required_min_hard_cases_b": 3,
+    "actual_hard_cases_b": 0,
+    "hard_cases_b_passed": false,
+    "actual_hard_cases_a_descriptive": 2,
+    "large_pool_threshold": 5
+  },
+  "num_eval_queries": 2,
+  "num_positive_pairs": 2,
+  "large_pool_hard_cases_variant_b": 0,
+  "large_pool_hard_cases_variant_a_descriptive": 2,
+  "out_of_scope_count": 13,
+  "pseudo_gain_count": 0,
+  "metrics": null,
+  "unblinding_timestamps": {
+    "utc": "2026-10-22T12:53:06.261382+00:00",
+    "local": "2026-10-22T20:53:06.261382"
+  },
+  "verified_assets": [
+    {
+      "asset_name": "july_qual",
+      "role": "July Task Qualification Audit",
+      "filepath": "13_therapy_task_qualification_audit_detail.csv (External sealed archive: qualification_tables)",
+      "size_bytes": 579693,
+      "sha256": "df3036916a34a328b5963fbc89fe6ed077079644dee0927875e8f25d1eb1ff45",
+      "status": "VERIFIED_MATCH"
+    },
+    {
+      "asset_name": "sep_qual",
+      "role": "September Novel Therapy Qualification Audit V2",
+      "filepath": "sep26_novel_therapy_qualification_audit_v2.csv (External sealed archive: qualification_tables)",
+      "size_bytes": 4130,
+      "sha256": "b9e45ae4e56aa631aa22890e13292aaf89f016d89ec80cc25448aa8994748153",
+      "status": "VERIFIED_MATCH"
+    },
+    {
+      "asset_name": "query_universe",
+      "role": "September Query Universe (1,350 queries)",
+      "filepath": "sep26_query_universe.csv (External sealed archive: sep26_inputs_v2_qualification_fix)",
+      "size_bytes": 254135,
+      "sha256": "df02bb1a11dc0c383d6c37052dc459944b4496b2965d81e3e62c6fd9991d4611",
+      "status": "VERIFIED_MATCH"
+    },
+    {
+      "asset_name": "r0_candidates",
+      "role": "September R0 Knowledge Graph Candidates",
+      "filepath": "sep26_r0_candidates.csv (External sealed archive: sep26_inputs_v2_qualification_fix)",
+      "size_bytes": 5870024,
+      "sha256": "5c792c1aa169856d1e4941783673867e2aa29580026a758753698f6aac8ec293",
+      "status": "VERIFIED_MATCH"
+    },
+    {
+      "asset_name": "r1_candidates",
+      "role": "September R1 Combined Candidates",
+      "filepath": "sep26_r1_candidates.csv (External sealed archive: sep26_inputs_v2_qualification_fix)",
+      "size_bytes": 7375900,
+      "sha256": "03da46f2b389f221125448f3fc49fabc9ff73d39c6fdcbd1df5960b9f53a32c0",
+      "status": "VERIFIED_MATCH"
+    },
+    {
+      "asset_name": "candidate_rankings",
+      "role": "Sealed Candidate Rankings B0-B6",
+      "filepath": "candidate_rankings_b0_b6.csv (External sealed archive: sep26_predictions_v1)",
+      "size_bytes": 14665724,
+      "sha256": "076507914dd4ef47e37327178c300ea723911eac848ee06ca548ee93bc279aea",
+      "status": "VERIFIED_MATCH"
+    },
+    {
+      "asset_name": "pre_cutoff_tsv",
+      "role": "September 2026 Raw Accepted CIViC Evidence Snapshot",
+      "filepath": "01-Sep-2026-AcceptedClinicalEvidenceSummaries.tsv (External sealed archive: CIViC monthly snapshots)",
+      "size_bytes": 4118431,
+      "sha256": "5d119f04bc0e654c7d41a7da139bebb5661dd2d2c3a0f5d4e43a2dd4a6bfd77c",
+      "status": "VERIFIED_MATCH"
+    }
+  ]
+}

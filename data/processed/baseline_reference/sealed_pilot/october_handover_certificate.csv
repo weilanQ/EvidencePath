@@ -1,0 +1,25 @@
+﻿property,value,note
+certificate_id,EVIDENCEPATH_P6_OCT26_HANDOVER_CERT_V1,Formal Certificate Identifier
+receipt_status,RECEIVED_SEALED_PENDING_UNBLINDING_AUTHORIZATION,Handover Gate Lock Status
+official_source_url,https://civic-aws-opendata.s3.us-west-2.amazonaws.com/ClinicalEvidenceSummaries/date=01-Oct-2026/ClinicalEvidenceSummaries.tsv,Official Public HTTPS S3 Endpoint
+s3_object_key,ClinicalEvidenceSummaries/date=01-Oct-2026/ClinicalEvidenceSummaries.tsv,AWS Open Data S3 Object Key
+official_object_name,ClinicalEvidenceSummaries.tsv,Canonical Remote File Name
+project_mapped_name,01-Oct-2026-AcceptedClinicalEvidenceSummaries.tsv,Internal Mapped File Name
+primary_local_path,ClinicalEvidenceSummaries.tsv (External sealed archive: oct26_receipt_v1/sealed_october_snapshot),Primary Sealed Storage Location
+mapped_local_path,01-Oct-2026-AcceptedClinicalEvidenceSummaries.tsv (External sealed archive: CIViC monthly snapshots),Project Data Directory Location
+http_status,200,HTTP Response Code
+http_content_length,4154685,Remote Reported Length in Bytes
+http_last_modified,"Fri, 02 Oct 2026 00:00:38 GMT",S3 Object Upload Timestamp
+http_etag,5f62c6314e2fe2d930e0e91e93fee17d,S3 MD5 ETag (NOT SHA-256)
+download_start_time_utc,2026-10-22T09:50:48.999237+00:00,Streaming Start Time (UTC)
+download_complete_time_utc,2026-10-22T09:50:53.945806+00:00,Streaming Complete Time (UTC)
+actual_file_size_bytes,4154685,Actual Physical Bytes on Disk
+sha256_digest,a618939c33c7cc9cc530be5f0a51fc330b29ad46b3f9a5bebeddcd871375e086,Real SHA-256 Digest (Verified)
+acquisition_method,执行方从官方归档直接获取 (Direct binary streaming download from official AWS S3 Open Data bucket),Acquisition Channel
+executing_entity,执行方直接从官方归档下载（无虚构第三方签署人）,Direct Execution Entity
+parsed_labels_status,NO,Whether Labels Were Parsed
+content_inspected,NO,Zero Text Previewing
+data_cutoff_interpretation,"月度归档标记为 01-Oct-2026；Last-Modified (Fri, 02 Oct 2026 00:00:38 GMT) 为 S3 归档上传时间，不等于精确数据纳入截止时刻。官方元数据未提供精确至秒的入库截止定义，故不作超出官方依据的时间点断言。",Distinction of Archive vs Cutoff Time
+historical_exposure_status,UNCONFIRMED,Objective Status
+sealed_prediction_manifest_anchor_sha256,3e7f172961b445cc9897dd71063056d206de93a097c0e133c844318a371ef76e,Immutable Prediction Anchor
+candidate_rankings_anchor_sha256,076507914dd4ef47e37327178c300ea723911eac848ee06ca548ee93bc279aea,Rankings Matrix Anchor

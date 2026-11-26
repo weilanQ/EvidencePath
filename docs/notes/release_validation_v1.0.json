@@ -1,0 +1,114 @@
+{
+  "status": "passed",
+  "release_version": "1.0",
+  "reproduction_runs": [
+    {
+      "cwd": "repository root",
+      "status": "passed",
+      "immutable_inputs": 105,
+      "grid_max_error": 1.1102230246251565e-16
+    },
+    {
+      "cwd": "different directory, absolute entrypoint",
+      "status": "passed",
+      "immutable_inputs": 105,
+      "grid_max_error": 1.1102230246251565e-16
+    }
+  ],
+  "current_artifact_comparisons": [
+    {
+      "file": "audited_candidate_coverage.csv",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "audited_case_comparison.csv",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "audited_main_results.csv",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "figure_hrk.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "figure_legend_mapping.json",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "INTEGRATION_NOTES.txt",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "replay_hr_at_k_with_context.pdf",
+      "comparison": "rendered_pixels",
+      "equal": true
+    },
+    {
+      "file": "replay_hr_at_k_with_context.png",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_branch_lengths.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_candidate_coverage.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_cases_with_context.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_main_results.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_new_old_tradeoff.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_paired_replay.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_shuffle_all_supp.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_shuffle_replay.tex",
+      "comparison": "bytes",
+      "equal": true
+    },
+    {
+      "file": "table_source_excluded.tex",
+      "comparison": "bytes",
+      "equal": true
+    }
+  ],
+  "latex_source_files_byte_identical_to_final_paper": 23,
+  "main_pdf_byte_identical": true,
+  "supplement_pdf_byte_identical": true,
+  "syntax_checks_passed": true,
+  "local_markdown_links_broken": [],
+  "identity_or_private_path_hits": [],
+  "scope": "Frozen-ranking reconstruction and saved-evidence verification; no raw-resource extraction or model training.",
+  "optional_live_civic_shuffle_not_rerun_in_release_validation": true,
+  "generated_outputs_excluded_from_distribution": true
+}

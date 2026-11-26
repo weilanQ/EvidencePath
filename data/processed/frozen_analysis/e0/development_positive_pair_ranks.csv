@@ -1,0 +1,345 @@
+﻿qid,window_id,query_id,positive_drug,method,rank,rr,covered,hit1,hit3,hit5,hit10
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,midostaurin,Graph,7,0.14285714285714285,1,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,entrectinib,Graph,2,0.5,1,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,Graph,33,0.030303030303030304,1,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,futibatinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,entrectinib,Graph,1,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,larotrectinib,Graph,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,entrectinib,Graph,1,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",entrectinib,Graph,1,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,hci-2509,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,trabectedin,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,entrectinib,Graph,1,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,entrectinib,Graph,1,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,entrectinib,Graph,2,0.5,1,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,larotrectinib,Graph,9,0.1111111111111111,1,0,0,0,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,entrectinib,Graph,2,0.5,1,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,entrectinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,entrectinib,Graph,1,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,lestaurtinib,Graph,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,entrectinib,Graph,1,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,datopotamab deruxtecan,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,zongertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,atezolizumab,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,nsc84167,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,zongertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,sunvozertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,sunvozertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,sunvozertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,sunvozertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,sunvozertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,sunvozertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,zongertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,sunvozertinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,selpercatinib,Graph,1,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,entrectinib,Graph,1,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,trabectedin,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,entrectinib,Graph,2,0.5,1,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,letetresgene autoleucel,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,roflumilast,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,nsc84167,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,selumetinib,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,Graph,,0,0,0,0,0,0
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,entrectinib,Graph,2,0.5,1,0,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,midostaurin,Mix,10,0.10000000000000001,1,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,entrectinib,Mix,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,Mix,38,0.026315789473684209,1,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,Mix,39,0.02564102564102564,1,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,futibatinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,entrectinib,Mix,9,0.1111111111111111,1,0,0,0,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,larotrectinib,Mix,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,entrectinib,Mix,5,0.20000000000000001,1,0,0,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",entrectinib,Mix,5,0.20000000000000001,1,0,0,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,hci-2509,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,trabectedin,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,entrectinib,Mix,1,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,entrectinib,Mix,1,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,entrectinib,Mix,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,larotrectinib,Mix,12,0.083333333333333329,1,0,0,0,0
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,entrectinib,Mix,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,entrectinib,Mix,11,0.090909090909090912,1,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,entrectinib,Mix,5,0.20000000000000001,1,0,0,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,lestaurtinib,Mix,9,0.1111111111111111,1,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,entrectinib,Mix,5,0.20000000000000001,1,0,0,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,datopotamab deruxtecan,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,zongertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,atezolizumab,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,nsc84167,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,zongertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,sunvozertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,sunvozertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,sunvozertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,sunvozertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,sunvozertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,sunvozertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,zongertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,sunvozertinib,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,selpercatinib,Mix,1,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,entrectinib,Mix,2,0.5,1,0,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,trabectedin,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,entrectinib,Mix,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,letetresgene autoleucel,Mix,1,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,roflumilast,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,nsc84167,Mix,,0,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,selumetinib,Mix,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,Mix,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,entrectinib,Mix,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,midostaurin,Append-SF,7,0.14285714285714285,1,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,entrectinib,Append-SF,2,0.5,1,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,Append-SF,41,0.024390243902439025,1,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,Append-SF,33,0.030303030303030304,1,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,futibatinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,entrectinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,larotrectinib,Append-SF,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,entrectinib,Append-SF,1,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",entrectinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,hci-2509,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,trabectedin,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,entrectinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,entrectinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,entrectinib,Append-SF,2,0.5,1,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,larotrectinib,Append-SF,9,0.1111111111111111,1,0,0,0,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,entrectinib,Append-SF,2,0.5,1,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,entrectinib,Append-SF,44,0.022727272727272728,1,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,entrectinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,lestaurtinib,Append-SF,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,entrectinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,datopotamab deruxtecan,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,zongertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,atezolizumab,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,nsc84167,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,zongertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,sunvozertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,sunvozertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,sunvozertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,sunvozertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,sunvozertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,sunvozertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,zongertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,sunvozertinib,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,selpercatinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,entrectinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,trabectedin,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,entrectinib,Append-SF,2,0.5,1,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,letetresgene autoleucel,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,roflumilast,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,nsc84167,Append-SF,,0,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,selumetinib,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,Append-SF,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,entrectinib,Append-SF,2,0.5,1,0,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,midostaurin,AltGraph,7,0.14285714285714285,1,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,AltGraph,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,futibatinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,larotrectinib,AltGraph,2,0.5,1,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,entrectinib,AltGraph,1,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,hci-2509,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,trabectedin,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,entrectinib,AltGraph,2,0.5,1,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,larotrectinib,AltGraph,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,entrectinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,lestaurtinib,AltGraph,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,datopotamab deruxtecan,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,zongertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,atezolizumab,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,nsc84167,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,zongertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,sunvozertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,sunvozertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,sunvozertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,sunvozertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,sunvozertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,sunvozertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,zongertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,sunvozertinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,selpercatinib,AltGraph,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,trabectedin,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,letetresgene autoleucel,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,roflumilast,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,nsc84167,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,selumetinib,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,AltGraph,,0,0,0,0,0,0
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,entrectinib,AltGraph,1,1,1,1,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,midostaurin,AltAppend,7,0.14285714285714285,1,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,AltAppend,41,0.024390243902439025,1,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,AltAppend,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,futibatinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,larotrectinib,AltAppend,2,0.5,1,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,entrectinib,AltAppend,1,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,hci-2509,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,trabectedin,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,entrectinib,AltAppend,2,0.5,1,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,larotrectinib,AltAppend,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,entrectinib,AltAppend,44,0.022727272727272728,1,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,lestaurtinib,AltAppend,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,datopotamab deruxtecan,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,zongertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,atezolizumab,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,nsc84167,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,zongertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,sunvozertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,sunvozertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,sunvozertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,sunvozertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,sunvozertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,sunvozertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,zongertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,sunvozertinib,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,selpercatinib,AltAppend,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,trabectedin,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,letetresgene autoleucel,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,roflumilast,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,nsc84167,AltAppend,,0,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,selumetinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,entrectinib,AltAppend,1,1,1,1,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,midostaurin,RRF,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,RRF,5,0.20000000000000001,1,0,0,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,RRF,41,0.024390243902439025,1,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,futibatinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,larotrectinib,RRF,2,0.5,1,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,entrectinib,RRF,1,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,hci-2509,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,trabectedin,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,larotrectinib,RRF,2,0.5,1,0,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,entrectinib,RRF,19,0.052631578947368418,1,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,lestaurtinib,RRF,4,0.25,1,0,0,1,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,datopotamab deruxtecan,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,zongertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,atezolizumab,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,nsc84167,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,zongertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,sunvozertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,sunvozertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,sunvozertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,sunvozertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,sunvozertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,sunvozertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,zongertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,sunvozertinib,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,selpercatinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,trabectedin,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,letetresgene autoleucel,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,roflumilast,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,nsc84167,RRF,,0,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,selumetinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,entrectinib,RRF,1,1,1,1,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,midostaurin,Context,4,0.25,1,0,0,1,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,entrectinib,Context,2,0.5,1,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,Context,1,1,1,1,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,Context,40,0.025000000000000001,1,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,futibatinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,entrectinib,Context,2,0.5,1,0,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,larotrectinib,Context,1,1,1,1,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,entrectinib,Context,1,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",entrectinib,Context,1,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,hci-2509,Context,,0,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,trabectedin,Context,,0,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,entrectinib,Context,2,0.5,1,0,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,entrectinib,Context,2,0.5,1,0,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,entrectinib,Context,2,0.5,1,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,larotrectinib,Context,1,1,1,1,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,entrectinib,Context,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,entrectinib,Context,11,0.090909090909090912,1,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,entrectinib,Context,2,0.5,1,0,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,lestaurtinib,Context,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,entrectinib,Context,1,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,datopotamab deruxtecan,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,zongertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,atezolizumab,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,nsc84167,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,zongertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,sunvozertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,sunvozertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,sunvozertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,sunvozertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,sunvozertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,sunvozertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,zongertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,sunvozertinib,Context,,0,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,selpercatinib,Context,1,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,entrectinib,Context,2,0.5,1,0,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,trabectedin,Context,,0,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,entrectinib,Context,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,letetresgene autoleucel,Context,1,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,roflumilast,Context,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,nsc84167,Context,,0,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,selumetinib,Context,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,Context,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,entrectinib,Context,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,midostaurin,CIViC,4,0.25,1,0,0,1,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,entrectinib,CIViC,2,0.5,1,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,futibatinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,entrectinib,CIViC,2,0.5,1,0,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,larotrectinib,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,entrectinib,CIViC,1,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",entrectinib,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,hci-2509,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,trabectedin,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,entrectinib,CIViC,2,0.5,1,0,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,entrectinib,CIViC,2,0.5,1,0,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,entrectinib,CIViC,2,0.5,1,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,larotrectinib,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,entrectinib,CIViC,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,entrectinib,CIViC,11,0.090909090909090912,1,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,entrectinib,CIViC,2,0.5,1,0,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,lestaurtinib,CIViC,6,0.16666666666666666,1,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,entrectinib,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,datopotamab deruxtecan,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,zongertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,atezolizumab,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,nsc84167,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,zongertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,sunvozertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,sunvozertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,sunvozertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,sunvozertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,sunvozertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,sunvozertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,zongertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,sunvozertinib,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,selpercatinib,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,entrectinib,CIViC,2,0.5,1,0,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,trabectedin,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,entrectinib,CIViC,3,0.33333333333333331,1,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,letetresgene autoleucel,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,roflumilast,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,nsc84167,CIViC,,0,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,selumetinib,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,CIViC,1,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,entrectinib,CIViC,3,0.33333333333333331,1,0,1,1,1

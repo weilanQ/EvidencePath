@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "default_neighborhood_settings_per_cohort_baseline": 9,
+  "neighborhood_k": [
+    40.0,
+    60.0,
+    80.0
+  ],
+  "neighborhood_alpha": [
+    0.4,
+    0.5,
+    0.5999999999999999
+  ],
+  "case_rows": 19,
+  "includes_cutoff_defined_cases_separately": true,
+  "new_parameter_selection": false
+}

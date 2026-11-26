@@ -1,0 +1,5375 @@
+{
+  "scope": "Every CSV under data/processed; field meanings are documented in data_dictionary.md",
+  "files": [
+    {
+      "path": "data/processed/baseline_reference/frozen_candidates/corrected_candidate_rankings.csv",
+      "rows": 2762,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "u",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 532
+        },
+        {
+          "name": "b1_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b3_rank",
+          "dtype": "float64",
+          "missing": 532
+        },
+        {
+          "name": "b4_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "is_positive_label",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/frozen_candidates/january_candidate_matrix_1051.csv",
+      "rows": 1051,
+      "columns": [
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rg",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "re",
+          "dtype": "float64",
+          "missing": 691
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/frozen_candidates/quarterly_candidate_matrix_2762.csv",
+      "rows": 2762,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rg",
+          "dtype": "float64",
+          "missing": 532
+        },
+        {
+          "name": "re",
+          "dtype": "float64",
+          "missing": 1912
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 532
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/frozen_candidates/rebuilt_full_rankings_b0_b6.csv",
+      "rows": 1051,
+      "columns": [
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile_id",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "primekg_entity_missing",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "primekg_drug_missing",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "simple_civic_log1p_high_ab",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "simple_civic_log1p_medium_c",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "simple_civic_log1p_weak_de",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "primekg_direct_target",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "primekg_log1p_shared_pathway_count",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "primekg_profile_pathway_coverage",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "primekg_pathway_jaccard",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "primekg_cancer_indication",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "score_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "tier",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "tier_name",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "best_benefit_mp_level",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "best_benefit_mp_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "best_benefit_disease_level",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "best_benefit_disease_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "has_conflict",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "conflict_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "best_benefit_level",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "best_benefit_level_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "num_independent_benefit_sources",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "supporting_sources",
+          "dtype": "str",
+          "missing": 691
+        },
+        {
+          "name": "optimal_record_eid",
+          "dtype": "float64",
+          "missing": 691
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "b1_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b3_rank",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b4_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "graph_present",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "graph_rank",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "graph_contrib",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "evidence_present",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "evidence_rank",
+          "dtype": "float64",
+          "missing": 691
+        },
+        {
+          "name": "evidence_contrib",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rrf_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/ground_truth/corrected_main_summary.csv",
+      "rows": 55,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method_code",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method_name",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "num_queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "num_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr1",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr5",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr10",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "pair_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "macro_recall5",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "new_positives_in_top5",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "old_positives_exited_top5",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "old_positives_rr_loss_count",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "old_positives_total_rr_loss",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "improved_vs_b2",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "degraded_vs_b2",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "tied_vs_b2",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "improved_vs_orig_p4",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "degraded_vs_orig_p4",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "tied_vs_orig_p4",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/ground_truth/corrected_per_pair_comparison.csv",
+      "rows": 93,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pair_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pool_size_r0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "pool_size_r1",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "in_r0",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "in_r1",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_b0",
+          "dtype": "float64",
+          "missing": 52
+        },
+        {
+          "name": "rank_b2",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_b4",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_b5",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_b6",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_orig_p4_lam4",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_orig_p4_lam1",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_orig_p4_lam025",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_ev_order_lam4",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_ev_order_lam1",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rank_ev_order_lam025",
+          "dtype": "float64",
+          "missing": 34
+        },
+        {
+          "name": "rr_b2",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rr_b5",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rr_orig_p4_lam4",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rr_ev_order_lam4",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_ev_order_minus_orig_p4_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_ev_order_minus_b5_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_ev_order_minus_b2_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_orig_p4_minus_b5_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_orig_p4_minus_b2_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "status_ev_order_vs_orig_p4",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "status_ev_order_vs_b5",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "status_ev_order_vs_b2",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "status_orig_p4_vs_b5",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "status_orig_p4_vs_b2",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/ground_truth/january_positive_pairs_43.csv",
+      "rows": 43,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pair_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "in_r0",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "in_r1",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_b0",
+          "dtype": "float64",
+          "missing": 24
+        },
+        {
+          "name": "rank_b2",
+          "dtype": "float64",
+          "missing": 19
+        },
+        {
+          "name": "rank_b5",
+          "dtype": "float64",
+          "missing": 19
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/ground_truth/quarterly_positive_pairs_50.csv",
+      "rows": 50,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pair_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "in_r0",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "in_r1",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_b0",
+          "dtype": "float64",
+          "missing": 28
+        },
+        {
+          "name": "rank_b2",
+          "dtype": "float64",
+          "missing": 15
+        },
+        {
+          "name": "rank_b5",
+          "dtype": "float64",
+          "missing": 15
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/manifest/input_manifest.csv",
+      "rows": 22,
+      "columns": [
+        {
+          "name": "relative_path",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "file_name",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "size_bytes",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "sha256",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sealed_pilot/october_handover_certificate.csv",
+      "rows": 24,
+      "columns": [
+        {
+          "name": "property",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "value",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "note",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sealed_pilot/q_eval_and_positives_summary.csv",
+      "rows": 2,
+      "columns": [
+        {
+          "name": "endpoint_category",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "q_eval_count",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "total_positive_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "q_eval_queries",
+          "dtype": "str",
+          "missing": 1
+        },
+        {
+          "name": "pairs_detail",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sealed_pilot/unique_positive_pairs.csv",
+      "rows": 15,
+      "columns": [
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile_id",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pair_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "evidence_levels",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "has_level_ab",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "has_level_c",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "has_level_d",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "eid_count",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "eids",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "citation_count",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "citation_ids",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_category",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "is_brand_new_pair",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "is_evidence_boosted",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "is_pseudo_gain",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "is_out_of_scope",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "qualification_rationale",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/bootstrap_confidence_intervals.csv",
+      "rows": 16,
+      "columns": [
+        {
+          "name": "structure",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "comparison_code",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "comparison_name",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "metric",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "point_estimate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "ci_lower_95",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "ci_upper_95",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "ci_width",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "spans_zero",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "pct_positive_replicates",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "format_display",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/candidate_level_differences.csv",
+      "rows": 105,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin_A",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin_B",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "sf_score_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "sf_score_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "u_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "u_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "b0_rank_A",
+          "dtype": "float64",
+          "missing": 30
+        },
+        {
+          "name": "b0_rank_B",
+          "dtype": "float64",
+          "missing": 30
+        },
+        {
+          "name": "b1_rank_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b1_rank_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b2_rank_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b2_rank_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b4_rank_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b4_rank_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam4_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam4_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam4_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam4_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "has_difference",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "difference_details",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/cluster_definitions_summary.csv",
+      "rows": 35,
+      "columns": [
+        {
+          "name": "structure_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cluster_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cluster_size",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_percentage",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "connection_basis_drugs",
+          "dtype": "str",
+          "missing": 18
+        },
+        {
+          "name": "member_queries",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "connection_basis_sources",
+          "dtype": "str",
+          "missing": 17
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/gene_parsing_and_branch_comparison.csv",
+      "rows": 4,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile_A",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile_B",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "parsed_genes_A",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "parsed_genes_B",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "r0_count_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "r0_count_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "r0_delta",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "civic_branch_count_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "civic_branch_count_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "civic_branch_delta",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "r1_count_A",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "r1_count_B",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "r1_delta",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "candidate_set_diff_A_minus_B",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_set_diff_B_minus_A",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_recalled_A",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "positive_recalled_B",
+          "dtype": "bool",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/group_replacement_metrics_summary.csv",
+      "rows": 14,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "num_queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "num_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "method_code",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method_name",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_pair_coverage_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "candidate_pair_coverage_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "candidate_query_coverage_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "candidate_query_coverage_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "pair_mrr_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "pair_mrr_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_pair_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr1_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr1_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_query_hr1",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr5_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr5_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_query_hr5",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "metric_sensitivity_verdict",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/leave_one_cluster_out_sensitivity.csv",
+      "rows": 35,
+      "columns": [
+        {
+          "name": "structure",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "excluded_cluster_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "excluded_cluster_size",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "excluded_cluster_basis",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "remaining_queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B4_diff_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B4_diff_hr5_rate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B4_diff_hr5_pp",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B2_diff_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B2_diff_hr5_rate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B2_diff_hr5_pp",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B1_diff_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B1_diff_hr5_rate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B5_vs_B1_diff_hr5_pp",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B6_vs_B5_diff_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B6_vs_B5_diff_hr5_rate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "B6_vs_B5_diff_hr5_pp",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/positive_pair_ranks_comparison.csv",
+      "rows": 4,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "descriptor_A",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "descriptor_B",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "in_r1_A",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "in_r1_B",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin_A",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin_B",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rank_b0_A",
+          "dtype": "float64",
+          "missing": 3
+        },
+        {
+          "name": "rank_b0_B",
+          "dtype": "float64",
+          "missing": 3
+        },
+        {
+          "name": "rank_b2_A",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_b2_B",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_b4_A",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_b4_B",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_b5_A",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_b5_B",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_b6_A",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_b6_B",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_orig_p4_lam4_A",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_orig_p4_lam4_B",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_ev_order_lam4_A",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rank_ev_order_lam4_B",
+          "dtype": "float64",
+          "missing": 2
+        },
+        {
+          "name": "rr_b5_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rr_b5_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rr_ev_order_lam4_A",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rr_ev_order_lam4_B",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_rr_b5",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_rr_ev_order_lam4",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rank_status",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/diagnostics/civic_shuffle_round_metrics.csv",
+      "rows": 10000,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "round",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hr3_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr3_rate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_rate",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/diagnostics/rrf_grid_scan_54_summary.csv",
+      "rows": 54,
+      "columns": [
+        {
+          "name": "k",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "alpha",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "jan_query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "jan_hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "jan_hr5_denom",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "jan_hr5_rate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "jan_delta_vs_b2",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "new_query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "new_hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "new_hr5_denom",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "new_hr5_rate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "new_delta_vs_b2",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "is_default_point",
+          "dtype": "bool",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/frozen_candidates/corrected_candidate_rankings.csv",
+      "rows": 2762,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "u",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 532
+        },
+        {
+          "name": "b1_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b3_rank",
+          "dtype": "float64",
+          "missing": 532
+        },
+        {
+          "name": "b4_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "is_positive_label",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/frozen_candidates/quarterly_candidate_matrix_2762.csv",
+      "rows": 2762,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rg",
+          "dtype": "float64",
+          "missing": 532
+        },
+        {
+          "name": "re",
+          "dtype": "float64",
+          "missing": 1912
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 532
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/ground_truth/quarterly_positive_pairs_50.csv",
+      "rows": 50,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pair_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "in_r0",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "in_r1",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_b0",
+          "dtype": "float64",
+          "missing": 28
+        },
+        {
+          "name": "rank_b2",
+          "dtype": "float64",
+          "missing": 15
+        },
+        {
+          "name": "rank_b5",
+          "dtype": "float64",
+          "missing": 15
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/development_baseline_metrics.csv",
+      "rows": 8,
+      "columns": [
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "positive_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "pair_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "covered_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr1_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr3_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr10_hits",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/development_positive_pair_ranks.csv",
+      "rows": 344,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rank",
+          "dtype": "float64",
+          "missing": 163
+        },
+        {
+          "name": "rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "covered",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit1",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit3",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit5",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit10",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/development_query_metrics.csv",
+      "rows": 328,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "best_rank",
+          "dtype": "float64",
+          "missing": 152
+        },
+        {
+          "name": "rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hit1",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit3",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit5",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit10",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/frozen_analysis_bundle/development_candidates.csv",
+      "rows": 1051,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "u",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "b1_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b3_rank",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "b4_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "is_positive_label",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rg",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "re",
+          "dtype": "float64",
+          "missing": 691
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/frozen_analysis_bundle/development_labels.csv",
+      "rows": 43,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pair_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "in_r0",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "in_r1",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_b0",
+          "dtype": "float64",
+          "missing": 24
+        },
+        {
+          "name": "rank_b2",
+          "dtype": "float64",
+          "missing": 19
+        },
+        {
+          "name": "rank_b5",
+          "dtype": "float64",
+          "missing": 19
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/frozen_analysis_bundle/replay_candidates.csv",
+      "rows": 1580,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "u",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 318
+        },
+        {
+          "name": "b1_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b3_rank",
+          "dtype": "float64",
+          "missing": 318
+        },
+        {
+          "name": "b4_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "is_positive_label",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rg",
+          "dtype": "float64",
+          "missing": 318
+        },
+        {
+          "name": "re",
+          "dtype": "float64",
+          "missing": 1142
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/frozen_analysis_bundle/replay_labels.csv",
+      "rows": 46,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pair_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "in_r0",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "in_r1",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_b0",
+          "dtype": "float64",
+          "missing": 26
+        },
+        {
+          "name": "rank_b2",
+          "dtype": "float64",
+          "missing": 13
+        },
+        {
+          "name": "rank_b5",
+          "dtype": "float64",
+          "missing": 13
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/replay_baseline_metrics.csv",
+      "rows": 8,
+      "columns": [
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "positive_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "pair_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "covered_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr1_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr3_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr10_hits",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/replay_positive_pair_ranks.csv",
+      "rows": 368,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rank",
+          "dtype": "float64",
+          "missing": 131
+        },
+        {
+          "name": "rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "covered",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit1",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit3",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit5",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit10",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/replay_query_metrics.csv",
+      "rows": 360,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "best_rank",
+          "dtype": "float64",
+          "missing": 129
+        },
+        {
+          "name": "rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hit1",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit3",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit5",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit10",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/bootstrap_confidence_intervals.csv",
+      "rows": 32,
+      "columns": [
+        {
+          "name": "criterion",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "comparison",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "metric",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "estimate",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "ci_lower_95",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "ci_upper_95",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "components",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "max_component",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rounds",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "seed",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/bootstrap_replicates.csv",
+      "rows": 80000,
+      "columns": [
+        {
+          "name": "criterion",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "round",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_denominator",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "comparison",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hit1",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hit3",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hit5",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/cluster_memberships.csv",
+      "rows": 90,
+      "columns": [
+        {
+          "name": "criterion",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "component_id",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "component_size",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/cluster_summary.csv",
+      "rows": 2,
+      "columns": [
+        {
+          "name": "criterion",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "components",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "max_component_queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "max_component_share",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "replicate_query_denominator_min",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "replicate_query_denominator_max",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/leave_one_component_out.csv",
+      "rows": 172,
+      "columns": [
+        {
+          "name": "criterion",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "omitted_component",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "omitted_queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "retained_queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "comparison",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "component_queries",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/new_old_top5_tradeoff.csv",
+      "rows": 3,
+      "columns": [
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "evidence_exclusive_positive_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "evidence_exclusive_top5",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "append_sf_original_top5_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "original_top5_retained",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/paired_query_differences.csv",
+      "rows": 180,
+      "columns": [
+        {
+          "name": "comparison",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rank_a",
+          "dtype": "float64",
+          "missing": 52
+        },
+        {
+          "name": "rank_b",
+          "dtype": "float64",
+          "missing": 53
+        },
+        {
+          "name": "delta_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hit1",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hit3",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hit5",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/strong_baseline_summary.csv",
+      "rows": 4,
+      "columns": [
+        {
+          "name": "comparison",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "wins",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "ties",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "losses",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hr1_pp",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hr3_pp",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hr5_pp",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/branch_length_summary.csv",
+      "rows": 4,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "branch",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "median",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "min",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "max",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "count",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "empty_lists",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/branch_lengths.csv",
+      "rows": 172,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "branch",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "length",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/development_shared_first_rankings.csv",
+      "rows": 1051,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "u",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "b1_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b3_rank",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "b4_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "is_positive_label",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rg",
+          "dtype": "float64",
+          "missing": 177
+        },
+        {
+          "name": "re",
+          "dtype": "float64",
+          "missing": 691
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "shared_first_rank",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/membership_diagnostic_summary.csv",
+      "rows": 18,
+      "columns": [
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "positive_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "pair_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "covered_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr1_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr3_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr10_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/positive_origin_breakdown.csv",
+      "rows": 72,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "pair_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "top5_pairs",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/replay_shared_first_rankings.csv",
+      "rows": 1580,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cand_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "sf_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "u",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "b0_rank",
+          "dtype": "float64",
+          "missing": 318
+        },
+        {
+          "name": "b1_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b2_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b3_rank",
+          "dtype": "float64",
+          "missing": 318
+        },
+        {
+          "name": "b4_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b5_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "b6_rank",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "is_positive_label",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam0_25",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam1_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_orig_p4_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rank_ev_order_lam4_0",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rg",
+          "dtype": "float64",
+          "missing": 318
+        },
+        {
+          "name": "re",
+          "dtype": "float64",
+          "missing": 1142
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "shared_first_rank",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/stepwise_query_differences.csv",
+      "rows": 86,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "shared_first_minus_context",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rrf_minus_shared_first",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "rrf_minus_context",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/development_graph_shuffle_round_metrics.csv",
+      "rows": 5000,
+      "columns": [
+        {
+          "name": "round",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hr3_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/graph_and_civic_shuffle_summary.csv",
+      "rows": 12,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "shuffled_branch",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "metric",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "original",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "permuted_mean",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "minimum",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "maximum",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "central95_lower",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "central95_upper",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "gap",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "upper_tail_count",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rounds",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "p_raw",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/per_query_shuffle_summary.csv",
+      "rows": 86,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "graph_length",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "civic_length",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "permuted_mean_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "permuted_mean_hr3",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "permuted_mean_hr5",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/permutation_tail_tests.csv",
+      "rows": 12,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "shuffled_branch",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "metric",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "original",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "permuted_mean",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "minimum",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "maximum",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "central95_lower",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "central95_upper",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "gap",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "upper_tail_count",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "rounds",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "p_raw",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "p_holm_12",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/replay_graph_shuffle_round_metrics.csv",
+      "rows": 5000,
+      "columns": [
+        {
+          "name": "round",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hr3_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/confirmed_overlap_removed_positive_pair_ranks.csv",
+      "rows": 117,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rank",
+          "dtype": "float64",
+          "missing": 40
+        },
+        {
+          "name": "rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "covered",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit1",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit3",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit5",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit10",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/context_rank_validation.csv",
+      "rows": 86,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "context_rank_mismatches",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/evidence_membership_validation.csv",
+      "rows": 86,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "reconstructed_evidence_drugs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "frozen_evidence_drugs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "missing",
+          "dtype": "float64",
+          "missing": 86
+        },
+        {
+          "name": "extra",
+          "dtype": "float64",
+          "missing": 86
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/full_replay_positive_pair_ranks.csv",
+      "rows": 138,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "rank",
+          "dtype": "float64",
+          "missing": 40
+        },
+        {
+          "name": "rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "covered",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit1",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit3",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit5",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hit10",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/label_support_sources.csv",
+      "rows": 96,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "evidence_id",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "source_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "citation_id",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "canonical_source",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "evidence_level",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "source_file",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "scope",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/overlap_by_window.csv",
+      "rows": 3,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "same_source_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "queries",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/overlap_source_witnesses.csv",
+      "rows": 29,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "matched_source",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "cutoff_eid",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "input_candidate_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "used_for_civic_retrieval_or_context",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "used_for_sf_count",
+          "dtype": "bool",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/positive_source_overlap.csv",
+      "rows": 46,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "label_sources",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "label_eids",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "input_source_count",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "same_source",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "overlap_sources",
+          "dtype": "str",
+          "missing": 39
+        },
+        {
+          "name": "label_source_unknown",
+          "dtype": "bool",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/query_start_evidence_used.csv",
+      "rows": 11171,
+      "columns": [
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "evidence_id",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "source_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "citation_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "canonical_source",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "used_for_civic_retrieval_or_context",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "used_for_sf_count",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "evidence_direction",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "significance",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "evidence_level",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile_id",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "source_file",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qualification_regime",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/retained_labels.csv",
+      "rows": 39,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "endpoint_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "disease",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "molecular_profile",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "pair_key",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "candidate_origin",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "in_r0",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "in_r1",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "rank_b0",
+          "dtype": "float64",
+          "missing": 24
+        },
+        {
+          "name": "rank_b2",
+          "dtype": "float64",
+          "missing": 13
+        },
+        {
+          "name": "rank_b5",
+          "dtype": "float64",
+          "missing": 13
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/source_excluded_metrics.csv",
+      "rows": 6,
+      "columns": [
+        {
+          "name": "method",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "positive_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "pair_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "covered_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr1_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr3_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr10_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "subset",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/source_excluded_paired_differences.csv",
+      "rows": 168,
+      "columns": [
+        {
+          "name": "subset",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "comparison",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/source_normalization_audit.csv",
+      "rows": 24,
+      "columns": [
+        {
+          "name": "source_type",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "citation_id",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "canonical_source",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e5/old_candidate_score_invariance.csv",
+      "rows": 1262,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "historical_pre_correction_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "frozen_score",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "difference",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "baseline_code_uses_same_prediction_for_graph_and_mix",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "old_relative_order_preserved",
+          "dtype": "bool",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e5/query_displacement_decomposition.csv",
+      "rows": 45,
+      "columns": [
+        {
+          "name": "qid",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "graph_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "mix_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "mix_old_positive_rr_in_full_pool",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "displacement",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "coverage_gain",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "net_change",
+          "dtype": "float64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e5/replay_displacement_summary.csv",
+      "rows": 1,
+      "columns": [
+        {
+          "name": "graph_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "mix_rr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "mix_old_positive_rr_in_full_pool",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "displacement",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "coverage_gain",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "net_change",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "positive_pairs",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "old_candidates",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "historical_score_missing",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "historical_score_max_abs_difference",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/archived_insertion_lambda_tuning.csv",
+      "rows": 3,
+      "columns": [
+        {
+          "name": "lambda",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr1",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr5",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "query_hr10",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "num_queries",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "num_pairs",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/case_rankings_with_context.csv",
+      "rows": 19,
+      "columns": [
+        {
+          "name": "evaluation_group",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "window_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "positive_drug",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "covered",
+          "dtype": "bool",
+          "missing": 0
+        },
+        {
+          "name": "Graph_rank",
+          "dtype": "float64",
+          "missing": 11
+        },
+        {
+          "name": "Mix_rank",
+          "dtype": "float64",
+          "missing": 7
+        },
+        {
+          "name": "Append_SF_rank",
+          "dtype": "float64",
+          "missing": 7
+        },
+        {
+          "name": "CIViC_rank",
+          "dtype": "float64",
+          "missing": 8
+        },
+        {
+          "name": "Context_rank",
+          "dtype": "float64",
+          "missing": 7
+        },
+        {
+          "name": "RRF_rank",
+          "dtype": "float64",
+          "missing": 7
+        },
+        {
+          "name": "SharedFirstContext_rank",
+          "dtype": "float64",
+          "missing": 7
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/evidence_to_claims.csv",
+      "rows": 7,
+      "columns": [
+        {
+          "name": "claim",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "evidence",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "allowed",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "avoid",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/parameter_default_neighborhood.csv",
+      "rows": 36,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "k",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "alpha",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "baseline",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "default_point",
+          "dtype": "bool",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/parameter_default_neighborhood_summary.csv",
+      "rows": 4,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "baseline",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "settings",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr_min",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr_max",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits_min",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits_max",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/parameter_grid_vs_strong_baselines.csv",
+      "rows": 216,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "k",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "alpha",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "baseline",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_hr5_hits",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "default_point",
+          "dtype": "bool",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/parameter_robustness_summary.csv",
+      "rows": 4,
+      "columns": [
+        {
+          "name": "cohort",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "baseline",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "settings",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "mrr_above",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "mrr_tied",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "mrr_below",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr_min",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "delta_mrr_max",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_above",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_tied",
+          "dtype": "int64",
+          "missing": 0
+        },
+        {
+          "name": "hr5_below",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/reproduction_settings.csv",
+      "rows": 12,
+      "columns": [
+        {
+          "name": "setting",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "value",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "verification",
+          "dtype": "str",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/resource_versions.csv",
+      "rows": 12,
+      "columns": [
+        {
+          "name": "resource",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "path",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "recorded_sha256",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "actual_sha256",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "matches",
+          "dtype": "bool",
+          "missing": 0
+        }
+      ]
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/training_validation_anchor_count_audit.csv",
+      "rows": 300,
+      "columns": [
+        {
+          "name": "split",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "query_id",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "drug_norm",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "feature",
+          "dtype": "str",
+          "missing": 0
+        },
+        {
+          "name": "frozen_value",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "recomputed_from_visible_links",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "absolute_error",
+          "dtype": "float64",
+          "missing": 0
+        },
+        {
+          "name": "label_anchor_intersection_count",
+          "dtype": "int64",
+          "missing": 0
+        }
+      ]
+    }
+  ]
+}

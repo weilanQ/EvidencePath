@@ -1,0 +1,106 @@
+\section{Experimental Protocol}
+\label{sec:eval}
+\ifx\artifacturl\empty\else
+The archived baseline package is linked at the \href{\artifacturl}{anonymous artifact site}. Revision-specific outputs, evidence ledgers and generation commands accompany this version.
+\par
+\fi
+\subsection{Snapshots and populations}
+PrimeKG and both July-2025-supervised rankers stay frozen. January development uses July 2025 inputs and January 2026 labels; its 43 positive pairs include 40 first observations and three augmentations (Table~\ref{tab:datasets}).
+
+\begin{table}[t]
+\caption{Evaluation sets}
+\label{tab:datasets}
+\centering\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}lrrl@{}}
+\toprule
+Population & Queries & Pairs & Role \\
+\midrule
+January development & 41 & 43 & Exposed development \\
+Quarterly cutoff-defined & 3 & 3 & First observations \\
+New-context replay & 45 & 46 & Main retrospective replay \\
+Quarterly combined & 48 & 49 & Descriptive total \\
+Quarterly augmentation & 1 & 1 & Separate secondary endpoint \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Quarterly windows run January--April, April--July and July--October 2026, using opening exports for inputs and closing exports for labels. First observations require an eligible positive with no earlier positive, first-observation assignment or eligible cutoff record. Other eligible events are augmentations; mapping-only changes are excluded.
+
+Cutoff-defined keys have a predictive record with a therapy and blank interaction at opening, before drug qualification. New-context replay, defined retrospectively after the pilot, instead uses endpoint disease and profile descriptors for keys absent from that cutoff set. Retrieval and scoring still use cutoff evidence; endpoint drug and response supply labels. This is newly catalogued annotation retrieval, not prospective discovery. All 49 combined first observations cite literature from 2007--2025. January and quarterly labels share no canonical query or pair keys, which alone does not establish source independence.
+
+\subsection{Fixed policies and settings}
+\begin{table}[t]
+\caption{Baselines}
+\label{tab:baselines}
+\centering\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabularx}{\textwidth}{@{}llX@{}}
+\toprule
+Policy & Pool & Rule \\
+\midrule
+Graph & $R_0$ & Frozen SF order \\
+Mix & $R_1$ & The same SF scores on the union \\
+Append-SF & $R_1$ & $O$ then $N_{\mathrm{SF}}$ \\
+AltGraph & $R_0$ & Frozen alternative order \\
+AltAppend & $R_1$ & AltGraph then SF-ordered additions \\
+Context & $R_1$ & Full context key on the union \\
+Shared-first & $R_1$ & Shared block first; Context within blocks \\
+CIViC & $E$ & Full clinical list with SF tie-break \\
+Borda / RRF & $R_1$ & Aggregation of the same source lists \\
+\bottomrule
+\end{tabularx}
+\end{table}
+RRF minus Context is the primary same-pool contrast; RRF minus CIViC is secondary and uses different support. Context, Shared-first and RRF give two consecutive same-union changes. Graph versus Append-SF isolates additional access at fixed old positions; Eq.~\ref{eq:decomposition} diagnoses Mix versus Graph.
+
+\begin{table}[t]
+\caption{Frozen settings}
+\label{tab:settings}
+\centering\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabularx}{\textwidth}{@{}lX@{}}
+\toprule
+Setting & Definition \\
+\midrule
+Five KG features & Direct target; $\log(1+\mathrm{shared\ pathways})$; profile-pathway coverage; Jaccard; indication \\
+Three CIViC features & $\log(1+\mathrm{count})$ at A/B, C, D/E for visible drug evidence, pooled across contexts and directions \\
+SF & 8D LambdaMART; 4 trees; rate .05; 7 leaves; depth $\leq3$; minimum leaf 3; L2=1; seed 7147 \\
+AltGraph & 9D ordinal GBDT with graph-missing indicator; 2 trees; rate .05; seed 7147 \\
+Supervision & 84 train pairs / 31 queries; 16 validation pairs / 7 queries; disjoint profiles \\
+Retrieval cap & Shared pathways $\geq5$ and Jaccard $\geq0.08$; sort by decreasing Jaccard, decreasing profile-pathway coverage, then ascending name. Take Top-30 in this channel, then union with direct targets and indications. No extra cap on $E$ or $R_1$ \\
+Rank fusion & RRF: $k=60$, equal branch weights \\
+Insertion & Fixed $O$ and $N_v$ or $N_e$; $\lambda=4$ selected on development \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+For training \emph{and validation}, each candidate's registered label-defining EID union is excluded from its visible evidence. This exclusion is candidate-specific rather than publication-wide; unlabelled relevance remains unknown.
+
+\begin{samepage}
+\paragraph{Constrained insertion.}
+Both policies preserve $O=(o_i)$ and additions $N'=(n_j)$. Original insertion uses $N_v$, sorted by priority $v$, SF score and then name; evidence insertion uses $N_e$. Priority is $(a-1)/(|R_1|-1)$, with $a$ the weak-to-strong average rank of $(b,m,c,h,\ell,n)$ over $R_1$. Use SF rank instead when $b<2,n=0$, and $v=1$ for singletons. With $D(r)=1/\log_2(1+r)$ and $s=|O|$, dynamic programming maximizes
+\[
+\begin{aligned}
+&\sum_j v(n_j)\bigl[D(r_L(n_j))-D(s+j)\bigr] \\
+&\quad-\lambda\sum_i D(i)\bigl[D(i)-D(r_L(o_i))\bigr].
+\end{aligned}
+\]
+\end{samepage}
+
+\subsection{Metrics and diagnostic procedures}
+\label{sec:implementation}
+All positives remain in the denominator, with RR zero when unretrieved. For queries $Q$ containing eligible positives,
+\begin{align}
+\mathrm{MRR}_{q}(M)&=\frac{1}{|Q|}\sum_{q\in Q}\max_{d\in P(q)}\rr_M(q,d),\label{eq:mrr}\\
+\mathrm{MRR}_{p}(M)&=\frac{\sum_{q\in Q}\sum_{d\in P(q)}\rr_M(q,d)}{\sum_{q\in Q}|P(q)|}.\label{eq:pair}
+\end{align}
+HR@$K$ counts queries with a positive by rank $K$; coverage counts positive pairs in the pool. Replay query keys include the window.
+
+\paragraph{Paired dependence checks.}
+For replay we report paired RR differences and query-best-rank wins/ties/losses (W/T/L), with connected components under shared positive drugs or shared canonical positive-label sources. Partitions include transitive and cross-window links. Drug/source partitions contain 19/24 components, with largest sizes seven/six queries. Each of 10,000 PCG64 draws samples $C$ whole components with replacement. The statistic divides the summed paired differences by the \emph{actual sampled query count}, not by $C$. We report paired 95\% percentile intervals and leave-one-component analyses.
+
+\paragraph{Conditional order permutations.}
+We reuse archived 5,000-draw CIViC permutations and add 5,000 graph-order draws per cohort. Only selected within-query ranks are uniformly permuted; memberships, labels, the other branch's complete order, RRF parameters, per-candidate contribution counts and final tie rule stay fixed. Upper-tail counts use $T_{\rm perm}\geq T_{\rm obs}$ and $p=(b+1)/5001$. Holm correction covers 12 comparisons: two branches, two cohorts and MRR/HR@3/HR@5. Central 95\% ranges describe perturbations, not intervals for a method difference. Since CIViC retains SF, graph permutation tests additional graph order conditional on that list.
+
+\paragraph{Shared-source label sensitivity.}
+$I(q)$ unions IDs from cutoff evidence actually used for clinical retrieval/ordering or any candidate's SF counts, including opposing records. $L(q,d)$ contains all eligible supporting sources of a frozen positive. Normalize PubMed IDs and type other IDs; mark $I(q)\cap L(q,d)\ne\emptyset$ once, independently of hits. Remove overlapping labels only, keep ranks fixed, and drop queries without remaining positives. We report missing IDs and retained denominators. This differs from source occurrence anywhere in an opening export. All added diagnostics are post hoc; fixed settings do not make the exposed replay prospective.

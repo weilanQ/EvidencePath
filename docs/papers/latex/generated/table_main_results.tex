@@ -1,0 +1,37 @@
+% Generated from frozen artifacts; edit build_revision_tables.py, not numeric cells.
+\begin{table}[t]
+\centering
+\caption{Main results}
+\label{tab:main}
+\small
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{lrrrrrr}
+\toprule
+Method & Pair cov. & MRR$_q$ & MRR$_p$ & HR@1 & HR@3 & HR@5 \\
+\midrule
+\multicolumn{7}{l}{\textit{January development: 41 queries, 43 pairs}} \\
+Graph & 19/43 & 0.2996 & 0.2857 & 9/41 & 15/41 & 15/41 \\
+Mix & 24/43 & 0.2355 & 0.2252 & 6/41 & 12/41 & 16/41 \\
+CIViC branch & 23/43 & 0.3660 & 0.3490 & 10/41 & 20/41 & 21/41 \\
+Append-SF & 24/43 & 0.3733 & 0.3565 & 12/41 & 18/41 & 18/41 \\
+AltGraph & 19/43 & 0.3409 & 0.3250 & 12/41 & 15/41 & 15/41 \\
+AltAppend & 24/43 & 0.4146 & 0.3959 & 15/41 & 18/41 & 18/41 \\
+Borda & 24/43 & 0.4621 & 0.4411 & 17/41 & 21/41 & 22/41 \\
+Context & 24/43 & 0.3660 & 0.3496 & 10/41 & 20/41 & 21/41 \\
+Shared-first & 24/43 & 0.3750 & 0.3581 & 10/41 & 20/41 & 22/41 \\
+RRF & 24/43 & 0.4594 & 0.4386 & 17/41 & 20/41 & 22/41 \\
+\midrule
+\multicolumn{7}{l}{\textit{Retrospective new-context replay: 45 queries, 46 pairs}} \\
+Graph & 20/46 & 0.1902 & 0.1860 & 7/45 & 9/45 & 10/45 \\
+Mix & 33/46 & 0.1809 & 0.1774 & 6/45 & 8/45 & 9/45 \\
+CIViC branch & 32/46 & 0.3452 & 0.3386 & 7/45 & 23/45 & 27/45 \\
+Append-SF & 33/46 & 0.2004 & 0.1965 & 7/45 & 9/45 & 10/45 \\
+AltGraph & 20/46 & 0.1227 & 0.1201 & 2/45 & 4/45 & 11/45 \\
+AltAppend & 33/46 & 0.1330 & 0.1305 & 2/45 & 4/45 & 11/45 \\
+Borda & 33/46 & 0.3040 & 0.2979 & 9/45 & 14/45 & 16/45 \\
+Context & 33/46 & 0.3460 & 0.3389 & 7/45 & 23/45 & 27/45 \\
+Shared-first & 33/46 & 0.4265 & 0.4176 & 13/45 & 24/45 & 27/45 \\
+RRF & 33/46 & 0.3895 & 0.3816 & 11/45 & 21/45 & 27/45 \\
+\bottomrule
+\end{tabular}
+\end{table}

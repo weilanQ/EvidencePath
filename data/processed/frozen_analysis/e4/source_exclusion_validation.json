@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "positive_pairs": 46,
+  "same_source_pairs": 7,
+  "same_source_fraction": 0.15217391304347827,
+  "affected_queries": 6,
+  "retained_queries": 39,
+  "retained_positive_pairs": 39,
+  "unknown_label_pairs": 0,
+  "input_source_unknown_rows": 0,
+  "candidate_ranks_unchanged": true,
+  "all_overlap_sources_have_actual_used_eid_witnesses": true
+}

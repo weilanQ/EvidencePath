@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "source_run": "20261123T004441Z",
+  "replacement_counts": {
+    "<PROJECT_ROOT>": 11323,
+    "<USER_HOME>": 3,
+    "removed_identity_or_workflow_key": 4,
+    "<ANONYMIZED_REPOSITORY>": 6
+  },
+  "path_markers": [
+    "<PROJECT_ROOT>",
+    "<REVISION_ROOT>",
+    "<USER_HOME>",
+    "<USER>",
+    "<ANONYMIZED_REPOSITORY>"
+  ],
+  "removed_metadata_categories": [
+    "real-name repository identifier keys",
+    "personal workflow or delegation notes"
+  ],
+  "original_run_unchanged": true,
+  "raw_kg_or_full_snapshot_copies": false,
+  "metadata_erratum_applied_to_copy_only": true,
+  "original_run_unchanged_verified_files": 76,
+  "privacy_scan": {
+    "status": "passed",
+    "text_files_scanned": 110,
+    "npz_archives_scanned": 6,
+    "npz_string_arrays_scanned": 4,
+    "pdf_files_scanned": 1,
+    "identity_token_matches": 0,
+    "identity_metadata_keys": 0,
+    "absolute_windows_local_paths": 0,
+    "private_source_audit_or_cache_paths": 0
+  },
+  "unchanged_original_files_verified_by_sha256": true
+}

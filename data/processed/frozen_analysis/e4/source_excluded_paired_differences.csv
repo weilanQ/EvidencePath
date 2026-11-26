@@ -1,0 +1,169 @@
+﻿subset,qid,comparison,delta_mrr
+full_replay,W1::Biliary Tract Cancer|MP:4409,RRF - Context,-0.25
+full_replay,W1::Breast Carcinoma|MP:4409,RRF - Context,-0.25
+full_replay,W1::Cancer|MP:113,RRF - Context,0.40000000000000002
+full_replay,W1::Cancer|MP:4939,RRF - Context,0.40000000000000002
+full_replay,W1::Colorectal Cancer|MP:5117,RRF - Context,-0.5
+full_replay,W1::Colorectal Cancer|MP:5317,RRF - Context,-0.33333333333333337
+full_replay,W1::Colorectal Cancer|MP:5627,RRF - Context,-0.33333333333333337
+full_replay,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",RRF - Context,0
+full_replay,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,RRF - Context,0
+full_replay,W1::Lung Carcinoma|MP:4409,RRF - Context,-0.25
+full_replay,W1::Lung Non-small Cell Carcinoma|MP:5861,RRF - Context,0
+full_replay,W1::Lung Non-small Cell Carcinoma|MP:5862,RRF - Context,0
+full_replay,W1::Medullary Thyroid Carcinoma|MP:4938,RRF - Context,0.75
+full_replay,W1::Solid Tumor|MP:3333,RRF - Context,0
+full_replay,W1::Solid Tumor|MP:4409,RRF - Context,-0.25
+full_replay,W1::Thyroid Cancer|MP:3333,RRF - Context,0
+full_replay,W1::Uterine Cancer|MP:4409,RRF - Context,-0.25
+full_replay,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,RRF - Context,0
+full_replay,W2::Diffuse Large B-cell Lymphoma|MP:4344,RRF - Context,0
+full_replay,W2::Lung Adenocarcinoma|MP:5927,RRF - Context,0.75
+full_replay,W2::Lung Non-small Cell Carcinoma|MP:4659,RRF - Context,0
+full_replay,W2::Lung Non-small Cell Carcinoma|MP:4660,RRF - Context,0.41666666666666669
+full_replay,W2::Urinary Bladder Cancer|MP:624,RRF - Context,0
+full_replay,W3::Acral Lentiginous Melanoma|MP:423,RRF - Context,0
+full_replay,W3::Acral Lentiginous Melanoma|MP:5250,RRF - Context,0
+full_replay,W3::Acral Lentiginous Melanoma|MP:870,RRF - Context,0
+full_replay,W3::Acute Myeloid Leukemia|MP:5963,RRF - Context,0.75
+full_replay,W3::Appendix Cancer|MP:4494,RRF - Context,0
+full_replay,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,RRF - Context,-0.0013227513227513227
+full_replay,W3::Castration-resistant Prostate Carcinoma|MP:4409,RRF - Context,-0.16666666666666666
+full_replay,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,RRF - Context,0.16666666666666669
+full_replay,W3::Glioblastoma|MP:808,RRF - Context,0.5
+full_replay,W3::HER2 Positive Breast Cancer|MP:2235,RRF - Context,-0.039855072463768113
+full_replay,W3::Intrahepatic Cholangiocarcinoma|MP:6042,RRF - Context,0
+full_replay,W3::Intrahepatic Cholangiocarcinoma|MP:764,RRF - Context,0
+full_replay,W3::Malignant Ovarian Brenner Tumor|MP:624,RRF - Context,0
+full_replay,W3::Melanoma|MP:4827,RRF - Context,0
+full_replay,W3::Melanoma|MP:6034,RRF - Context,0
+full_replay,W3::Melanoma|MP:6077,RRF - Context,-0.1333333333333333
+full_replay,W3::Mucosal Melanoma|MP:95,RRF - Context,0
+full_replay,W3::Pseudomyxoma Peritonei|MP:4494,RRF - Context,0
+full_replay,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,RRF - Context,-0.16666666666666669
+full_replay,W3::Skin Melanoma|MP:6035,RRF - Context,0
+full_replay,W3::Skin Melanoma|MP:6036,RRF - Context,0.75
+full_replay,W3::Skin Melanoma|MP:6037,RRF - Context,0
+full_replay,W1::Biliary Tract Cancer|MP:4409,RRF - CIViC,-0.25
+full_replay,W1::Breast Carcinoma|MP:4409,RRF - CIViC,-0.25
+full_replay,W1::Cancer|MP:113,RRF - CIViC,0.40000000000000002
+full_replay,W1::Cancer|MP:4939,RRF - CIViC,0.40000000000000002
+full_replay,W1::Colorectal Cancer|MP:5117,RRF - CIViC,-0.5
+full_replay,W1::Colorectal Cancer|MP:5317,RRF - CIViC,-0.33333333333333337
+full_replay,W1::Colorectal Cancer|MP:5627,RRF - CIViC,-0.33333333333333337
+full_replay,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",RRF - CIViC,0
+full_replay,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,RRF - CIViC,0
+full_replay,W1::Lung Carcinoma|MP:4409,RRF - CIViC,-0.25
+full_replay,W1::Lung Non-small Cell Carcinoma|MP:5861,RRF - CIViC,0
+full_replay,W1::Lung Non-small Cell Carcinoma|MP:5862,RRF - CIViC,0
+full_replay,W1::Medullary Thyroid Carcinoma|MP:4938,RRF - CIViC,0.75
+full_replay,W1::Solid Tumor|MP:3333,RRF - CIViC,0
+full_replay,W1::Solid Tumor|MP:4409,RRF - CIViC,-0.25
+full_replay,W1::Thyroid Cancer|MP:3333,RRF - CIViC,0
+full_replay,W1::Uterine Cancer|MP:4409,RRF - CIViC,-0.25
+full_replay,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,RRF - CIViC,0
+full_replay,W2::Diffuse Large B-cell Lymphoma|MP:4344,RRF - CIViC,0
+full_replay,W2::Lung Adenocarcinoma|MP:5927,RRF - CIViC,0.75
+full_replay,W2::Lung Non-small Cell Carcinoma|MP:4659,RRF - CIViC,0
+full_replay,W2::Lung Non-small Cell Carcinoma|MP:4660,RRF - CIViC,0.41666666666666669
+full_replay,W2::Urinary Bladder Cancer|MP:624,RRF - CIViC,0
+full_replay,W3::Acral Lentiginous Melanoma|MP:423,RRF - CIViC,0
+full_replay,W3::Acral Lentiginous Melanoma|MP:5250,RRF - CIViC,0
+full_replay,W3::Acral Lentiginous Melanoma|MP:870,RRF - CIViC,0
+full_replay,W3::Acute Myeloid Leukemia|MP:5963,RRF - CIViC,0.75
+full_replay,W3::Appendix Cancer|MP:4494,RRF - CIViC,0
+full_replay,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,RRF - CIViC,0.035714285714285712
+full_replay,W3::Castration-resistant Prostate Carcinoma|MP:4409,RRF - CIViC,-0.16666666666666666
+full_replay,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,RRF - CIViC,0.16666666666666669
+full_replay,W3::Glioblastoma|MP:808,RRF - CIViC,0.5
+full_replay,W3::HER2 Positive Breast Cancer|MP:2235,RRF - CIViC,-0.039855072463768113
+full_replay,W3::Intrahepatic Cholangiocarcinoma|MP:6042,RRF - CIViC,0
+full_replay,W3::Intrahepatic Cholangiocarcinoma|MP:764,RRF - CIViC,0
+full_replay,W3::Malignant Ovarian Brenner Tumor|MP:624,RRF - CIViC,0
+full_replay,W3::Melanoma|MP:4827,RRF - CIViC,0
+full_replay,W3::Melanoma|MP:6034,RRF - CIViC,0
+full_replay,W3::Melanoma|MP:6077,RRF - CIViC,-0.1333333333333333
+full_replay,W3::Mucosal Melanoma|MP:95,RRF - CIViC,0
+full_replay,W3::Pseudomyxoma Peritonei|MP:4494,RRF - CIViC,0
+full_replay,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,RRF - CIViC,-0.16666666666666669
+full_replay,W3::Skin Melanoma|MP:6035,RRF - CIViC,0
+full_replay,W3::Skin Melanoma|MP:6036,RRF - CIViC,0.75
+full_replay,W3::Skin Melanoma|MP:6037,RRF - CIViC,0
+confirmed_overlap_removed,W1::Biliary Tract Cancer|MP:4409,RRF - Context,-0.25
+confirmed_overlap_removed,W1::Breast Carcinoma|MP:4409,RRF - Context,-0.25
+confirmed_overlap_removed,W1::Cancer|MP:113,RRF - Context,0.40000000000000002
+confirmed_overlap_removed,W1::Cancer|MP:4939,RRF - Context,0.40000000000000002
+confirmed_overlap_removed,W1::Colorectal Cancer|MP:5117,RRF - Context,-0.5
+confirmed_overlap_removed,W1::Colorectal Cancer|MP:5317,RRF - Context,-0.33333333333333337
+confirmed_overlap_removed,W1::Colorectal Cancer|MP:5627,RRF - Context,-0.33333333333333337
+confirmed_overlap_removed,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",RRF - Context,0
+confirmed_overlap_removed,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,RRF - Context,0
+confirmed_overlap_removed,W1::Lung Carcinoma|MP:4409,RRF - Context,-0.25
+confirmed_overlap_removed,W1::Lung Non-small Cell Carcinoma|MP:5861,RRF - Context,0
+confirmed_overlap_removed,W1::Lung Non-small Cell Carcinoma|MP:5862,RRF - Context,0
+confirmed_overlap_removed,W1::Medullary Thyroid Carcinoma|MP:4938,RRF - Context,0.75
+confirmed_overlap_removed,W1::Solid Tumor|MP:4409,RRF - Context,-0.25
+confirmed_overlap_removed,W1::Thyroid Cancer|MP:3333,RRF - Context,0
+confirmed_overlap_removed,W1::Uterine Cancer|MP:4409,RRF - Context,-0.25
+confirmed_overlap_removed,W2::Lung Adenocarcinoma|MP:5927,RRF - Context,0.75
+confirmed_overlap_removed,W2::Urinary Bladder Cancer|MP:624,RRF - Context,0
+confirmed_overlap_removed,W3::Acral Lentiginous Melanoma|MP:423,RRF - Context,0
+confirmed_overlap_removed,W3::Acral Lentiginous Melanoma|MP:5250,RRF - Context,0
+confirmed_overlap_removed,W3::Acral Lentiginous Melanoma|MP:870,RRF - Context,0
+confirmed_overlap_removed,W3::Acute Myeloid Leukemia|MP:5963,RRF - Context,0.75
+confirmed_overlap_removed,W3::Appendix Cancer|MP:4494,RRF - Context,0
+confirmed_overlap_removed,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,RRF - Context,-0.0013227513227513227
+confirmed_overlap_removed,W3::Castration-resistant Prostate Carcinoma|MP:4409,RRF - Context,-0.16666666666666666
+confirmed_overlap_removed,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,RRF - Context,0.16666666666666669
+confirmed_overlap_removed,W3::Glioblastoma|MP:808,RRF - Context,0.5
+confirmed_overlap_removed,W3::Intrahepatic Cholangiocarcinoma|MP:6042,RRF - Context,0
+confirmed_overlap_removed,W3::Intrahepatic Cholangiocarcinoma|MP:764,RRF - Context,0
+confirmed_overlap_removed,W3::Malignant Ovarian Brenner Tumor|MP:624,RRF - Context,0
+confirmed_overlap_removed,W3::Melanoma|MP:4827,RRF - Context,0
+confirmed_overlap_removed,W3::Melanoma|MP:6034,RRF - Context,0
+confirmed_overlap_removed,W3::Melanoma|MP:6077,RRF - Context,-0.1333333333333333
+confirmed_overlap_removed,W3::Mucosal Melanoma|MP:95,RRF - Context,0
+confirmed_overlap_removed,W3::Pseudomyxoma Peritonei|MP:4494,RRF - Context,0
+confirmed_overlap_removed,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,RRF - Context,-0.16666666666666669
+confirmed_overlap_removed,W3::Skin Melanoma|MP:6035,RRF - Context,0
+confirmed_overlap_removed,W3::Skin Melanoma|MP:6036,RRF - Context,0.75
+confirmed_overlap_removed,W3::Skin Melanoma|MP:6037,RRF - Context,0
+confirmed_overlap_removed,W1::Biliary Tract Cancer|MP:4409,RRF - CIViC,-0.25
+confirmed_overlap_removed,W1::Breast Carcinoma|MP:4409,RRF - CIViC,-0.25
+confirmed_overlap_removed,W1::Cancer|MP:113,RRF - CIViC,0.40000000000000002
+confirmed_overlap_removed,W1::Cancer|MP:4939,RRF - CIViC,0.40000000000000002
+confirmed_overlap_removed,W1::Colorectal Cancer|MP:5117,RRF - CIViC,-0.5
+confirmed_overlap_removed,W1::Colorectal Cancer|MP:5317,RRF - CIViC,-0.33333333333333337
+confirmed_overlap_removed,W1::Colorectal Cancer|MP:5627,RRF - CIViC,-0.33333333333333337
+confirmed_overlap_removed,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",RRF - CIViC,0
+confirmed_overlap_removed,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,RRF - CIViC,0
+confirmed_overlap_removed,W1::Lung Carcinoma|MP:4409,RRF - CIViC,-0.25
+confirmed_overlap_removed,W1::Lung Non-small Cell Carcinoma|MP:5861,RRF - CIViC,0
+confirmed_overlap_removed,W1::Lung Non-small Cell Carcinoma|MP:5862,RRF - CIViC,0
+confirmed_overlap_removed,W1::Medullary Thyroid Carcinoma|MP:4938,RRF - CIViC,0.75
+confirmed_overlap_removed,W1::Solid Tumor|MP:4409,RRF - CIViC,-0.25
+confirmed_overlap_removed,W1::Thyroid Cancer|MP:3333,RRF - CIViC,0
+confirmed_overlap_removed,W1::Uterine Cancer|MP:4409,RRF - CIViC,-0.25
+confirmed_overlap_removed,W2::Lung Adenocarcinoma|MP:5927,RRF - CIViC,0.75
+confirmed_overlap_removed,W2::Urinary Bladder Cancer|MP:624,RRF - CIViC,0
+confirmed_overlap_removed,W3::Acral Lentiginous Melanoma|MP:423,RRF - CIViC,0
+confirmed_overlap_removed,W3::Acral Lentiginous Melanoma|MP:5250,RRF - CIViC,0
+confirmed_overlap_removed,W3::Acral Lentiginous Melanoma|MP:870,RRF - CIViC,0
+confirmed_overlap_removed,W3::Acute Myeloid Leukemia|MP:5963,RRF - CIViC,0.75
+confirmed_overlap_removed,W3::Appendix Cancer|MP:4494,RRF - CIViC,0
+confirmed_overlap_removed,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,RRF - CIViC,0.035714285714285712
+confirmed_overlap_removed,W3::Castration-resistant Prostate Carcinoma|MP:4409,RRF - CIViC,-0.16666666666666666
+confirmed_overlap_removed,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,RRF - CIViC,0.16666666666666669
+confirmed_overlap_removed,W3::Glioblastoma|MP:808,RRF - CIViC,0.5
+confirmed_overlap_removed,W3::Intrahepatic Cholangiocarcinoma|MP:6042,RRF - CIViC,0
+confirmed_overlap_removed,W3::Intrahepatic Cholangiocarcinoma|MP:764,RRF - CIViC,0
+confirmed_overlap_removed,W3::Malignant Ovarian Brenner Tumor|MP:624,RRF - CIViC,0
+confirmed_overlap_removed,W3::Melanoma|MP:4827,RRF - CIViC,0
+confirmed_overlap_removed,W3::Melanoma|MP:6034,RRF - CIViC,0
+confirmed_overlap_removed,W3::Melanoma|MP:6077,RRF - CIViC,-0.1333333333333333
+confirmed_overlap_removed,W3::Mucosal Melanoma|MP:95,RRF - CIViC,0
+confirmed_overlap_removed,W3::Pseudomyxoma Peritonei|MP:4494,RRF - CIViC,0
+confirmed_overlap_removed,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,RRF - CIViC,-0.16666666666666669
+confirmed_overlap_removed,W3::Skin Melanoma|MP:6035,RRF - CIViC,0
+confirmed_overlap_removed,W3::Skin Melanoma|MP:6036,RRF - CIViC,0.75
+confirmed_overlap_removed,W3::Skin Melanoma|MP:6037,RRF - CIViC,0

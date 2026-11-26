@@ -1,0 +1,158 @@
+{
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\p4_final_corrections\\corrected_candidate_rankings.csv": {
+    "sha256": "2abae4dbbfcaeaffa19bad0c0d879d19465bb2b96132c15e4e13689ec5f6f294",
+    "bytes": 767390
+  },
+  "<PROJECT_ROOT>\\supplementary_experiments\\data\\quarterly_candidate_matrix_2762.csv": {
+    "sha256": "912083d7a0560c63aec2acaf650ab9b786350fbc8fa5010e5a4140ec136126a7",
+    "bytes": 756637
+  },
+  "<PROJECT_ROOT>\\supplementary_experiments\\data\\quarterly_positive_pairs_50.csv": {
+    "sha256": "1613a27b0a95d9c6dc969b2abda615598f9ae9a55426c18f29503091de81ac1b",
+    "bytes": 12534
+  },
+  "<PROJECT_ROOT>\\supplementary_experiments\\data\\january_positive_pairs_43.csv": {
+    "sha256": "7fc9fde167281d4eb19d2869c5b0f62f697e7da597eab55556dc7e9b269a631d",
+    "bytes": 9515
+  },
+  "<USER_HOME>\\Documents\\ChatGPT\\实习1\\EvidencePath_Experiment_Plan_20261123\\inputs_manifest.json": {
+    "sha256": "f796e223c89f24e9cafaaf1457f33c2c56bdd75ac2ff19bd6b7ce3f4e139db8f",
+    "bytes": 5995
+  },
+  "<PROJECT_ROOT>\\supplementary_experiments\\data\\january_candidate_matrix_1051.csv": {
+    "sha256": "522fb82b0e9607c54e89c027699ccde087c12c207291510003d3910a3d2aa90f",
+    "bytes": 269764
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\p4_final_corrections\\corrected_per_pair_comparison.csv": {
+    "sha256": "51de2a8b52c5e8103781ea331b27a785055b985e80eaee5f75a63d88453abf5d",
+    "bytes": 30340
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\continuation_temporal_v1\\new_query_evaluation\\all_event_pair_details.csv": {
+    "sha256": "c1c525acff67261b5987eafa7885e50deb346889080ab5af2c3503bbf1327002",
+    "bytes": 16869
+  },
+  "<PROJECT_ROOT>\\civic_order_shuffle_20261107\\tables\\round_level_metrics.csv": {
+    "sha256": "5f80da9e1c2cd7a95086c31964f5b308b7b541bf415093df54760cb28d62588e",
+    "bytes": 923124
+  },
+  "<PROJECT_ROOT>\\supplementary_experiments\\tables\\rrf_grid_scan_54_summary.csv": {
+    "sha256": "a616fda5a982ea3616cb12281fccd30f964eb77c21dd0fd54ad79af03f09c6fc",
+    "bytes": 7762
+  },
+  "<PROJECT_ROOT>\\civic_order_shuffle_20261107\\scripts\\run_civic_order_shuffle.py": {
+    "sha256": "cad969ae760576dba9092eb29081d45118c1adca2e7f67b47feb6041d223253e",
+    "bytes": 35696
+  },
+  "<USER_HOME>\\Desktop\\DASFAA2027 改进建议.docx": {
+    "sha256": "a089639c5df842cee33aeb6e1808658900fd8aa3f528e3e4a151ae345f52133a",
+    "bytes": 26972
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\08_final_validation\\sep26_predictions_v1\\raw_evidence_preprocessor.py": {
+    "sha256": "bbd1b1f3aa73c6fa1b1f41e71db544293264ad766fdfb3bfa524691f4a573764",
+    "bytes": 6403
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\primekg_genes.json": {
+    "sha256": "c2d524ba4d887bd6d6fb62dce54fc6cbc8244d3de012f18dbc2f3376110358f1",
+    "bytes": 281131
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\13_therapy_task_qualification_audit_detail.csv": {
+    "sha256": "df3036916a34a328b5963fbc89fe6ed077079644dee0927875e8f25d1eb1ff45",
+    "bytes": 579693
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\08_final_validation\\sep26_inputs_v2_qualification_fix\\sep26_novel_therapy_qualification_audit_v2.csv": {
+    "sha256": "b9e45ae4e56aa631aa22890e13292aaf89f016d89ec80cc25448aa8994748153",
+    "bytes": 4130
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\p4_final_corrections\\affected_queries_audit.csv": {
+    "sha256": "eb346bd51cf0c7c9b1aede53d64e3184b8333b388f879da2223ee9c962894a2d",
+    "bytes": 660
+  },
+  "<PROJECT_ROOT>\\EvidencePath_RAG_V18\\data\\raw\\civic\\historical_monthly\\01-Apr-2026-AcceptedClinicalEvidenceSummaries.tsv": {
+    "sha256": "50980c78af4c3100736e6e27e32e44acdbf74258287a619a1b59d71b940f4786",
+    "bytes": 4013860
+  },
+  "<PROJECT_ROOT>\\EvidencePath_RAG_V18\\data\\raw\\civic\\historical_monthly\\01-Jan-2026-AcceptedClinicalEvidenceSummaries.tsv": {
+    "sha256": "973a23cf7175a5942db2a21f093ec763a4df79baadb330afb5b8b9ce4b43443d",
+    "bytes": 3916170
+  },
+  "<PROJECT_ROOT>\\EvidencePath_RAG_V18\\data\\raw\\civic\\01-Jul-2026-AcceptedClinicalEvidenceSummaries.tsv": {
+    "sha256": "7277812e373f9489f3232f032378b94dc50474307e476c4d07bb891d8e31ce33",
+    "bytes": 4085714
+  },
+  "<PROJECT_ROOT>\\EvidencePath_RAG_V18\\data\\raw\\civic\\01-Oct-2026-AcceptedClinicalEvidenceSummaries.tsv": {
+    "sha256": "a618939c33c7cc9cc530be5f0a51fc330b29ad46b3f9a5bebeddcd871375e086",
+    "bytes": 4154685
+  },
+  "<PROJECT_ROOT>\\EvidencePath_RAG_V18\\data\\raw\\civic\\historical_monthly\\01-Jul-2025-AcceptedClinicalEvidenceSummaries.tsv": {
+    "sha256": "3a99c01347b24ac5462c7dabda91650707c9099c5da0162424cec62940465ff2",
+    "bytes": 3688159
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\continuation_temporal_v1\\new_query_evaluation\\new_query_candidates_and_rankings.csv": {
+    "sha256": "95a5c1b227ebec48010433f0fced7d546be19f9f28f1b9b524c76bf367ccf467",
+    "bytes": 325996
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\08_final_validation\\sep26_predictions_v1\\run_sep26_predictions.py": {
+    "sha256": "87fa1ff1f466c95c4736b6aa820609ec950ba9c99fcac85e88ef00f5322f1216",
+    "bytes": 35645
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\results\\03_features_july_trainval.csv": {
+    "sha256": "6ac44a808f8894141083da77c69ccbe5b15fa864c39e4d4e3929e477d8cc07e7",
+    "bytes": 32200
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\results\\02_anchor_exclusion_details_v2.csv": {
+    "sha256": "2401640ff037743fc0c8762d320b9ecbe85e40552654a0e32ba64fb223b0e3bc",
+    "bytes": 22515
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\results\\02_candidate_visible_linkage_details_v2.csv": {
+    "sha256": "e4e23d6054b94871f0bf6fc7464d8e6462df5cf588fbd023d1ece4a89f57c6dc",
+    "bytes": 1848945
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\results\\sf_july_recovery\\recovery_config_and_provenance.json": {
+    "sha256": "5be9b9a82ab2bc93473e7d469ea672b447d0c47c4beab845c5d8346dbe0f3607",
+    "bytes": 5253
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\results\\extended_supervision_v1\\02_selected_models_metadata.json": {
+    "sha256": "a64a256897ffba677262b8973f757af5d1b4b768e6ef2972e2f2e4294d95e02a",
+    "bytes": 17107
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\results\\sf_july_recovery\\sf_july_simple_fusion_lambdamart_4iter.txt": {
+    "sha256": "40dfd92427aa99406f394bbef3870faaa4732872aef3a5faf55c7d15d6ccd0dc",
+    "bytes": 6457
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\08_final_validation\\inference_adapter_v2_raw_rebuild\\feature_extractor.py": {
+    "sha256": "c5ef5a24d38e97afa2d80c00de518b5703994f1844b25651dfc5c497b8268d8d",
+    "bytes": 5228
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\08_final_validation\\inference_adapter_v2_raw_rebuild\\candidate_generator.py": {
+    "sha256": "6c2bee05d87ad16774a659a94d10263eca523d7760b08ba89d445d04650ad217",
+    "bytes": 10942
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\08_final_validation\\inference_adapter_v2_raw_rebuild\\inference_config.yaml": {
+    "sha256": "b227d436189bc65dc4f97b97c069b2a520b9035db5dcb1f7d61aa17d23aeccb6",
+    "bytes": 1607
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\p4_constrained_insertion_v1\\p4_january_lambda_tuning.csv": {
+    "sha256": "9ab2190f98c0969849a46f15e2d2e819a1fcac24b58f17ec886b227a36e8b32d",
+    "bytes": 343
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\continuation_temporal_v1\\input_sources.csv": {
+    "sha256": "0e02605953965661afd3d54cf0eac0623758072c88912ab6b4518106d7b0568a",
+    "bytes": 3162
+  },
+  "<PROJECT_ROOT>\\EvidencePath_RAG_V18\\data\\raw\\primekg\\kg.csv": {
+    "sha256": "0a5a010fcd88dcec572a573d98c26c1c244a11567092b6161d3ded611cfb5c69",
+    "bytes": 981751236
+  },
+  "<PROJECT_ROOT>\\EvidencePath_RAG_V18\\results\\next_stage\\E4_temporal_external\\MAR_SEP_v2\\run_20260916T035038_777206Z\\week2\\week2_query_universe.csv": {
+    "sha256": "332c44e6e72c8ffb9e251c4eb1411014e9afae5eee6ec7500c17eb16c70290dc",
+    "bytes": 9586
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\p3_revision_v2_metric_reconciliation\\seven_conditions_summary_results.csv": {
+    "sha256": "68794d19d7d3d51b4b19860d3f8ff0f760c8aa5fa39b813c78caa22531c05a86",
+    "bytes": 1961
+  },
+  "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\09_defining_anchor_eids_registry.csv": {
+    "sha256": "5fbf66885e7eb201176fac95fcfee2244907c31eeda75bc416497dc5a25b9ec0",
+    "bytes": 298076
+  }
+}

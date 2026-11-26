@@ -1,0 +1,207 @@
+{
+  "status": "passed",
+  "source_run": "20261123T004441Z",
+  "checks": [
+    {
+      "file": "INTEGRATION_NOTES.txt",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "fedc6e244bc52701ec62169eb48f38e5c3d04b8ee5b625f594182f468f642d22",
+      "reference_sha256": "fedc6e244bc52701ec62169eb48f38e5c3d04b8ee5b625f594182f468f642d22"
+    },
+    {
+      "file": "audited_candidate_coverage.csv",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "e04ad85fca2fa81e2acf687924d3c99cc6b25948d6f66d05dc08f3a65aabf174",
+      "reference_sha256": "e04ad85fca2fa81e2acf687924d3c99cc6b25948d6f66d05dc08f3a65aabf174"
+    },
+    {
+      "file": "audited_case_comparison.csv",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "c9834ea922695f5596bac0f2e18c0abb3a70a8b02146d1c210577d54f522a95c",
+      "reference_sha256": "c9834ea922695f5596bac0f2e18c0abb3a70a8b02146d1c210577d54f522a95c"
+    },
+    {
+      "file": "audited_main_results.csv",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "18780d72633ea354e77f45ed7caf396c254522f76a23abc3b6a46766ed6fbeeb",
+      "reference_sha256": "18780d72633ea354e77f45ed7caf396c254522f76a23abc3b6a46766ed6fbeeb"
+    },
+    {
+      "file": "figure_hrk.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "65ba8358123fdd6b18f9d628150f1572d4d1a1b65aeea97b15a4f463aec5db86",
+      "reference_sha256": "65ba8358123fdd6b18f9d628150f1572d4d1a1b65aeea97b15a4f463aec5db86"
+    },
+    {
+      "file": "figure_legend_mapping.json",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "712c28ca1f5f67a2360ea86917c9cd628c26ff4ae7920dbfd5476393acc55a3d",
+      "reference_sha256": "712c28ca1f5f67a2360ea86917c9cd628c26ff4ae7920dbfd5476393acc55a3d"
+    },
+    {
+      "file": "replay_hr_at_k_with_context.png",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "33b73788290b7a1666066bec617098ac20a9697b3e61c5d95326843f5dc14312",
+      "reference_sha256": "33b73788290b7a1666066bec617098ac20a9697b3e61c5d95326843f5dc14312"
+    },
+    {
+      "file": "table_branch_lengths.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "043cb549781a8a5460c8bb95f5c83b64a9b7d10c971585c07a5d5097cee10d50",
+      "reference_sha256": "043cb549781a8a5460c8bb95f5c83b64a9b7d10c971585c07a5d5097cee10d50"
+    },
+    {
+      "file": "table_candidate_coverage.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "9e61213b6f9161b4b28d0da86c0e0cece86dd33ba069f48378e1243bc0037d45",
+      "reference_sha256": "9e61213b6f9161b4b28d0da86c0e0cece86dd33ba069f48378e1243bc0037d45"
+    },
+    {
+      "file": "table_cases_with_context.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "715749801146ca6a88f6fdfdfcdbb1bc07707ee4a83132d1dbe9d41ae20b2359",
+      "reference_sha256": "715749801146ca6a88f6fdfdfcdbb1bc07707ee4a83132d1dbe9d41ae20b2359"
+    },
+    {
+      "file": "table_main_results.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "f7c4de9e54a19007e6869ed5221927992a80736d6ed4bfc97a07a8ffbb315cd4",
+      "reference_sha256": "f7c4de9e54a19007e6869ed5221927992a80736d6ed4bfc97a07a8ffbb315cd4"
+    },
+    {
+      "file": "table_new_old_tradeoff.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "4f51a9d2d0fe3bc7a8c818c25884a1b84eb6f2702f2637114fd07217fbce8066",
+      "reference_sha256": "4f51a9d2d0fe3bc7a8c818c25884a1b84eb6f2702f2637114fd07217fbce8066"
+    },
+    {
+      "file": "table_paired_replay.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "2b3bd05b7b2b45c7e98ea3ec873054b08f951736fc50996395c96874e2c74375",
+      "reference_sha256": "2b3bd05b7b2b45c7e98ea3ec873054b08f951736fc50996395c96874e2c74375"
+    },
+    {
+      "file": "table_shuffle_all_supp.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "a7fa90bb7e246607f76c3088934c23d3439d8db44b3fd24ebad71da0e9706e6d",
+      "reference_sha256": "a7fa90bb7e246607f76c3088934c23d3439d8db44b3fd24ebad71da0e9706e6d"
+    },
+    {
+      "file": "table_shuffle_replay.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "fbce758b51ab9c2aa65637b20ee1ad7681986cd72cdc7d778d9ef3df9e60c412",
+      "reference_sha256": "fbce758b51ab9c2aa65637b20ee1ad7681986cd72cdc7d778d9ef3df9e60c412"
+    },
+    {
+      "file": "table_source_excluded.tex",
+      "comparison": "byte-for-byte",
+      "same": true,
+      "packaged_sha256": "205cc3e081e12539ef94749b8ab4419021415197d73662ea4a7d076c8a01bb3c",
+      "reference_sha256": "205cc3e081e12539ef94749b8ab4419021415197d73662ea4a7d076c8a01bb3c"
+    },
+    {
+      "file": "replay_hr_at_k_with_context.pdf",
+      "comparison": "rendered RGB pixels at 144 dpi; PDF timestamps ignored",
+      "same": true,
+      "pages": [
+        {
+          "width": 689,
+          "height": 506,
+          "sha256": "b18b637eb139d9c11c78a6d3a12b5e1d2d68482f9cfb1bbc5b148d3b64e32278"
+        }
+      ]
+    },
+    {
+      "file": "tables_validation.json",
+      "comparison": "all scientific validation fields; anonymized input manifests and separate layout audits excluded",
+      "same": true
+    }
+  ],
+  "comparison_scope": "Regeneration matches the current title-only fragments; prior-version comparison retains row/column text and numeric cells while ignoring captions, removed notes, math-mode delimiters and visual whitespace.",
+  "regeneration_matches_current_short_caption_fragments": true,
+  "prior_version_table_body_checks": [
+    {
+      "file": "table_branch_lengths.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Branch lengths",
+      "below_table_notes_removed": true
+    },
+    {
+      "file": "table_candidate_coverage.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Candidate coverage",
+      "below_table_notes_removed": true
+    },
+    {
+      "file": "table_cases_with_context.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Case study",
+      "below_table_notes_removed": true
+    },
+    {
+      "file": "table_main_results.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Main results",
+      "below_table_notes_removed": true
+    },
+    {
+      "file": "table_new_old_tradeoff.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Positive retention",
+      "below_table_notes_removed": true
+    },
+    {
+      "file": "table_paired_replay.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Paired replay comparisons",
+      "below_table_notes_removed": true
+    },
+    {
+      "file": "table_shuffle_all_supp.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Order shuffles across cohorts",
+      "below_table_notes_removed": true
+    },
+    {
+      "file": "table_shuffle_replay.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Order shuffles",
+      "below_table_notes_removed": true
+    },
+    {
+      "file": "table_source_excluded.tex",
+      "table_rows_columns_and_numeric_cells_identical": true,
+      "comparison": "text, row/column separators and numeric cells; math-mode delimiters and visual whitespace ignored",
+      "caption": "Source exclusion",
+      "below_table_notes_removed": true
+    }
+  ],
+  "prior_version_numeric_csvs_identical": true,
+  "caption_style_revision": "Names only; explanatory captions and below-table notes belong in manuscript prose.",
+  "interval_style_revision": "Paired and shuffle interval cells use math mode and thin spacing at small size; all brackets, bounds and signs are preserved.",
+  "figure_png_bytes_identical": true,
+  "figure_pdf_rendered_pixels_identical": true
+}

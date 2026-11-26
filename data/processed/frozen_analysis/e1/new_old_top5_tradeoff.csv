@@ -1,0 +1,4 @@
+﻿method,evidence_exclusive_positive_pairs,evidence_exclusive_top5,append_sf_original_top5_pairs,original_top5_retained
+Context,13,11,10,7
+RRF,13,8,10,10
+SharedFirstContext,13,9,10,9

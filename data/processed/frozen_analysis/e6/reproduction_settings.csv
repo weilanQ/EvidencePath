@@ -1,0 +1,13 @@
+﻿setting,value,verification
+Five KG features,direct target; log1p shared pathway count; profile pathway coverage; pathway Jaccard; cancer indication,frozen feature extractor inspected and hashed
+Three CIViC features,"log1p predictive drug evidence counts at A/B, C, D/E; all directions and contexts retained",300 train/validation candidate-feature values independently recomputed from visible links
+Training / validation,84 pairs / 31 queries; 16 pairs / 7 queries; molecular profiles disjoint,frozen feature table counted in this run
+SF,"{""objective"": ""lambdarank"", ""metric"": ""None"", ""label_gain"": [0, 1, 3], ""learning_rate"": 0.05, ""n_estimators"": 4, ""num_leaves"": 7, ""max_depth"": 3, ""min_child_samples"": 3, ""reg_lambda"": 1.0, ""subsample"": 1.0, ""colsample_bytree"": 1.0, ""random_state"": 7147, ""n_jobs"": 4, ""deterministic"": true, ""force_col_wise"": true, ""verbosity"": -1}",archived metadata and model file hash; no fit invoked
+AltGraph,"{""n_estimators"": 2, ""learning_rate"": 0.05, ""max_depth"": 3, ""min_samples_leaf"": 3, ""alpha_aux"": 0.0, ""random_state"": 7147, ""epsilon"": 0.0001, ""mu_total"": 1.9360753080098285e-21, ""cutpoints"": {""theta_1"": -1.9360753080098285e-21, ""rho"": 0.541324854612918, ""theta_2"": 1.0001, ""gap"": 1.0001}}","archived metadata; 9D, 2 trees, learning rate 0.05; no fit invoked"
+Unlabelled pairs,not converted to negative labels; only archived judged supervised rows used,no supervision created in current run
+Candidate limit,共享通路候选：shared>=5且Jaccard>=0.08，依Jaccard降序、覆盖率降序、规范名称升序取Top-30，与直接靶点及适应证候选取并；不是总R0上限30；临床分支及最终并集无额外截断,"Verified against frozen candidate_generator.py lines 172–204; documentation-only erratum, no frozen ranks or results changed."
+Anchor exclusion,candidate-specific label EID union excluded for both train and validation; all 3 SF derived counts match visible EID links,zero pair-specific anchor intersection in 84 training and 16 validation rows; this does not mean publication-level exclusion
+Insertion,fixed O and additions; discounted promotion benefit minus lambda old-rank displacement penalty; Nv ordered by v then SF then drug name,archived implementation and January lambda table; not re-optimized on replay
+Insertion lambda,lambda=4 selected on 41-query January development; archived sweep copied,p4_january_lambda_tuning.csv
+Drug aliases,imatinib mesylate -> imatinib; regorafenib anhydrous -> regorafenib; datopotamab deruxtecan regimen -> datopotamab deruxtecan,frozen preprocessor code; input hash recorded
+Historical KG retrieval,fixed PrimeKG and disease mapping; all resource hashes match archived registry,resource_versions.csv; no retraining or fresh KG feature rebuild required for these rank diagnostics

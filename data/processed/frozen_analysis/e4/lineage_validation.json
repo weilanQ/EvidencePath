@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "label_support_rows": 96,
+  "actual_query_evidence_rows": 11171,
+  "label_source_unknown_rows": 0,
+  "input_source_unknown_rows": 0,
+  "evidence_membership_mismatches": 0,
+  "context_rank_mismatches": 0,
+  "existing_frozen_event_eids_verified": 46,
+  "endpoint_scope": "Only source metadata for existing frozen positive pairs; P6 pilot excluded; no new labels or outcomes selected"
+}

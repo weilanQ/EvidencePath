@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "paired_queries": 45,
+  "bootstrap_rounds_per_partition": 10000,
+  "query_weighting_explicitly_verified": true,
+  "source_label_unknown_rows": 0
+}

@@ -1,0 +1,13 @@
+{
+  "artifact": "EvidencePath GA09 research release",
+  "version": "1.0",
+  "date": "2026-11-23",
+  "source_run": "20261123T004441Z",
+  "baseline_reference_commit": "e6135082b9701b2e194af0d87fd4a1d156324f44",
+  "title": "EvidencePath: Analyzing Candidate Coverage and Ranking in Cross-Cancer Drug Retrieval",
+  "main_pages": 16,
+  "companion_pages": 8,
+  "reproduction_scope": "Frozen-ranking reconstruction, figure generation and saved-evidence verification; not raw-resource extraction or model training.",
+  "contact": "Anonymous authors; identifying contact details withheld during double-blind review.",
+  "remote_commit": "Assigned by the publication workflow; consult the downloaded archive's repository commit."
+}

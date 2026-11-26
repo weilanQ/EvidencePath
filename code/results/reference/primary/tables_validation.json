@@ -1,0 +1,108 @@
+{
+  "status": "passed",
+  "source_run": "20261123T004441Z",
+  "main_methods_per_cohort": 10,
+  "borda_independently_reconstructed": true,
+  "all_summary_methods_recomputed_from_frozen_ranks": true,
+  "replay_support_records": {
+    "Graph $R_0$": 1262,
+    "Evidence $E$": 438,
+    "Union $R_1$": 1580,
+    "Shared $R_0\\cap E$": 120,
+    "Graph only": 1142,
+    "Evidence only": 318
+  },
+  "replay_support_positive_pairs": {
+    "Graph $R_0$": 20,
+    "Evidence $E$": 32,
+    "Union $R_1$": 33,
+    "Shared $R_0\\cap E$": 19,
+    "Graph only": 1,
+    "Evidence only": 13
+  },
+  "case_rows": 5,
+  "figure_queries": 45,
+  "figure_positive_pairs": 46,
+  "dependencies": [
+    "booktabs",
+    "graphicx"
+  ],
+  "input_manifest": {
+    "e2/membership_diagnostic_summary.csv": {
+      "sha256": "5670414ea62c0782ddac12130cb613f417c3978b85f31046ed29c6a03ec469d8",
+      "bytes": 1530
+    },
+    "e0/frozen_analysis_bundle/development_candidates.csv": {
+      "sha256": "924298192720c75b6921fe3e1582bf75b48fd401a7a4902afba81da9e070709a",
+      "bytes": 380276
+    },
+    "e0/frozen_analysis_bundle/development_labels.csv": {
+      "sha256": "e360327d8810fbbb2f65ef99fa7aa7b9a00b41b1e0384a21383b61065bf56dd5",
+      "bytes": 11346
+    },
+    "e2/development_shared_first_rankings.csv": {
+      "sha256": "87a1aba52b71e6d3eb594d1c871bec1b1adb733e188a6965cc8781f1b2a64aab",
+      "bytes": 383130
+    },
+    "e0/frozen_analysis_bundle/replay_candidates.csv": {
+      "sha256": "429a1c4114f8e2eb930ed2e3d2ec702e21c29aa85c1a1124d4f0a65fb75bc155",
+      "bytes": 473741
+    },
+    "e0/frozen_analysis_bundle/replay_labels.csv": {
+      "sha256": "49501a1cdc922ebd0735c50ff5a2175237660ea48f56bc45e330cf91bce1ecf7",
+      "bytes": 13146
+    },
+    "e2/replay_shared_first_rankings.csv": {
+      "sha256": "8b1fe48aa2b4e1c53623bbd00f26420ddf1fdaabcbd0f63b6edbf32a47fefa30",
+      "bytes": 478108
+    },
+    "e1/strong_baseline_summary.csv": {
+      "sha256": "e6ee053ecb5c2eb518f17dcc55ba97dfbf9580cdc14c459beede3445d4a35dae",
+      "bytes": 446
+    },
+    "e1/bootstrap_confidence_intervals.csv": {
+      "sha256": "43f452da4a54b33def7281a3acc3f15b5553e28df0f86679f818afe9c6490bc8",
+      "bytes": 3502
+    },
+    "e1/new_old_top5_tradeoff.csv": {
+      "sha256": "fe1b6328ff364db8ca30f4117822639b1f7b263251817251eca7cbad38fe9d36",
+      "bytes": 188
+    },
+    "e2/branch_length_summary.csv": {
+      "sha256": "b3758e63352a0ae6d23bc5d7b5d0391ff18c6750d8bfaea67c0710f728cda2d8",
+      "bytes": 167
+    },
+    "e3/permutation_tail_tests.csv": {
+      "sha256": "ec40c463ef562bb5c9202c2a0339b92da9215455dbdfaa4c2812dfbc189e7da5",
+      "bytes": 2586
+    },
+    "e4/source_excluded_metrics.csv": {
+      "sha256": "d13c6d98c45a6e5a947c82e4a76c1c8b1e90f61b4a0446d4be5f3514e65b5eb1",
+      "bytes": 627
+    },
+    "e6/case_rankings_with_context.csv": {
+      "sha256": "32ce79922400d68cccc6c73d4af236ce867f3f0862faf1c3a567ebf3b622dda2",
+      "bytes": 1784
+    }
+  },
+  "outputs": [
+    "INTEGRATION_NOTES.txt",
+    "audited_candidate_coverage.csv",
+    "audited_case_comparison.csv",
+    "audited_main_results.csv",
+    "figure_hrk.tex",
+    "figure_legend_mapping.json",
+    "replay_hr_at_k_with_context.pdf",
+    "replay_hr_at_k_with_context.png",
+    "table_branch_lengths.tex",
+    "table_candidate_coverage.tex",
+    "table_cases_with_context.tex",
+    "table_main_results.tex",
+    "table_new_old_tradeoff.tex",
+    "table_paired_replay.tex",
+    "table_shuffle_all_supp.tex",
+    "table_shuffle_replay.tex",
+    "table_source_excluded.tex",
+    "tables_validation.json"
+  ]
+}

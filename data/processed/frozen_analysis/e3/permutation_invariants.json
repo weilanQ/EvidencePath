@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "rrf_exact_fraction_score_levels": true,
+  "seed": 7147,
+  "rounds_per_cohort": 5000,
+  "graph_permutations_saved": true,
+  "memberships_unchanged": true,
+  "clinical_order_fixed": true,
+  "max_rank_dynamic": 50,
+  "tail_numeric_tolerance_mrr": 1e-12,
+  "holm_family_size": 12,
+  "existing_civic_rounds_reused_and_hashed": true
+}

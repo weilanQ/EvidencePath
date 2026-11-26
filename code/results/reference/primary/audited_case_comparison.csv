@@ -1,0 +1,6 @@
+﻿window_id,query_id,positive_drug,Append-SF,AltAppend,Context,Shared-first,RRF
+Jul25_Jan26,Breast Cancer|MP:263,dovitinib,41.0,41.0,1.0,4.0,5.0
+Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,33.0,6.0,40.0,40.0,41.0
+W1,Colorectal Cancer|MP:5117,pembrolizumab,7.0,7.0,1.0,1.0,2.0
+W1,"Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",dordaviprone,14.0,14.0,1.0,1.0,1.0
+W3,Melanoma|MP:281,belvarafenib,,,,,

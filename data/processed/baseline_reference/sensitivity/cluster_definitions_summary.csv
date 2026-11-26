@@ -1,0 +1,36 @@
+structure_type,cluster_id,cluster_size,query_percentage,connection_basis_drugs,member_queries,connection_basis_sources
+Drug_Structure,Drug_C1,14,34.146341463414636,entrectinib,"Anaplastic Astrocytoma|MP:779; Congenital Fibrosarcoma|MP:4167; Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931; Diffuse Midline Glioma, H3 K27M-mutant|MP:2639; Ganglioglioma|MP:4932; Ganglioneuroblastoma|MP:3027; Glioblastoma|MP:779; High Grade Glioma|MP:3333; Inflammatory Myofibroblastic Tumor|MP:4476; Inflammatory Myofibroblastic Tumor|MP:572; Low Grade Glioma|MP:2639; Melanoma|MP:779; Myofibroma|MP:2861; Solid Tumor|MP:5163",
+Drug_Structure,Drug_C2,7,17.073170731707318,sunvozertinib,Lung Non-small Cell Carcinoma|MP:5687; Lung Non-small Cell Carcinoma|MP:5688; Lung Non-small Cell Carcinoma|MP:5690; Lung Non-small Cell Carcinoma|MP:5691; Lung Non-small Cell Carcinoma|MP:5782; Lung Non-small Cell Carcinoma|MP:5787; Lung Non-small Cell Carcinoma|MP:707,
+Drug_Structure,Drug_C3,3,7.317073170731707,zongertinib,Lung Non-small Cell Carcinoma|MP:4463; Lung Non-small Cell Carcinoma|MP:5606; Lung Non-small Cell Carcinoma|MP:662,
+Drug_Structure,Drug_C4,2,4.878048780487805,larotrectinib,Congenital Fibrosarcoma|MP:779; Gliosarcoma|MP:3333,
+Drug_Structure,Drug_C5,2,4.878048780487805,trabectedin,Extraskeletal Myxoid Chondrosarcoma|MP:5622; Mesenchymal Chondrosarcoma|MP:2454,
+Drug_Structure,Drug_C6,2,4.878048780487805,nsc84167,Lung Non-small Cell Carcinoma|MP:5386; Pancreatic Ductal Adenocarcinoma|MP:5613,
+Drug_Structure,Drug_C7,1,2.4390243902439024,midostaurin,Acute Myeloid Leukemia|MP:3070,
+Drug_Structure,Drug_C8,1,2.4390243902439024,dovitinib; erdafitinib; futibatinib,Breast Cancer|MP:263,
+Drug_Structure,Drug_C9,1,2.4390243902439024,hci-2509,Ewing Sarcoma|MP:687,
+Drug_Structure,Drug_C10,1,2.4390243902439024,lestaurtinib,Leukemia|MP:2880,
+Drug_Structure,Drug_C11,1,2.4390243902439024,datopotamab deruxtecan,Lung Non-small Cell Carcinoma|MP:438,
+Drug_Structure,Drug_C12,1,2.4390243902439024,atezolizumab,Lung Non-small Cell Carcinoma|MP:5117,
+Drug_Structure,Drug_C13,1,2.4390243902439024,selpercatinib,Medullary Thyroid Carcinoma|MP:4447,
+Drug_Structure,Drug_C14,1,2.4390243902439024,letetresgene autoleucel,Myxoid Liposarcoma|MP:5614,
+Drug_Structure,Drug_C15,1,2.4390243902439024,roflumilast,Pancreatic Ductal Adenocarcinoma|MP:481,
+Drug_Structure,Drug_C16,1,2.4390243902439024,selumetinib,Plexiform Neurofibroma|MP:583,
+Drug_Structure,Drug_C17,1,2.4390243902439024,pembrolizumab,Solid Tumor|MP:5117,
+Source_Structure,Source_C1,14,34.146341463414636,,"Anaplastic Astrocytoma|MP:779; Congenital Fibrosarcoma|MP:4167; Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931; Diffuse Midline Glioma, H3 K27M-mutant|MP:2639; Ganglioglioma|MP:4932; Ganglioneuroblastoma|MP:3027; Glioblastoma|MP:779; High Grade Glioma|MP:3333; Inflammatory Myofibroblastic Tumor|MP:4476; Inflammatory Myofibroblastic Tumor|MP:572; Low Grade Glioma|MP:2639; Melanoma|MP:779; Myofibroma|MP:2861; Solid Tumor|MP:5163",PUBMED:35395680
+Source_Structure,Source_C2,7,17.073170731707318,,Lung Non-small Cell Carcinoma|MP:5687; Lung Non-small Cell Carcinoma|MP:5688; Lung Non-small Cell Carcinoma|MP:5690; Lung Non-small Cell Carcinoma|MP:5691; Lung Non-small Cell Carcinoma|MP:5782; Lung Non-small Cell Carcinoma|MP:5787; Lung Non-small Cell Carcinoma|MP:707,PUBMED:40923280
+Source_Structure,Source_C3,3,7.317073170731707,,Lung Non-small Cell Carcinoma|MP:4463; Lung Non-small Cell Carcinoma|MP:5606; Lung Non-small Cell Carcinoma|MP:662,PUBMED:40293180
+Source_Structure,Source_C4,2,4.878048780487805,,Extraskeletal Myxoid Chondrosarcoma|MP:5622; Mesenchymal Chondrosarcoma|MP:2454,PUBMED:27418251
+Source_Structure,Source_C5,2,4.878048780487805,,Lung Non-small Cell Carcinoma|MP:5386; Pancreatic Ductal Adenocarcinoma|MP:5613,PUBMED:34247201
+Source_Structure,Source_C6,1,2.4390243902439024,,Acute Myeloid Leukemia|MP:3070,PUBMED:15178581
+Source_Structure,Source_C7,1,2.4390243902439024,,Breast Cancer|MP:263,PUBMED:28183331; PUBMED:32973082; PUBMED:38603651
+Source_Structure,Source_C8,1,2.4390243902439024,,Congenital Fibrosarcoma|MP:779,PUBMED:32223937
+Source_Structure,Source_C9,1,2.4390243902439024,,Ewing Sarcoma|MP:687,PUBMED:24963049
+Source_Structure,Source_C10,1,2.4390243902439024,,Gliosarcoma|MP:3333,PUBMED:35034013
+Source_Structure,Source_C11,1,2.4390243902439024,,Leukemia|MP:2880,PUBMED:28077790
+Source_Structure,Source_C12,1,2.4390243902439024,,Lung Non-small Cell Carcinoma|MP:438,PUBMED:39250535; PUBMED:39761483
+Source_Structure,Source_C13,1,2.4390243902439024,,Lung Non-small Cell Carcinoma|MP:5117,PUBMED:30082870
+Source_Structure,Source_C14,1,2.4390243902439024,,Medullary Thyroid Carcinoma|MP:4447,PUBMED:29912274
+Source_Structure,Source_C15,1,2.4390243902439024,,Myxoid Liposarcoma|MP:5614,PUBMED:39836945
+Source_Structure,Source_C16,1,2.4390243902439024,,Pancreatic Ductal Adenocarcinoma|MP:481,PUBMED:38461159
+Source_Structure,Source_C17,1,2.4390243902439024,,Plexiform Neurofibroma|MP:583,PUBMED:32187457
+Source_Structure,Source_C18,1,2.4390243902439024,,Solid Tumor|MP:5117,PUBMED:30309915

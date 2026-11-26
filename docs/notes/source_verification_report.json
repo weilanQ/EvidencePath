@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": {
+    "all_32_bootstrap_intervals_recomputed_from_10000_archived_replicates": true,
+    "cluster_sampling_retains_query_weighting": true,
+    "all_12_permutation_tails_and_holm_corrections_recomputed": true,
+    "all_46_actual_input_source_overlap_classifications_recomputed": true,
+    "all_45_displacement_identities_recomputed_with_exact_fractions": true,
+    "portable_table_builder_recomputed_10_main_policies_per_cohort": true,
+    "corrected_candidate_limit_description_present": true
+  },
+  "max_confidence_interval_error": 8.326672684688674e-17,
+  "max_permutation_summary_error": 2.220446049250313e-16,
+  "scope": "Verification from frozen ranks, archived query evidence, resampling indices and saved diagnostic replicates. No raw-KG feature extraction or model training."
+}

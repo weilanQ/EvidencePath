@@ -1,0 +1,3 @@
+﻿endpoint_category,q_eval_count,total_positive_pairs,q_eval_queries,pairs_detail
+first_observed_pairs,2,2,Melanoma|MP:281 | Melanoma|MP:96,"{'Melanoma|MP:281': ['belvarafenib'], 'Melanoma|MP:96': ['belvarafenib']}"
+evidence_boosted_pairs,0,0,,{}

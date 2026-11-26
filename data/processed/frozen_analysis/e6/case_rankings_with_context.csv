@@ -1,0 +1,20 @@
+﻿evaluation_group,window_id,query_id,positive_drug,covered,Graph_rank,Mix_rank,Append_SF_rank,CIViC_rank,Context_rank,RRF_rank,SharedFirstContext_rank
+DEVELOPMENT_REF_JUL25_JAN26,Jul25_Jan26,Breast Cancer|MP:263,dovitinib,True,,38,41,1,1,5,4
+DEVELOPMENT_REF_JUL25_JAN26,Jul25_Jan26,Breast Cancer|MP:263,erdafitinib,True,33,39,33,,40,41,40
+DEVELOPMENT_REF_JUL25_JAN26,Jul25_Jan26,Solid Tumor|MP:5117,pembrolizumab,True,,1,1,1,1,1,1
+NEW_ENDPOINT_QUERY,W1,Colorectal Cancer|MP:5117,pembrolizumab,True,,6,7,1,1,2,1
+NEW_ENDPOINT_QUERY,W1,"Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",dordaviprone,True,,8,14,1,1,1,1
+NEW_ENDPOINT_QUERY,W2,Urinary Bladder Cancer|MP:624,erdafitinib,True,34,37,34,2,2,2,2
+FIXED_PRE_CUTOFF,W3,Melanoma|MP:281,belvarafenib,False,,,,,,,
+FIXED_PRE_CUTOFF,W3,Melanoma|MP:96,belvarafenib,False,,,,,,,
+NEW_ENDPOINT_QUERY,W3,Acral Lentiginous Melanoma|MP:423,belvarafenib,False,,,,,,,
+NEW_ENDPOINT_QUERY,W3,Acral Lentiginous Melanoma|MP:870,belvarafenib,False,,,,,,,
+NEW_ENDPOINT_QUERY,W3,Dysembryoplastic Neuroepithelial Tumor|MP:4692,erdafitinib,True,31,39,31,3,3,2,1
+NEW_ENDPOINT_QUERY,W3,Glioblastoma|MP:808,erdafitinib,True,34,37,34,2,2,1,1
+NEW_ENDPOINT_QUERY,W3,Intrahepatic Cholangiocarcinoma|MP:6042,erdafitinib,True,33,37,33,3,3,3,1
+NEW_ENDPOINT_QUERY,W3,Intrahepatic Cholangiocarcinoma|MP:764,erdafitinib,True,33,37,33,3,3,3,1
+NEW_ENDPOINT_QUERY,W3,Malignant Ovarian Brenner Tumor|MP:624,erdafitinib,True,32,35,32,2,2,2,2
+NEW_ENDPOINT_QUERY,W3,Melanoma|MP:4827,belvarafenib,False,,,,,,,
+NEW_ENDPOINT_QUERY,W3,Mucosal Melanoma|MP:95,belvarafenib,False,,,,,,,
+NEW_ENDPOINT_QUERY,W3,Salivary Gland Adenoid Cystic Carcinoma|MP:6041,erdafitinib,True,33,37,33,2,2,3,1
+NEW_ENDPOINT_QUERY,W3,Skin Melanoma|MP:6037,belvarafenib,False,,,,,,,

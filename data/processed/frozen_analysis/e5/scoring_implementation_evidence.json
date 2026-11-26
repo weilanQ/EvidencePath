@@ -1,0 +1,35 @@
+{
+  "code_path": "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\08_final_validation\\sep26_predictions_v1\\run_sep26_predictions.py",
+  "code_sha256": "87fa1ff1f466c95c4736b6aa820609ec950ba9c99fcac85e88ef00f5322f1216",
+  "excerpt": [
+    {
+      "line": 437,
+      "code": "def execute_inference_pipeline("
+    },
+    {
+      "line": 471,
+      "code": "    df_eval['sf_score'] = booster.predict(df_eval[SF_FEATURE_NAMES_8D].astype(float))"
+    },
+    {
+      "line": 630,
+      "code": "            s = grp.sort_values(by=['sf_score', 'drug_norm'], ascending=[False, True], kind='stable').copy()"
+    },
+    {
+      "line": 637,
+      "code": "    df_eval['b0_rank'] = df_eval['cand_key'].map(b0_rank_map)"
+    },
+    {
+      "line": 641,
+      "code": "        s = grp.sort_values(by=['sf_score', 'drug_norm'], ascending=[False, True], kind='stable').copy()"
+    },
+    {
+      "line": 646,
+      "code": "    df_eval['b1_rank'] = df_eval['cand_key'].map(b1_rank_map)"
+    },
+    {
+      "line": 666,
+      "code": "            s = grp.sort_values(by=['sf_score', 'drug_norm'], ascending=[False, True], kind='stable')"
+    }
+  ],
+  "interpretation": "One frozen SF prediction on union is used for both Graph subset and Mix full pool; historical pre-correction scoring export independently cross-checked on retained graph members. No second model fit or rescore was run."
+}

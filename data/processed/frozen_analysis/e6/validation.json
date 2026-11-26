@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "grid_points": 54,
+  "default_k": 60,
+  "default_alpha": 0.5,
+  "parameters_not_reselected": true
+}

@@ -1,0 +1,91 @@
+﻿criterion,component_id,component_size,qid
+drug,0,7,W2::Urinary Bladder Cancer|MP:624
+drug,0,7,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692
+drug,0,7,W3::Glioblastoma|MP:808
+drug,0,7,W3::Intrahepatic Cholangiocarcinoma|MP:6042
+drug,0,7,W3::Intrahepatic Cholangiocarcinoma|MP:764
+drug,0,7,W3::Malignant Ovarian Brenner Tumor|MP:624
+drug,0,7,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041
+drug,1,5,W1::Biliary Tract Cancer|MP:4409
+drug,1,5,W1::Breast Carcinoma|MP:4409
+drug,1,5,W1::Lung Carcinoma|MP:4409
+drug,1,5,W1::Solid Tumor|MP:4409
+drug,1,5,W1::Uterine Cancer|MP:4409
+drug,2,5,W3::Acral Lentiginous Melanoma|MP:423
+drug,2,5,W3::Acral Lentiginous Melanoma|MP:870
+drug,2,5,W3::Melanoma|MP:4827
+drug,2,5,W3::Mucosal Melanoma|MP:95
+drug,2,5,W3::Skin Melanoma|MP:6037
+drug,3,4,W3::Acral Lentiginous Melanoma|MP:5250
+drug,3,4,W3::Melanoma|MP:6034
+drug,3,4,W3::Melanoma|MP:6077
+drug,3,4,W3::Skin Melanoma|MP:6035
+drug,4,3,W1::Cancer|MP:113
+drug,4,3,W1::Cancer|MP:4939
+drug,4,3,W1::Medullary Thyroid Carcinoma|MP:4938
+drug,5,3,W2::Lung Adenocarcinoma|MP:5927
+drug,5,3,W2::Lung Non-small Cell Carcinoma|MP:4659
+drug,5,3,W2::Lung Non-small Cell Carcinoma|MP:4660
+drug,6,2,W1::Colorectal Cancer|MP:5317
+drug,6,2,W1::Colorectal Cancer|MP:5627
+drug,7,2,W1::Lung Non-small Cell Carcinoma|MP:5861
+drug,7,2,W1::Lung Non-small Cell Carcinoma|MP:5862
+drug,8,2,W1::Solid Tumor|MP:3333
+drug,8,2,W1::Thyroid Cancer|MP:3333
+drug,9,2,W2::B-cell Non-Hodgkin Lymphoma|MP:4344
+drug,9,2,W2::Diffuse Large B-cell Lymphoma|MP:4344
+drug,10,2,W3::Appendix Cancer|MP:4494
+drug,10,2,W3::Pseudomyxoma Peritonei|MP:4494
+drug,11,1,W1::Colorectal Cancer|MP:5117
+drug,12,1,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807"
+drug,13,1,W1::Head And Neck Squamous Cell Carcinoma|MP:5117
+drug,14,1,W3::Acute Myeloid Leukemia|MP:5963
+drug,15,1,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050
+drug,16,1,W3::Castration-resistant Prostate Carcinoma|MP:4409
+drug,17,1,W3::HER2 Positive Breast Cancer|MP:2235
+drug,18,1,W3::Skin Melanoma|MP:6036
+source,0,6,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692
+source,0,6,W3::Glioblastoma|MP:808
+source,0,6,W3::Intrahepatic Cholangiocarcinoma|MP:6042
+source,0,6,W3::Intrahepatic Cholangiocarcinoma|MP:764
+source,0,6,W3::Malignant Ovarian Brenner Tumor|MP:624
+source,0,6,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041
+source,1,5,W1::Biliary Tract Cancer|MP:4409
+source,1,5,W1::Breast Carcinoma|MP:4409
+source,1,5,W1::Lung Carcinoma|MP:4409
+source,1,5,W1::Solid Tumor|MP:4409
+source,1,5,W1::Uterine Cancer|MP:4409
+source,2,5,W3::Acral Lentiginous Melanoma|MP:423
+source,2,5,W3::Acral Lentiginous Melanoma|MP:870
+source,2,5,W3::Melanoma|MP:4827
+source,2,5,W3::Mucosal Melanoma|MP:95
+source,2,5,W3::Skin Melanoma|MP:6037
+source,3,3,W1::Cancer|MP:113
+source,3,3,W1::Cancer|MP:4939
+source,3,3,W1::Medullary Thyroid Carcinoma|MP:4938
+source,4,2,W1::Colorectal Cancer|MP:5317
+source,4,2,W1::Colorectal Cancer|MP:5627
+source,5,2,W1::Lung Non-small Cell Carcinoma|MP:5861
+source,5,2,W1::Lung Non-small Cell Carcinoma|MP:5862
+source,6,2,W2::Lung Non-small Cell Carcinoma|MP:4659
+source,6,2,W2::Lung Non-small Cell Carcinoma|MP:4660
+source,7,2,W3::Acral Lentiginous Melanoma|MP:5250
+source,7,2,W3::Melanoma|MP:6034
+source,8,2,W3::Appendix Cancer|MP:4494
+source,8,2,W3::Pseudomyxoma Peritonei|MP:4494
+source,9,2,W3::Skin Melanoma|MP:6035
+source,9,2,W3::Skin Melanoma|MP:6036
+source,10,1,W1::Colorectal Cancer|MP:5117
+source,11,1,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807"
+source,12,1,W1::Head And Neck Squamous Cell Carcinoma|MP:5117
+source,13,1,W1::Solid Tumor|MP:3333
+source,14,1,W1::Thyroid Cancer|MP:3333
+source,15,1,W2::B-cell Non-Hodgkin Lymphoma|MP:4344
+source,16,1,W2::Diffuse Large B-cell Lymphoma|MP:4344
+source,17,1,W2::Lung Adenocarcinoma|MP:5927
+source,18,1,W2::Urinary Bladder Cancer|MP:624
+source,19,1,W3::Acute Myeloid Leukemia|MP:5963
+source,20,1,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050
+source,21,1,W3::Castration-resistant Prostate Carcinoma|MP:4409
+source,22,1,W3::HER2 Positive Breast Cancer|MP:2235
+source,23,1,W3::Melanoma|MP:6077

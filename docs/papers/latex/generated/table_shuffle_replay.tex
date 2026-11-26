@@ -1,0 +1,20 @@
+% Generated from frozen artifacts; edit build_revision_tables.py, not numeric cells.
+\begin{table}[t]
+\centering
+\caption{Order shuffles}
+\label{tab:order-ablation}
+\small
+\setlength{\tabcolsep}{2.2pt}
+\begin{tabular}{llrrrrr}
+\toprule
+Shuffled & Metric & Observed & Mean & Central 95\% & Upper $p$ & Holm $p$ \\
+\midrule
+Graph & MRR & 0.3895 & 0.3433 & $[\,0.2974,\,0.3929\,]$ & 0.0324 & 0.2915 \\
+Graph & HR@3 (\%) & 46.67 & 37.59 & $[\,31.11,\,44.44\,]$ & 0.0074 & 0.0740 \\
+Graph & HR@5 (\%) & 60.00 & 57.07 & $[\,53.33,\,60.00\,]$ & 0.2044 & 1.0000 \\
+CIViC & MRR & 0.3895 & 0.3514 & $[\,0.3085,\,0.3969\,]$ & 0.0498 & 0.3983 \\
+CIViC & HR@3 (\%) & 46.67 & 42.82 & $[\,35.56,\,48.89\,]$ & 0.2134 & 1.0000 \\
+CIViC & HR@5 (\%) & 60.00 & 50.85 & $[\,46.67,\,55.56\,]$ & 0.0036 & 0.0432 \\
+\bottomrule
+\end{tabular}
+\end{table}

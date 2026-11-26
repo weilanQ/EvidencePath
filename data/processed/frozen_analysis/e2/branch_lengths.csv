@@ -1,0 +1,173 @@
+﻿cohort,qid,branch,length
+Replay,W1::Biliary Tract Cancer|MP:4409,Graph,30
+Replay,W1::Biliary Tract Cancer|MP:4409,CIViC,8
+Replay,W1::Breast Carcinoma|MP:4409,Graph,37
+Replay,W1::Breast Carcinoma|MP:4409,CIViC,8
+Replay,W1::Cancer|MP:113,Graph,13
+Replay,W1::Cancer|MP:113,CIViC,11
+Replay,W1::Cancer|MP:4939,Graph,13
+Replay,W1::Cancer|MP:4939,CIViC,11
+Replay,W1::Colorectal Cancer|MP:5117,Graph,5
+Replay,W1::Colorectal Cancer|MP:5117,CIViC,2
+Replay,W1::Colorectal Cancer|MP:5317,Graph,35
+Replay,W1::Colorectal Cancer|MP:5317,CIViC,28
+Replay,W1::Colorectal Cancer|MP:5627,Graph,35
+Replay,W1::Colorectal Cancer|MP:5627,CIViC,36
+Replay,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",Graph,13
+Replay,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",CIViC,1
+Replay,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,Graph,0
+Replay,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,CIViC,2
+Replay,W1::Lung Carcinoma|MP:4409,Graph,30
+Replay,W1::Lung Carcinoma|MP:4409,CIViC,8
+Replay,W1::Lung Non-small Cell Carcinoma|MP:5861,Graph,47
+Replay,W1::Lung Non-small Cell Carcinoma|MP:5861,CIViC,16
+Replay,W1::Lung Non-small Cell Carcinoma|MP:5862,Graph,47
+Replay,W1::Lung Non-small Cell Carcinoma|MP:5862,CIViC,16
+Replay,W1::Medullary Thyroid Carcinoma|MP:4938,Graph,13
+Replay,W1::Medullary Thyroid Carcinoma|MP:4938,CIViC,11
+Replay,W1::Solid Tumor|MP:3333,Graph,9
+Replay,W1::Solid Tumor|MP:3333,CIViC,5
+Replay,W1::Solid Tumor|MP:4409,Graph,30
+Replay,W1::Solid Tumor|MP:4409,CIViC,8
+Replay,W1::Thyroid Cancer|MP:3333,Graph,12
+Replay,W1::Thyroid Cancer|MP:3333,CIViC,5
+Replay,W1::Uterine Cancer|MP:4409,Graph,30
+Replay,W1::Uterine Cancer|MP:4409,CIViC,8
+Replay,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,Graph,2
+Replay,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,CIViC,3
+Replay,W2::Diffuse Large B-cell Lymphoma|MP:4344,Graph,8
+Replay,W2::Diffuse Large B-cell Lymphoma|MP:4344,CIViC,3
+Replay,W2::Lung Adenocarcinoma|MP:5927,Graph,35
+Replay,W2::Lung Adenocarcinoma|MP:5927,CIViC,21
+Replay,W2::Lung Non-small Cell Carcinoma|MP:4659,Graph,50
+Replay,W2::Lung Non-small Cell Carcinoma|MP:4659,CIViC,21
+Replay,W2::Lung Non-small Cell Carcinoma|MP:4660,Graph,50
+Replay,W2::Lung Non-small Cell Carcinoma|MP:4660,CIViC,21
+Replay,W2::Urinary Bladder Cancer|MP:624,Graph,35
+Replay,W2::Urinary Bladder Cancer|MP:624,CIViC,6
+Replay,W3::Acral Lentiginous Melanoma|MP:423,Graph,30
+Replay,W3::Acral Lentiginous Melanoma|MP:423,CIViC,10
+Replay,W3::Acral Lentiginous Melanoma|MP:5250,Graph,34
+Replay,W3::Acral Lentiginous Melanoma|MP:5250,CIViC,1
+Replay,W3::Acral Lentiginous Melanoma|MP:870,Graph,30
+Replay,W3::Acral Lentiginous Melanoma|MP:870,CIViC,10
+Replay,W3::Acute Myeloid Leukemia|MP:5963,Graph,3
+Replay,W3::Acute Myeloid Leukemia|MP:5963,CIViC,9
+Replay,W3::Appendix Cancer|MP:4494,Graph,30
+Replay,W3::Appendix Cancer|MP:4494,CIViC,0
+Replay,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,Graph,26
+Replay,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,CIViC,7
+Replay,W3::Castration-resistant Prostate Carcinoma|MP:4409,Graph,30
+Replay,W3::Castration-resistant Prostate Carcinoma|MP:4409,CIViC,8
+Replay,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,Graph,33
+Replay,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,CIViC,13
+Replay,W3::Glioblastoma|MP:808,Graph,35
+Replay,W3::Glioblastoma|MP:808,CIViC,6
+Replay,W3::HER2 Positive Breast Cancer|MP:2235,Graph,30
+Replay,W3::HER2 Positive Breast Cancer|MP:2235,CIViC,29
+Replay,W3::Intrahepatic Cholangiocarcinoma|MP:6042,Graph,34
+Replay,W3::Intrahepatic Cholangiocarcinoma|MP:6042,CIViC,9
+Replay,W3::Intrahepatic Cholangiocarcinoma|MP:764,Graph,34
+Replay,W3::Intrahepatic Cholangiocarcinoma|MP:764,CIViC,9
+Replay,W3::Malignant Ovarian Brenner Tumor|MP:624,Graph,33
+Replay,W3::Malignant Ovarian Brenner Tumor|MP:624,CIViC,6
+Replay,W3::Melanoma|MP:4827,Graph,34
+Replay,W3::Melanoma|MP:4827,CIViC,10
+Replay,W3::Melanoma|MP:6034,Graph,38
+Replay,W3::Melanoma|MP:6034,CIViC,1
+Replay,W3::Melanoma|MP:6077,Graph,34
+Replay,W3::Melanoma|MP:6077,CIViC,10
+Replay,W3::Mucosal Melanoma|MP:95,Graph,30
+Replay,W3::Mucosal Melanoma|MP:95,CIViC,10
+Replay,W3::Pseudomyxoma Peritonei|MP:4494,Graph,30
+Replay,W3::Pseudomyxoma Peritonei|MP:4494,CIViC,0
+Replay,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,Graph,34
+Replay,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,CIViC,9
+Replay,W3::Skin Melanoma|MP:6035,Graph,34
+Replay,W3::Skin Melanoma|MP:6035,CIViC,1
+Replay,W3::Skin Melanoma|MP:6036,Graph,33
+Replay,W3::Skin Melanoma|MP:6036,CIViC,20
+Replay,W3::Skin Melanoma|MP:6037,Graph,34
+Replay,W3::Skin Melanoma|MP:6037,CIViC,1
+Development,Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Graph,28
+Development,Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,CIViC,14
+Development,Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Graph,5
+Development,Jul25_Jan26::Anaplastic Astrocytoma|MP:779,CIViC,6
+Development,Jul25_Jan26::Breast Cancer|MP:263,Graph,35
+Development,Jul25_Jan26::Breast Cancer|MP:263,CIViC,10
+Development,Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Graph,3
+Development,Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,CIViC,13
+Development,Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Graph,3
+Development,Jul25_Jan26::Congenital Fibrosarcoma|MP:779,CIViC,6
+Development,Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Graph,2
+Development,Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,CIViC,7
+Development,"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Graph,2
+Development,"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",CIViC,7
+Development,Jul25_Jan26::Ewing Sarcoma|MP:687,Graph,1
+Development,Jul25_Jan26::Ewing Sarcoma|MP:687,CIViC,0
+Development,Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Graph,2
+Development,Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,CIViC,0
+Development,Jul25_Jan26::Ganglioglioma|MP:4932,Graph,7
+Development,Jul25_Jan26::Ganglioglioma|MP:4932,CIViC,2
+Development,Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Graph,7
+Development,Jul25_Jan26::Ganglioneuroblastoma|MP:3027,CIViC,2
+Development,Jul25_Jan26::Glioblastoma|MP:779,Graph,5
+Development,Jul25_Jan26::Glioblastoma|MP:779,CIViC,6
+Development,Jul25_Jan26::Gliosarcoma|MP:3333,Graph,10
+Development,Jul25_Jan26::Gliosarcoma|MP:3333,CIViC,5
+Development,Jul25_Jan26::High Grade Glioma|MP:3333,Graph,9
+Development,Jul25_Jan26::High Grade Glioma|MP:3333,CIViC,5
+Development,Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Graph,38
+Development,Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,CIViC,14
+Development,Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Graph,2
+Development,Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,CIViC,7
+Development,Jul25_Jan26::Leukemia|MP:2880,Graph,28
+Development,Jul25_Jan26::Leukemia|MP:2880,CIViC,14
+Development,Jul25_Jan26::Low Grade Glioma|MP:2639,Graph,2
+Development,Jul25_Jan26::Low Grade Glioma|MP:2639,CIViC,7
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Graph,50
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,CIViC,19
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Graph,47
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,CIViC,15
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Graph,21
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,CIViC,1
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Graph,22
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,CIViC,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Graph,47
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,CIViC,15
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Graph,50
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,CIViC,19
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Graph,50
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,CIViC,19
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Graph,50
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,CIViC,19
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Graph,50
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,CIViC,19
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Graph,50
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,CIViC,19
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Graph,50
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,CIViC,19
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Graph,47
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,CIViC,15
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Graph,50
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,CIViC,19
+Development,Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Graph,13
+Development,Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,CIViC,11
+Development,Jul25_Jan26::Melanoma|MP:779,Graph,7
+Development,Jul25_Jan26::Melanoma|MP:779,CIViC,6
+Development,Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Graph,46
+Development,Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,CIViC,0
+Development,Jul25_Jan26::Myofibroma|MP:2861,Graph,11
+Development,Jul25_Jan26::Myofibroma|MP:2861,CIViC,5
+Development,Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Graph,0
+Development,Jul25_Jan26::Myxoid Liposarcoma|MP:5614,CIViC,1
+Development,Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Graph,0
+Development,Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,CIViC,3
+Development,Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Graph,12
+Development,Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,CIViC,1
+Development,Jul25_Jan26::Plexiform Neurofibroma|MP:583,Graph,0
+Development,Jul25_Jan26::Plexiform Neurofibroma|MP:583,CIViC,4
+Development,Jul25_Jan26::Solid Tumor|MP:5117,Graph,0
+Development,Jul25_Jan26::Solid Tumor|MP:5117,CIViC,1
+Development,Jul25_Jan26::Solid Tumor|MP:5163,Graph,12
+Development,Jul25_Jan26::Solid Tumor|MP:5163,CIViC,5

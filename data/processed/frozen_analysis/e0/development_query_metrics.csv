@@ -1,0 +1,329 @@
+﻿qid,window_id,query_id,method,best_rank,rr,hit1,hit3,hit5,hit10
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,Graph,7,0.14285714285714285,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,Graph,2,0.5,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,Graph,33,0.030303030303030304,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,Graph,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,Graph,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Graph,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Graph,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,Graph,,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,Graph,,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,Graph,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,Graph,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,Graph,2,0.5,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,Graph,9,0.1111111111111111,0,0,0,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,Graph,2,0.5,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,Graph,,0,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,Graph,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,Graph,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,Graph,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,Graph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,Graph,,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,Graph,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,Graph,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,Graph,,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,Graph,2,0.5,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,Graph,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,Graph,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,Graph,,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,Graph,,0,0,0,0,0
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,Graph,,0,0,0,0,0
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,Graph,2,0.5,0,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,Mix,10,0.10000000000000001,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,Mix,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,Mix,38,0.026315789473684209,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,Mix,9,0.1111111111111111,0,0,0,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,Mix,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Mix,5,0.20000000000000001,0,0,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Mix,5,0.20000000000000001,0,0,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,Mix,,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,Mix,,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,Mix,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,Mix,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,Mix,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,Mix,12,0.083333333333333329,0,0,0,0
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,Mix,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,Mix,11,0.090909090909090912,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,Mix,5,0.20000000000000001,0,0,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,Mix,9,0.1111111111111111,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,Mix,5,0.20000000000000001,0,0,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,Mix,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,Mix,,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,Mix,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,Mix,2,0.5,0,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,Mix,,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,Mix,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,Mix,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,Mix,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,Mix,,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,Mix,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,Mix,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,Mix,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,Append-SF,7,0.14285714285714285,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,Append-SF,2,0.5,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,Append-SF,33,0.030303030303030304,0,0,0,0
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,Append-SF,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Append-SF,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,Append-SF,2,0.5,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,Append-SF,9,0.1111111111111111,0,0,0,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,Append-SF,2,0.5,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,Append-SF,44,0.022727272727272728,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,Append-SF,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,Append-SF,2,0.5,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,Append-SF,,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,Append-SF,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,Append-SF,2,0.5,0,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,AltGraph,7,0.14285714285714285,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,AltGraph,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,AltGraph,2,0.5,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,AltGraph,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,AltGraph,2,0.5,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,AltGraph,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,AltGraph,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,AltGraph,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,AltGraph,,0,0,0,0,0
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,AltGraph,1,1,1,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,AltAppend,7,0.14285714285714285,0,0,0,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,AltAppend,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,AltAppend,2,0.5,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,AltAppend,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,AltAppend,2,0.5,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,AltAppend,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,AltAppend,44,0.022727272727272728,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,AltAppend,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,AltAppend,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,AltAppend,,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,AltAppend,1,1,1,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,RRF,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,RRF,1,1,1,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,RRF,5,0.20000000000000001,0,0,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,RRF,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,RRF,2,0.5,0,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,RRF,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",RRF,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,RRF,,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,RRF,,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,RRF,1,1,1,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,RRF,1,1,1,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,RRF,1,1,1,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,RRF,2,0.5,0,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,RRF,1,1,1,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,RRF,19,0.052631578947368418,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,RRF,1,1,1,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,RRF,4,0.25,0,0,1,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,RRF,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,RRF,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,RRF,,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,RRF,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,RRF,1,1,1,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,RRF,,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,RRF,1,1,1,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,RRF,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,RRF,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,RRF,,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,RRF,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,RRF,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,RRF,1,1,1,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,Context,4,0.25,0,0,1,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,Context,2,0.5,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,Context,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,Context,2,0.5,0,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,Context,1,1,1,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Context,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Context,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,Context,,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,Context,,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,Context,2,0.5,0,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,Context,2,0.5,0,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,Context,2,0.5,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,Context,1,1,1,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,Context,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,Context,11,0.090909090909090912,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,Context,2,0.5,0,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,Context,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,Context,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,Context,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,Context,,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,Context,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,Context,2,0.5,0,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,Context,,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,Context,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,Context,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,Context,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,Context,,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,Context,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,Context,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,Context,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,Jul25_Jan26,Acute Myeloid Leukemia|MP:3070,CIViC,4,0.25,0,0,1,1
+Jul25_Jan26::Anaplastic Astrocytoma|MP:779,Jul25_Jan26,Anaplastic Astrocytoma|MP:779,CIViC,2,0.5,0,1,1,1
+Jul25_Jan26::Breast Cancer|MP:263,Jul25_Jan26,Breast Cancer|MP:263,CIViC,1,1,1,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,Jul25_Jan26,Congenital Fibrosarcoma|MP:4167,CIViC,2,0.5,0,1,1,1
+Jul25_Jan26::Congenital Fibrosarcoma|MP:779,Jul25_Jan26,Congenital Fibrosarcoma|MP:779,CIViC,1,1,1,1,1,1
+Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,Jul25_Jan26,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,CIViC,1,1,1,1,1,1
+"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",Jul25_Jan26,"Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",CIViC,1,1,1,1,1,1
+Jul25_Jan26::Ewing Sarcoma|MP:687,Jul25_Jan26,Ewing Sarcoma|MP:687,CIViC,,0,0,0,0,0
+Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,Jul25_Jan26,Extraskeletal Myxoid Chondrosarcoma|MP:5622,CIViC,,0,0,0,0,0
+Jul25_Jan26::Ganglioglioma|MP:4932,Jul25_Jan26,Ganglioglioma|MP:4932,CIViC,2,0.5,0,1,1,1
+Jul25_Jan26::Ganglioneuroblastoma|MP:3027,Jul25_Jan26,Ganglioneuroblastoma|MP:3027,CIViC,2,0.5,0,1,1,1
+Jul25_Jan26::Glioblastoma|MP:779,Jul25_Jan26,Glioblastoma|MP:779,CIViC,2,0.5,0,1,1,1
+Jul25_Jan26::Gliosarcoma|MP:3333,Jul25_Jan26,Gliosarcoma|MP:3333,CIViC,1,1,1,1,1,1
+Jul25_Jan26::High Grade Glioma|MP:3333,Jul25_Jan26,High Grade Glioma|MP:3333,CIViC,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:4476,CIViC,11,0.090909090909090912,0,0,0,0
+Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,Jul25_Jan26,Inflammatory Myofibroblastic Tumor|MP:572,CIViC,2,0.5,0,1,1,1
+Jul25_Jan26::Leukemia|MP:2880,Jul25_Jan26,Leukemia|MP:2880,CIViC,6,0.16666666666666666,0,0,0,1
+Jul25_Jan26::Low Grade Glioma|MP:2639,Jul25_Jan26,Low Grade Glioma|MP:2639,CIViC,1,1,1,1,1,1
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:438,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:4463,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5117,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5386,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5606,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5687,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5688,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5690,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5691,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5782,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:5787,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:662,CIViC,,0,0,0,0,0
+Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,Jul25_Jan26,Lung Non-small Cell Carcinoma|MP:707,CIViC,,0,0,0,0,0
+Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,Jul25_Jan26,Medullary Thyroid Carcinoma|MP:4447,CIViC,1,1,1,1,1,1
+Jul25_Jan26::Melanoma|MP:779,Jul25_Jan26,Melanoma|MP:779,CIViC,2,0.5,0,1,1,1
+Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,Jul25_Jan26,Mesenchymal Chondrosarcoma|MP:2454,CIViC,,0,0,0,0,0
+Jul25_Jan26::Myofibroma|MP:2861,Jul25_Jan26,Myofibroma|MP:2861,CIViC,3,0.33333333333333331,0,1,1,1
+Jul25_Jan26::Myxoid Liposarcoma|MP:5614,Jul25_Jan26,Myxoid Liposarcoma|MP:5614,CIViC,1,1,1,1,1,1
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:481,CIViC,,0,0,0,0,0
+Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,Jul25_Jan26,Pancreatic Ductal Adenocarcinoma|MP:5613,CIViC,,0,0,0,0,0
+Jul25_Jan26::Plexiform Neurofibroma|MP:583,Jul25_Jan26,Plexiform Neurofibroma|MP:583,CIViC,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5117,Jul25_Jan26,Solid Tumor|MP:5117,CIViC,1,1,1,1,1,1
+Jul25_Jan26::Solid Tumor|MP:5163,Jul25_Jan26,Solid Tumor|MP:5163,CIViC,3,0.33333333333333331,0,1,1,1

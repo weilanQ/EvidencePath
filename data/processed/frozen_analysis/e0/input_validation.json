@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "cohorts": [
+    {
+      "cohort": "Replay",
+      "candidates": 1580,
+      "queries": 45,
+      "pairs": 46,
+      "rrf_rank_differences": 0
+    },
+    {
+      "cohort": "Development",
+      "candidates": 1051,
+      "queries": 41,
+      "pairs": 43,
+      "rrf_rank_differences": 0
+    }
+  ],
+  "planned_input_hashes_match": true
+}

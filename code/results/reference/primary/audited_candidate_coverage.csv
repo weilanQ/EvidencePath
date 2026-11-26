@@ -1,0 +1,13 @@
+﻿cohort,support,candidate_rows,covered_positive_pairs,total_positive_pairs
+Development,Graph $R_0$,874,19,43
+Development,Evidence $E$,360,23,43
+Development,Union $R_1$,1051,24,43
+Development,Shared $R_0\cap E$,183,18,43
+Development,Graph only,691,1,43
+Development,Evidence only,177,5,43
+Replay,Graph $R_0$,1262,20,46
+Replay,Evidence $E$,438,32,46
+Replay,Union $R_1$,1580,33,46
+Replay,Shared $R_0\cap E$,120,19,46
+Replay,Graph only,1142,1,46
+Replay,Evidence only,318,13,46

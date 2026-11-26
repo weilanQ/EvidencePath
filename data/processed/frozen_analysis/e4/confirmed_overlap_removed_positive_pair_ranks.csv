@@ -1,0 +1,118 @@
+﻿qid,window_id,query_id,positive_drug,method,rank,rr,covered,hit1,hit3,hit5,hit10
+W1::Biliary Tract Cancer|MP:4409,W1,Biliary Tract Cancer|MP:4409,olaparib,RRF,4,0.25,1,0,0,1,1
+W1::Breast Carcinoma|MP:4409,W1,Breast Carcinoma|MP:4409,olaparib,RRF,4,0.25,1,0,0,1,1
+W1::Cancer|MP:113,W1,Cancer|MP:113,selpercatinib,RRF,2,0.5,1,0,1,1,1
+W1::Cancer|MP:4939,W1,Cancer|MP:4939,selpercatinib,RRF,2,0.5,1,0,1,1,1
+W1::Colorectal Cancer|MP:5117,W1,Colorectal Cancer|MP:5117,pembrolizumab,RRF,2,0.5,1,0,1,1,1
+W1::Colorectal Cancer|MP:5317,W1,Colorectal Cancer|MP:5317,aspirin,RRF,6,0.16666666666666666,1,0,0,0,1
+W1::Colorectal Cancer|MP:5627,W1,Colorectal Cancer|MP:5627,aspirin,RRF,6,0.16666666666666666,1,0,0,0,1
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",W1,"Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",dordaviprone,RRF,1,1,1,1,1,1,1
+W1::Head And Neck Squamous Cell Carcinoma|MP:5117,W1,Head And Neck Squamous Cell Carcinoma|MP:5117,durvalumab,RRF,,0,0,0,0,0,0
+W1::Lung Carcinoma|MP:4409,W1,Lung Carcinoma|MP:4409,olaparib,RRF,4,0.25,1,0,0,1,1
+W1::Lung Non-small Cell Carcinoma|MP:5861,W1,Lung Non-small Cell Carcinoma|MP:5861,sevabertinib,RRF,,0,0,0,0,0,0
+W1::Lung Non-small Cell Carcinoma|MP:5862,W1,Lung Non-small Cell Carcinoma|MP:5862,sevabertinib,RRF,,0,0,0,0,0,0
+W1::Medullary Thyroid Carcinoma|MP:4938,W1,Medullary Thyroid Carcinoma|MP:4938,selpercatinib,RRF,1,1,1,1,1,1,1
+W1::Solid Tumor|MP:4409,W1,Solid Tumor|MP:4409,olaparib,RRF,4,0.25,1,0,0,1,1
+W1::Thyroid Cancer|MP:3333,W1,Thyroid Cancer|MP:3333,larotrectinib,RRF,1,1,1,1,1,1,1
+W1::Uterine Cancer|MP:4409,W1,Uterine Cancer|MP:4409,olaparib,RRF,4,0.25,1,0,0,1,1
+W2::Lung Adenocarcinoma|MP:5927,W2,Lung Adenocarcinoma|MP:5927,osimertinib,RRF,1,1,1,1,1,1,1
+W2::Urinary Bladder Cancer|MP:624,W2,Urinary Bladder Cancer|MP:624,erdafitinib,RRF,2,0.5,1,0,1,1,1
+W3::Acral Lentiginous Melanoma|MP:423,W3,Acral Lentiginous Melanoma|MP:423,belvarafenib,RRF,,0,0,0,0,0,0
+W3::Acral Lentiginous Melanoma|MP:5250,W3,Acral Lentiginous Melanoma|MP:5250,binimetinib,RRF,,0,0,0,0,0,0
+W3::Acral Lentiginous Melanoma|MP:870,W3,Acral Lentiginous Melanoma|MP:870,belvarafenib,RRF,,0,0,0,0,0,0
+W3::Acute Myeloid Leukemia|MP:5963,W3,Acute Myeloid Leukemia|MP:5963,ivosidenib,RRF,1,1,1,1,1,1,1
+W3::Appendix Cancer|MP:4494,W3,Appendix Cancer|MP:4494,palbociclib,RRF,,0,0,0,0,0,0
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,W3,B-cell Acute Lymphoblastic Leukemia|MP:6050,dasatinib,RRF,28,0.035714285714285712,1,0,0,0,0
+W3::Castration-resistant Prostate Carcinoma|MP:4409,W3,Castration-resistant Prostate Carcinoma|MP:4409,rucaparib,RRF,6,0.16666666666666666,1,0,0,0,1
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,W3,Dysembryoplastic Neuroepithelial Tumor|MP:4692,erdafitinib,RRF,2,0.5,1,0,1,1,1
+W3::Glioblastoma|MP:808,W3,Glioblastoma|MP:808,erdafitinib,RRF,1,1,1,1,1,1,1
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,W3,Intrahepatic Cholangiocarcinoma|MP:6042,erdafitinib,RRF,3,0.33333333333333331,1,0,1,1,1
+W3::Intrahepatic Cholangiocarcinoma|MP:764,W3,Intrahepatic Cholangiocarcinoma|MP:764,erdafitinib,RRF,3,0.33333333333333331,1,0,1,1,1
+W3::Malignant Ovarian Brenner Tumor|MP:624,W3,Malignant Ovarian Brenner Tumor|MP:624,erdafitinib,RRF,2,0.5,1,0,1,1,1
+W3::Melanoma|MP:4827,W3,Melanoma|MP:4827,belvarafenib,RRF,,0,0,0,0,0,0
+W3::Melanoma|MP:6034,W3,Melanoma|MP:6034,binimetinib,RRF,,0,0,0,0,0,0
+W3::Melanoma|MP:6077,W3,Melanoma|MP:6077,binimetinib,RRF,5,0.20000000000000001,1,0,0,1,1
+W3::Mucosal Melanoma|MP:95,W3,Mucosal Melanoma|MP:95,belvarafenib,RRF,,0,0,0,0,0,0
+W3::Pseudomyxoma Peritonei|MP:4494,W3,Pseudomyxoma Peritonei|MP:4494,palbociclib,RRF,,0,0,0,0,0,0
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,W3,Salivary Gland Adenoid Cystic Carcinoma|MP:6041,erdafitinib,RRF,3,0.33333333333333331,1,0,1,1,1
+W3::Skin Melanoma|MP:6035,W3,Skin Melanoma|MP:6035,binimetinib,RRF,,0,0,0,0,0,0
+W3::Skin Melanoma|MP:6036,W3,Skin Melanoma|MP:6036,trametinib,RRF,1,1,1,1,1,1,1
+W3::Skin Melanoma|MP:6037,W3,Skin Melanoma|MP:6037,belvarafenib,RRF,,0,0,0,0,0,0
+W1::Biliary Tract Cancer|MP:4409,W1,Biliary Tract Cancer|MP:4409,olaparib,Context,2,0.5,1,0,1,1,1
+W1::Breast Carcinoma|MP:4409,W1,Breast Carcinoma|MP:4409,olaparib,Context,2,0.5,1,0,1,1,1
+W1::Cancer|MP:113,W1,Cancer|MP:113,selpercatinib,Context,10,0.10000000000000001,1,0,0,0,1
+W1::Cancer|MP:4939,W1,Cancer|MP:4939,selpercatinib,Context,10,0.10000000000000001,1,0,0,0,1
+W1::Colorectal Cancer|MP:5117,W1,Colorectal Cancer|MP:5117,pembrolizumab,Context,1,1,1,1,1,1,1
+W1::Colorectal Cancer|MP:5317,W1,Colorectal Cancer|MP:5317,aspirin,Context,2,0.5,1,0,1,1,1
+W1::Colorectal Cancer|MP:5627,W1,Colorectal Cancer|MP:5627,aspirin,Context,2,0.5,1,0,1,1,1
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",W1,"Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",dordaviprone,Context,1,1,1,1,1,1,1
+W1::Head And Neck Squamous Cell Carcinoma|MP:5117,W1,Head And Neck Squamous Cell Carcinoma|MP:5117,durvalumab,Context,,0,0,0,0,0,0
+W1::Lung Carcinoma|MP:4409,W1,Lung Carcinoma|MP:4409,olaparib,Context,2,0.5,1,0,1,1,1
+W1::Lung Non-small Cell Carcinoma|MP:5861,W1,Lung Non-small Cell Carcinoma|MP:5861,sevabertinib,Context,,0,0,0,0,0,0
+W1::Lung Non-small Cell Carcinoma|MP:5862,W1,Lung Non-small Cell Carcinoma|MP:5862,sevabertinib,Context,,0,0,0,0,0,0
+W1::Medullary Thyroid Carcinoma|MP:4938,W1,Medullary Thyroid Carcinoma|MP:4938,selpercatinib,Context,4,0.25,1,0,0,1,1
+W1::Solid Tumor|MP:4409,W1,Solid Tumor|MP:4409,olaparib,Context,2,0.5,1,0,1,1,1
+W1::Thyroid Cancer|MP:3333,W1,Thyroid Cancer|MP:3333,larotrectinib,Context,1,1,1,1,1,1,1
+W1::Uterine Cancer|MP:4409,W1,Uterine Cancer|MP:4409,olaparib,Context,2,0.5,1,0,1,1,1
+W2::Lung Adenocarcinoma|MP:5927,W2,Lung Adenocarcinoma|MP:5927,osimertinib,Context,4,0.25,1,0,0,1,1
+W2::Urinary Bladder Cancer|MP:624,W2,Urinary Bladder Cancer|MP:624,erdafitinib,Context,2,0.5,1,0,1,1,1
+W3::Acral Lentiginous Melanoma|MP:423,W3,Acral Lentiginous Melanoma|MP:423,belvarafenib,Context,,0,0,0,0,0,0
+W3::Acral Lentiginous Melanoma|MP:5250,W3,Acral Lentiginous Melanoma|MP:5250,binimetinib,Context,,0,0,0,0,0,0
+W3::Acral Lentiginous Melanoma|MP:870,W3,Acral Lentiginous Melanoma|MP:870,belvarafenib,Context,,0,0,0,0,0,0
+W3::Acute Myeloid Leukemia|MP:5963,W3,Acute Myeloid Leukemia|MP:5963,ivosidenib,Context,4,0.25,1,0,0,1,1
+W3::Appendix Cancer|MP:4494,W3,Appendix Cancer|MP:4494,palbociclib,Context,,0,0,0,0,0,0
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,W3,B-cell Acute Lymphoblastic Leukemia|MP:6050,dasatinib,Context,27,0.037037037037037035,1,0,0,0,0
+W3::Castration-resistant Prostate Carcinoma|MP:4409,W3,Castration-resistant Prostate Carcinoma|MP:4409,rucaparib,Context,3,0.33333333333333331,1,0,1,1,1
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,W3,Dysembryoplastic Neuroepithelial Tumor|MP:4692,erdafitinib,Context,3,0.33333333333333331,1,0,1,1,1
+W3::Glioblastoma|MP:808,W3,Glioblastoma|MP:808,erdafitinib,Context,2,0.5,1,0,1,1,1
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,W3,Intrahepatic Cholangiocarcinoma|MP:6042,erdafitinib,Context,3,0.33333333333333331,1,0,1,1,1
+W3::Intrahepatic Cholangiocarcinoma|MP:764,W3,Intrahepatic Cholangiocarcinoma|MP:764,erdafitinib,Context,3,0.33333333333333331,1,0,1,1,1
+W3::Malignant Ovarian Brenner Tumor|MP:624,W3,Malignant Ovarian Brenner Tumor|MP:624,erdafitinib,Context,2,0.5,1,0,1,1,1
+W3::Melanoma|MP:4827,W3,Melanoma|MP:4827,belvarafenib,Context,,0,0,0,0,0,0
+W3::Melanoma|MP:6034,W3,Melanoma|MP:6034,binimetinib,Context,,0,0,0,0,0,0
+W3::Melanoma|MP:6077,W3,Melanoma|MP:6077,binimetinib,Context,3,0.33333333333333331,1,0,1,1,1
+W3::Mucosal Melanoma|MP:95,W3,Mucosal Melanoma|MP:95,belvarafenib,Context,,0,0,0,0,0,0
+W3::Pseudomyxoma Peritonei|MP:4494,W3,Pseudomyxoma Peritonei|MP:4494,palbociclib,Context,,0,0,0,0,0,0
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,W3,Salivary Gland Adenoid Cystic Carcinoma|MP:6041,erdafitinib,Context,2,0.5,1,0,1,1,1
+W3::Skin Melanoma|MP:6035,W3,Skin Melanoma|MP:6035,binimetinib,Context,,0,0,0,0,0,0
+W3::Skin Melanoma|MP:6036,W3,Skin Melanoma|MP:6036,trametinib,Context,4,0.25,1,0,0,1,1
+W3::Skin Melanoma|MP:6037,W3,Skin Melanoma|MP:6037,belvarafenib,Context,,0,0,0,0,0,0
+W1::Biliary Tract Cancer|MP:4409,W1,Biliary Tract Cancer|MP:4409,olaparib,CIViC,2,0.5,1,0,1,1,1
+W1::Breast Carcinoma|MP:4409,W1,Breast Carcinoma|MP:4409,olaparib,CIViC,2,0.5,1,0,1,1,1
+W1::Cancer|MP:113,W1,Cancer|MP:113,selpercatinib,CIViC,10,0.10000000000000001,1,0,0,0,1
+W1::Cancer|MP:4939,W1,Cancer|MP:4939,selpercatinib,CIViC,10,0.10000000000000001,1,0,0,0,1
+W1::Colorectal Cancer|MP:5117,W1,Colorectal Cancer|MP:5117,pembrolizumab,CIViC,1,1,1,1,1,1,1
+W1::Colorectal Cancer|MP:5317,W1,Colorectal Cancer|MP:5317,aspirin,CIViC,2,0.5,1,0,1,1,1
+W1::Colorectal Cancer|MP:5627,W1,Colorectal Cancer|MP:5627,aspirin,CIViC,2,0.5,1,0,1,1,1
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",W1,"Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",dordaviprone,CIViC,1,1,1,1,1,1,1
+W1::Head And Neck Squamous Cell Carcinoma|MP:5117,W1,Head And Neck Squamous Cell Carcinoma|MP:5117,durvalumab,CIViC,,0,0,0,0,0,0
+W1::Lung Carcinoma|MP:4409,W1,Lung Carcinoma|MP:4409,olaparib,CIViC,2,0.5,1,0,1,1,1
+W1::Lung Non-small Cell Carcinoma|MP:5861,W1,Lung Non-small Cell Carcinoma|MP:5861,sevabertinib,CIViC,,0,0,0,0,0,0
+W1::Lung Non-small Cell Carcinoma|MP:5862,W1,Lung Non-small Cell Carcinoma|MP:5862,sevabertinib,CIViC,,0,0,0,0,0,0
+W1::Medullary Thyroid Carcinoma|MP:4938,W1,Medullary Thyroid Carcinoma|MP:4938,selpercatinib,CIViC,4,0.25,1,0,0,1,1
+W1::Solid Tumor|MP:4409,W1,Solid Tumor|MP:4409,olaparib,CIViC,2,0.5,1,0,1,1,1
+W1::Thyroid Cancer|MP:3333,W1,Thyroid Cancer|MP:3333,larotrectinib,CIViC,1,1,1,1,1,1,1
+W1::Uterine Cancer|MP:4409,W1,Uterine Cancer|MP:4409,olaparib,CIViC,2,0.5,1,0,1,1,1
+W2::Lung Adenocarcinoma|MP:5927,W2,Lung Adenocarcinoma|MP:5927,osimertinib,CIViC,4,0.25,1,0,0,1,1
+W2::Urinary Bladder Cancer|MP:624,W2,Urinary Bladder Cancer|MP:624,erdafitinib,CIViC,2,0.5,1,0,1,1,1
+W3::Acral Lentiginous Melanoma|MP:423,W3,Acral Lentiginous Melanoma|MP:423,belvarafenib,CIViC,,0,0,0,0,0,0
+W3::Acral Lentiginous Melanoma|MP:5250,W3,Acral Lentiginous Melanoma|MP:5250,binimetinib,CIViC,,0,0,0,0,0,0
+W3::Acral Lentiginous Melanoma|MP:870,W3,Acral Lentiginous Melanoma|MP:870,belvarafenib,CIViC,,0,0,0,0,0,0
+W3::Acute Myeloid Leukemia|MP:5963,W3,Acute Myeloid Leukemia|MP:5963,ivosidenib,CIViC,4,0.25,1,0,0,1,1
+W3::Appendix Cancer|MP:4494,W3,Appendix Cancer|MP:4494,palbociclib,CIViC,,0,0,0,0,0,0
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,W3,B-cell Acute Lymphoblastic Leukemia|MP:6050,dasatinib,CIViC,,0,0,0,0,0,0
+W3::Castration-resistant Prostate Carcinoma|MP:4409,W3,Castration-resistant Prostate Carcinoma|MP:4409,rucaparib,CIViC,3,0.33333333333333331,1,0,1,1,1
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,W3,Dysembryoplastic Neuroepithelial Tumor|MP:4692,erdafitinib,CIViC,3,0.33333333333333331,1,0,1,1,1
+W3::Glioblastoma|MP:808,W3,Glioblastoma|MP:808,erdafitinib,CIViC,2,0.5,1,0,1,1,1
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,W3,Intrahepatic Cholangiocarcinoma|MP:6042,erdafitinib,CIViC,3,0.33333333333333331,1,0,1,1,1
+W3::Intrahepatic Cholangiocarcinoma|MP:764,W3,Intrahepatic Cholangiocarcinoma|MP:764,erdafitinib,CIViC,3,0.33333333333333331,1,0,1,1,1
+W3::Malignant Ovarian Brenner Tumor|MP:624,W3,Malignant Ovarian Brenner Tumor|MP:624,erdafitinib,CIViC,2,0.5,1,0,1,1,1
+W3::Melanoma|MP:4827,W3,Melanoma|MP:4827,belvarafenib,CIViC,,0,0,0,0,0,0
+W3::Melanoma|MP:6034,W3,Melanoma|MP:6034,binimetinib,CIViC,,0,0,0,0,0,0
+W3::Melanoma|MP:6077,W3,Melanoma|MP:6077,binimetinib,CIViC,3,0.33333333333333331,1,0,1,1,1
+W3::Mucosal Melanoma|MP:95,W3,Mucosal Melanoma|MP:95,belvarafenib,CIViC,,0,0,0,0,0,0
+W3::Pseudomyxoma Peritonei|MP:4494,W3,Pseudomyxoma Peritonei|MP:4494,palbociclib,CIViC,,0,0,0,0,0,0
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,W3,Salivary Gland Adenoid Cystic Carcinoma|MP:6041,erdafitinib,CIViC,2,0.5,1,0,1,1,1
+W3::Skin Melanoma|MP:6035,W3,Skin Melanoma|MP:6035,binimetinib,CIViC,,0,0,0,0,0,0
+W3::Skin Melanoma|MP:6036,W3,Skin Melanoma|MP:6036,trametinib,CIViC,4,0.25,1,0,0,1,1
+W3::Skin Melanoma|MP:6037,W3,Skin Melanoma|MP:6037,belvarafenib,CIViC,,0,0,0,0,0,0

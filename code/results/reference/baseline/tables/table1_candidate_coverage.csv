@@ -1,0 +1,7 @@
+Candidate support,Query-drug records,Covered positive pairs
+Graph R0,874,19/43
+Evidence E,360,23/43
+Union R1,1051,24/43
+Shared R0 ∩ E,183,18
+Graph exclusive R0 \ E,691,1
+Evidence exclusive E \ R0,177,5

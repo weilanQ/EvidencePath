@@ -1,0 +1,3 @@
+Clustering criterion,Clusters,ΔMRR,95% percentile interval
+Shared positive drug,17,+0.0448,"[+0.0102, +0.1099]"
+Shared evidence source,18,+0.0448,"[+0.0108, +0.1095]"

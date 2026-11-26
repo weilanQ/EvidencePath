@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "queries": 45,
+  "identity_max_error": 0.0,
+  "all_displacement_nonpositive": true,
+  "all_coverage_nonnegative": true,
+  "old_order_preserved": true,
+  "shared_prediction_code_verified": true,
+  "historical_score_crosscheck_passed": true
+}

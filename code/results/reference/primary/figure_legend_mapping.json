@@ -1,0 +1,122 @@
+{
+  "source_run": "20261123T004441Z",
+  "figure": "replay_hr_at_k_with_context.pdf",
+  "cohort": "Retrospective new-context replay",
+  "queries": 45,
+  "positive_pairs": 46,
+  "points": [
+    {
+      "method": "Graph",
+      "display_label": "Graph",
+      "hits": {
+        "1": 7,
+        "3": 9,
+        "5": 10,
+        "10": 11
+      },
+      "denominator_queries": 45,
+      "positive_pairs": 46,
+      "label": "Graph",
+      "color": "#7d8794",
+      "marker": "s",
+      "linestyle": ":"
+    },
+    {
+      "method": "Append-SF",
+      "display_label": "Append-SF",
+      "hits": {
+        "1": 7,
+        "3": 9,
+        "5": 10,
+        "10": 12
+      },
+      "denominator_queries": 45,
+      "positive_pairs": 46,
+      "label": "Append-SF",
+      "color": "#917754",
+      "marker": "D",
+      "linestyle": "--"
+    },
+    {
+      "method": "CIViC",
+      "display_label": "CIViC branch",
+      "hits": {
+        "1": 7,
+        "3": 23,
+        "5": 27,
+        "10": 29
+      },
+      "denominator_queries": 45,
+      "positive_pairs": 46,
+      "label": "CIViC branch",
+      "color": "#d28b30",
+      "marker": "o",
+      "linestyle": "--"
+    },
+    {
+      "method": "Context",
+      "display_label": "Context",
+      "hits": {
+        "1": 7,
+        "3": 23,
+        "5": 27,
+        "10": 29
+      },
+      "denominator_queries": 45,
+      "positive_pairs": 46,
+      "label": "Context",
+      "color": "#8b5f9e",
+      "marker": "x",
+      "linestyle": "-"
+    },
+    {
+      "method": "Borda",
+      "display_label": "Borda",
+      "hits": {
+        "1": 9,
+        "3": 14,
+        "5": 16,
+        "10": 29
+      },
+      "denominator_queries": 45,
+      "positive_pairs": 46,
+      "label": "Borda",
+      "color": "#3e858c",
+      "marker": "v",
+      "linestyle": "-."
+    },
+    {
+      "method": "RRF",
+      "display_label": "RRF",
+      "hits": {
+        "1": 11,
+        "3": 21,
+        "5": 27,
+        "10": 30
+      },
+      "denominator_queries": 45,
+      "positive_pairs": 46,
+      "label": "RRF",
+      "color": "#245b97",
+      "marker": "o",
+      "linestyle": "-"
+    },
+    {
+      "method": "SharedFirstContext",
+      "display_label": "Shared-first Context",
+      "hits": {
+        "1": 13,
+        "3": 24,
+        "5": 27,
+        "10": 30
+      },
+      "denominator_queries": 45,
+      "positive_pairs": 46,
+      "label": "Shared-first Context",
+      "color": "#287b57",
+      "marker": "^",
+      "linestyle": "-"
+    }
+  ],
+  "note": "Context and CIViC have the same HR values at all four plotted cutoffs; both are retained with distinct line/marker styles."
+}

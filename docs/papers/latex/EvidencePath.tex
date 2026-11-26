@@ -1,0 +1,34 @@
+\documentclass[runningheads]{llncs}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\setlength{\emergencystretch}{1.5em}
+\setlength{\textfloatsep}{13pt plus 3pt minus 2pt}
+\setlength{\floatsep}{11pt plus 2pt minus 2pt}
+\usepackage{graphicx,amsmath,amssymb,booktabs,tabularx,multirow,url}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{pdftitle={EvidencePath: Analyzing Candidate Coverage and Ranking in Cross-Cancer Drug Retrieval},pdfauthor={Anonymous Authors}}
+\graphicspath{{assets/}}
+\newcommand{\Rzero}{R_0}
+\newcommand{\Runion}{R_1}
+\newcommand{\rr}{\operatorname{RR}}
+% Set this to the verified anonymous repository URL to display it in Section 4.
+\newcommand*{\artifacturl}{https://anonymous.4open.science/r/EvidencePath-A6E6/}
+\begin{document}
+\title{EvidencePath: Analyzing Candidate Coverage and Ranking in Cross-Cancer Drug Retrieval}
+\titlerunning{EvidencePath: Candidate Coverage and Ranking}
+\author{Anonymous Authors}
+\authorrunning{Anonymous Authors}
+\institute{}
+\maketitle
+\begin{abstract}
+We investigate how partially overlapping PrimeKG and CIViC candidate lists affect retrieval of later qualifying CIViC annotations for retrospectively identified cancer--molecular-profile queries. EvidencePath combines frozen retrieval with diagnostics of candidate coverage, shared membership, and source ordering. On 45 replay queries with 46 positive pairs, standard reciprocal rank fusion (RRF) reaches query mean reciprocal rank (MRR) 0.3895, compared with 0.3460 for Context on the same union and 0.4265 for a parameter-free shared-first Context control; all three achieve HR@5 of 27/45. The observed RRF--Context difference does not establish a stable advantage in this sample. Frozen-score decomposition shows how wider coverage can be outweighed by displacement of previously reachable positives. Conditional order permutations, source-overlap sensitivity analysis, and an exact bound for merging two fixed sequences make these comparisons inspectable. Together, these post hoc diagnostics clarify how access, shared membership, and ordering relate to retrieval outcomes, revealing depth-dependent performance differences and trade-offs between finding evidence-exclusive positives and retaining earlier hits.
+\keywords{Drug retrieval \and Heterogeneous evidence \and Rank fusion \and Knowledge graphs \and Temporal evaluation}
+\end{abstract}
+\input{introduction}
+\input{method}
+\input{evaluation}
+\input{results}
+\input{discussion}
+\input{references}
+\end{document}

@@ -1,0 +1,181 @@
+﻿comparison,qid,rank_a,rank_b,delta_mrr,delta_hit1,delta_hit3,delta_hit5
+RRF - Context,W1::Biliary Tract Cancer|MP:4409,4,2,-0.25,0,-1,0
+RRF - Context,W1::Breast Carcinoma|MP:4409,4,2,-0.25,0,-1,0
+RRF - Context,W1::Cancer|MP:113,2,10,0.40000000000000002,0,1,1
+RRF - Context,W1::Cancer|MP:4939,2,10,0.40000000000000002,0,1,1
+RRF - Context,W1::Colorectal Cancer|MP:5117,2,1,-0.5,-1,0,0
+RRF - Context,W1::Colorectal Cancer|MP:5317,6,2,-0.33333333333333337,0,-1,-1
+RRF - Context,W1::Colorectal Cancer|MP:5627,6,2,-0.33333333333333337,0,-1,-1
+RRF - Context,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",1,1,0,0,0,0
+RRF - Context,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,,,0,0,0,0
+RRF - Context,W1::Lung Carcinoma|MP:4409,4,2,-0.25,0,-1,0
+RRF - Context,W1::Lung Non-small Cell Carcinoma|MP:5861,,,0,0,0,0
+RRF - Context,W1::Lung Non-small Cell Carcinoma|MP:5862,,,0,0,0,0
+RRF - Context,W1::Medullary Thyroid Carcinoma|MP:4938,1,4,0.75,1,1,0
+RRF - Context,W1::Solid Tumor|MP:3333,1,1,0,0,0,0
+RRF - Context,W1::Solid Tumor|MP:4409,4,2,-0.25,0,-1,0
+RRF - Context,W1::Thyroid Cancer|MP:3333,1,1,0,0,0,0
+RRF - Context,W1::Uterine Cancer|MP:4409,4,2,-0.25,0,-1,0
+RRF - Context,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,1,1,0,0,0,0
+RRF - Context,W2::Diffuse Large B-cell Lymphoma|MP:4344,1,1,0,0,0,0
+RRF - Context,W2::Lung Adenocarcinoma|MP:5927,1,4,0.75,1,1,0
+RRF - Context,W2::Lung Non-small Cell Carcinoma|MP:4659,1,1,0,0,0,0
+RRF - Context,W2::Lung Non-small Cell Carcinoma|MP:4660,2,12,0.41666666666666669,0,1,1
+RRF - Context,W2::Urinary Bladder Cancer|MP:624,2,2,0,0,0,0
+RRF - Context,W3::Acral Lentiginous Melanoma|MP:423,,,0,0,0,0
+RRF - Context,W3::Acral Lentiginous Melanoma|MP:5250,,,0,0,0,0
+RRF - Context,W3::Acral Lentiginous Melanoma|MP:870,,,0,0,0,0
+RRF - Context,W3::Acute Myeloid Leukemia|MP:5963,1,4,0.75,1,1,0
+RRF - Context,W3::Appendix Cancer|MP:4494,,,0,0,0,0
+RRF - Context,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,28,27,-0.0013227513227513227,0,0,0
+RRF - Context,W3::Castration-resistant Prostate Carcinoma|MP:4409,6,3,-0.16666666666666666,0,-1,-1
+RRF - Context,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,2,3,0.16666666666666669,0,0,0
+RRF - Context,W3::Glioblastoma|MP:808,1,2,0.5,1,0,0
+RRF - Context,W3::HER2 Positive Breast Cancer|MP:2235,23,12,-0.039855072463768113,0,0,0
+RRF - Context,W3::Intrahepatic Cholangiocarcinoma|MP:6042,3,3,0,0,0,0
+RRF - Context,W3::Intrahepatic Cholangiocarcinoma|MP:764,3,3,0,0,0,0
+RRF - Context,W3::Malignant Ovarian Brenner Tumor|MP:624,2,2,0,0,0,0
+RRF - Context,W3::Melanoma|MP:4827,,,0,0,0,0
+RRF - Context,W3::Melanoma|MP:6034,,,0,0,0,0
+RRF - Context,W3::Melanoma|MP:6077,5,3,-0.1333333333333333,0,-1,0
+RRF - Context,W3::Mucosal Melanoma|MP:95,,,0,0,0,0
+RRF - Context,W3::Pseudomyxoma Peritonei|MP:4494,,,0,0,0,0
+RRF - Context,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,3,2,-0.16666666666666669,0,0,0
+RRF - Context,W3::Skin Melanoma|MP:6035,,,0,0,0,0
+RRF - Context,W3::Skin Melanoma|MP:6036,1,4,0.75,1,1,0
+RRF - Context,W3::Skin Melanoma|MP:6037,,,0,0,0,0
+RRF - CIViC,W1::Biliary Tract Cancer|MP:4409,4,2,-0.25,0,-1,0
+RRF - CIViC,W1::Breast Carcinoma|MP:4409,4,2,-0.25,0,-1,0
+RRF - CIViC,W1::Cancer|MP:113,2,10,0.40000000000000002,0,1,1
+RRF - CIViC,W1::Cancer|MP:4939,2,10,0.40000000000000002,0,1,1
+RRF - CIViC,W1::Colorectal Cancer|MP:5117,2,1,-0.5,-1,0,0
+RRF - CIViC,W1::Colorectal Cancer|MP:5317,6,2,-0.33333333333333337,0,-1,-1
+RRF - CIViC,W1::Colorectal Cancer|MP:5627,6,2,-0.33333333333333337,0,-1,-1
+RRF - CIViC,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",1,1,0,0,0,0
+RRF - CIViC,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,,,0,0,0,0
+RRF - CIViC,W1::Lung Carcinoma|MP:4409,4,2,-0.25,0,-1,0
+RRF - CIViC,W1::Lung Non-small Cell Carcinoma|MP:5861,,,0,0,0,0
+RRF - CIViC,W1::Lung Non-small Cell Carcinoma|MP:5862,,,0,0,0,0
+RRF - CIViC,W1::Medullary Thyroid Carcinoma|MP:4938,1,4,0.75,1,1,0
+RRF - CIViC,W1::Solid Tumor|MP:3333,1,1,0,0,0,0
+RRF - CIViC,W1::Solid Tumor|MP:4409,4,2,-0.25,0,-1,0
+RRF - CIViC,W1::Thyroid Cancer|MP:3333,1,1,0,0,0,0
+RRF - CIViC,W1::Uterine Cancer|MP:4409,4,2,-0.25,0,-1,0
+RRF - CIViC,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,1,1,0,0,0,0
+RRF - CIViC,W2::Diffuse Large B-cell Lymphoma|MP:4344,1,1,0,0,0,0
+RRF - CIViC,W2::Lung Adenocarcinoma|MP:5927,1,4,0.75,1,1,0
+RRF - CIViC,W2::Lung Non-small Cell Carcinoma|MP:4659,1,1,0,0,0,0
+RRF - CIViC,W2::Lung Non-small Cell Carcinoma|MP:4660,2,12,0.41666666666666669,0,1,1
+RRF - CIViC,W2::Urinary Bladder Cancer|MP:624,2,2,0,0,0,0
+RRF - CIViC,W3::Acral Lentiginous Melanoma|MP:423,,,0,0,0,0
+RRF - CIViC,W3::Acral Lentiginous Melanoma|MP:5250,,,0,0,0,0
+RRF - CIViC,W3::Acral Lentiginous Melanoma|MP:870,,,0,0,0,0
+RRF - CIViC,W3::Acute Myeloid Leukemia|MP:5963,1,4,0.75,1,1,0
+RRF - CIViC,W3::Appendix Cancer|MP:4494,,,0,0,0,0
+RRF - CIViC,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,28,,0.035714285714285712,0,0,0
+RRF - CIViC,W3::Castration-resistant Prostate Carcinoma|MP:4409,6,3,-0.16666666666666666,0,-1,-1
+RRF - CIViC,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,2,3,0.16666666666666669,0,0,0
+RRF - CIViC,W3::Glioblastoma|MP:808,1,2,0.5,1,0,0
+RRF - CIViC,W3::HER2 Positive Breast Cancer|MP:2235,23,12,-0.039855072463768113,0,0,0
+RRF - CIViC,W3::Intrahepatic Cholangiocarcinoma|MP:6042,3,3,0,0,0,0
+RRF - CIViC,W3::Intrahepatic Cholangiocarcinoma|MP:764,3,3,0,0,0,0
+RRF - CIViC,W3::Malignant Ovarian Brenner Tumor|MP:624,2,2,0,0,0,0
+RRF - CIViC,W3::Melanoma|MP:4827,,,0,0,0,0
+RRF - CIViC,W3::Melanoma|MP:6034,,,0,0,0,0
+RRF - CIViC,W3::Melanoma|MP:6077,5,3,-0.1333333333333333,0,-1,0
+RRF - CIViC,W3::Mucosal Melanoma|MP:95,,,0,0,0,0
+RRF - CIViC,W3::Pseudomyxoma Peritonei|MP:4494,,,0,0,0,0
+RRF - CIViC,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,3,2,-0.16666666666666669,0,0,0
+RRF - CIViC,W3::Skin Melanoma|MP:6035,,,0,0,0,0
+RRF - CIViC,W3::Skin Melanoma|MP:6036,1,4,0.75,1,1,0
+RRF - CIViC,W3::Skin Melanoma|MP:6037,,,0,0,0,0
+SharedFirstContext - Context,W1::Biliary Tract Cancer|MP:4409,2,2,0,0,0,0
+SharedFirstContext - Context,W1::Breast Carcinoma|MP:4409,2,2,0,0,0,0
+SharedFirstContext - Context,W1::Cancer|MP:113,4,10,0.14999999999999999,0,0,1
+SharedFirstContext - Context,W1::Cancer|MP:4939,4,10,0.14999999999999999,0,0,1
+SharedFirstContext - Context,W1::Colorectal Cancer|MP:5117,1,1,0,0,0,0
+SharedFirstContext - Context,W1::Colorectal Cancer|MP:5317,6,2,-0.33333333333333337,0,-1,-1
+SharedFirstContext - Context,W1::Colorectal Cancer|MP:5627,6,2,-0.33333333333333337,0,-1,-1
+SharedFirstContext - Context,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",1,1,0,0,0,0
+SharedFirstContext - Context,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,,,0,0,0,0
+SharedFirstContext - Context,W1::Lung Carcinoma|MP:4409,2,2,0,0,0,0
+SharedFirstContext - Context,W1::Lung Non-small Cell Carcinoma|MP:5861,,,0,0,0,0
+SharedFirstContext - Context,W1::Lung Non-small Cell Carcinoma|MP:5862,,,0,0,0,0
+SharedFirstContext - Context,W1::Medullary Thyroid Carcinoma|MP:4938,3,4,0.083333333333333315,0,1,0
+SharedFirstContext - Context,W1::Solid Tumor|MP:3333,1,1,0,0,0,0
+SharedFirstContext - Context,W1::Solid Tumor|MP:4409,2,2,0,0,0,0
+SharedFirstContext - Context,W1::Thyroid Cancer|MP:3333,1,1,0,0,0,0
+SharedFirstContext - Context,W1::Uterine Cancer|MP:4409,2,2,0,0,0,0
+SharedFirstContext - Context,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,1,1,0,0,0,0
+SharedFirstContext - Context,W2::Diffuse Large B-cell Lymphoma|MP:4344,1,1,0,0,0,0
+SharedFirstContext - Context,W2::Lung Adenocarcinoma|MP:5927,4,4,0,0,0,0
+SharedFirstContext - Context,W2::Lung Non-small Cell Carcinoma|MP:4659,1,1,0,0,0,0
+SharedFirstContext - Context,W2::Lung Non-small Cell Carcinoma|MP:4660,6,12,0.083333333333333329,0,0,0
+SharedFirstContext - Context,W2::Urinary Bladder Cancer|MP:624,2,2,0,0,0,0
+SharedFirstContext - Context,W3::Acral Lentiginous Melanoma|MP:423,,,0,0,0,0
+SharedFirstContext - Context,W3::Acral Lentiginous Melanoma|MP:5250,,,0,0,0,0
+SharedFirstContext - Context,W3::Acral Lentiginous Melanoma|MP:870,,,0,0,0,0
+SharedFirstContext - Context,W3::Acute Myeloid Leukemia|MP:5963,1,4,0.75,1,1,0
+SharedFirstContext - Context,W3::Appendix Cancer|MP:4494,,,0,0,0,0
+SharedFirstContext - Context,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,27,27,0,0,0,0
+SharedFirstContext - Context,W3::Castration-resistant Prostate Carcinoma|MP:4409,3,3,0,0,0,0
+SharedFirstContext - Context,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,1,3,0.66666666666666674,1,0,0
+SharedFirstContext - Context,W3::Glioblastoma|MP:808,1,2,0.5,1,0,0
+SharedFirstContext - Context,W3::HER2 Positive Breast Cancer|MP:2235,14,12,-0.011904761904761904,0,0,0
+SharedFirstContext - Context,W3::Intrahepatic Cholangiocarcinoma|MP:6042,1,3,0.66666666666666674,1,0,0
+SharedFirstContext - Context,W3::Intrahepatic Cholangiocarcinoma|MP:764,1,3,0.66666666666666674,1,0,0
+SharedFirstContext - Context,W3::Malignant Ovarian Brenner Tumor|MP:624,2,2,0,0,0,0
+SharedFirstContext - Context,W3::Melanoma|MP:4827,,,0,0,0,0
+SharedFirstContext - Context,W3::Melanoma|MP:6034,,,0,0,0,0
+SharedFirstContext - Context,W3::Melanoma|MP:6077,3,3,0,0,0,0
+SharedFirstContext - Context,W3::Mucosal Melanoma|MP:95,,,0,0,0,0
+SharedFirstContext - Context,W3::Pseudomyxoma Peritonei|MP:4494,,,0,0,0,0
+SharedFirstContext - Context,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,1,2,0.5,1,0,0
+SharedFirstContext - Context,W3::Skin Melanoma|MP:6035,,,0,0,0,0
+SharedFirstContext - Context,W3::Skin Melanoma|MP:6036,3,4,0.083333333333333315,0,1,0
+SharedFirstContext - Context,W3::Skin Melanoma|MP:6037,,,0,0,0,0
+RRF - SharedFirstContext,W1::Biliary Tract Cancer|MP:4409,4,2,-0.25,0,-1,0
+RRF - SharedFirstContext,W1::Breast Carcinoma|MP:4409,4,2,-0.25,0,-1,0
+RRF - SharedFirstContext,W1::Cancer|MP:113,2,4,0.25,0,1,0
+RRF - SharedFirstContext,W1::Cancer|MP:4939,2,4,0.25,0,1,0
+RRF - SharedFirstContext,W1::Colorectal Cancer|MP:5117,2,1,-0.5,-1,0,0
+RRF - SharedFirstContext,W1::Colorectal Cancer|MP:5317,6,6,0,0,0,0
+RRF - SharedFirstContext,W1::Colorectal Cancer|MP:5627,6,6,0,0,0,0
+RRF - SharedFirstContext,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",1,1,0,0,0,0
+RRF - SharedFirstContext,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,,,0,0,0,0
+RRF - SharedFirstContext,W1::Lung Carcinoma|MP:4409,4,2,-0.25,0,-1,0
+RRF - SharedFirstContext,W1::Lung Non-small Cell Carcinoma|MP:5861,,,0,0,0,0
+RRF - SharedFirstContext,W1::Lung Non-small Cell Carcinoma|MP:5862,,,0,0,0,0
+RRF - SharedFirstContext,W1::Medullary Thyroid Carcinoma|MP:4938,1,3,0.66666666666666674,1,0,0
+RRF - SharedFirstContext,W1::Solid Tumor|MP:3333,1,1,0,0,0,0
+RRF - SharedFirstContext,W1::Solid Tumor|MP:4409,4,2,-0.25,0,-1,0
+RRF - SharedFirstContext,W1::Thyroid Cancer|MP:3333,1,1,0,0,0,0
+RRF - SharedFirstContext,W1::Uterine Cancer|MP:4409,4,2,-0.25,0,-1,0
+RRF - SharedFirstContext,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,1,1,0,0,0,0
+RRF - SharedFirstContext,W2::Diffuse Large B-cell Lymphoma|MP:4344,1,1,0,0,0,0
+RRF - SharedFirstContext,W2::Lung Adenocarcinoma|MP:5927,1,4,0.75,1,1,0
+RRF - SharedFirstContext,W2::Lung Non-small Cell Carcinoma|MP:4659,1,1,0,0,0,0
+RRF - SharedFirstContext,W2::Lung Non-small Cell Carcinoma|MP:4660,2,6,0.33333333333333337,0,1,1
+RRF - SharedFirstContext,W2::Urinary Bladder Cancer|MP:624,2,2,0,0,0,0
+RRF - SharedFirstContext,W3::Acral Lentiginous Melanoma|MP:423,,,0,0,0,0
+RRF - SharedFirstContext,W3::Acral Lentiginous Melanoma|MP:5250,,,0,0,0,0
+RRF - SharedFirstContext,W3::Acral Lentiginous Melanoma|MP:870,,,0,0,0,0
+RRF - SharedFirstContext,W3::Acute Myeloid Leukemia|MP:5963,1,1,0,0,0,0
+RRF - SharedFirstContext,W3::Appendix Cancer|MP:4494,,,0,0,0,0
+RRF - SharedFirstContext,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,28,27,-0.0013227513227513227,0,0,0
+RRF - SharedFirstContext,W3::Castration-resistant Prostate Carcinoma|MP:4409,6,3,-0.16666666666666666,0,-1,-1
+RRF - SharedFirstContext,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,2,1,-0.5,-1,0,0
+RRF - SharedFirstContext,W3::Glioblastoma|MP:808,1,1,0,0,0,0
+RRF - SharedFirstContext,W3::HER2 Positive Breast Cancer|MP:2235,23,14,-0.027950310559006208,0,0,0
+RRF - SharedFirstContext,W3::Intrahepatic Cholangiocarcinoma|MP:6042,3,1,-0.66666666666666674,-1,0,0
+RRF - SharedFirstContext,W3::Intrahepatic Cholangiocarcinoma|MP:764,3,1,-0.66666666666666674,-1,0,0
+RRF - SharedFirstContext,W3::Malignant Ovarian Brenner Tumor|MP:624,2,2,0,0,0,0
+RRF - SharedFirstContext,W3::Melanoma|MP:4827,,,0,0,0,0
+RRF - SharedFirstContext,W3::Melanoma|MP:6034,,,0,0,0,0
+RRF - SharedFirstContext,W3::Melanoma|MP:6077,5,3,-0.1333333333333333,0,-1,0
+RRF - SharedFirstContext,W3::Mucosal Melanoma|MP:95,,,0,0,0,0
+RRF - SharedFirstContext,W3::Pseudomyxoma Peritonei|MP:4494,,,0,0,0,0
+RRF - SharedFirstContext,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,3,1,-0.66666666666666674,-1,0,0
+RRF - SharedFirstContext,W3::Skin Melanoma|MP:6035,,,0,0,0,0
+RRF - SharedFirstContext,W3::Skin Melanoma|MP:6036,1,3,0.66666666666666674,1,0,0
+RRF - SharedFirstContext,W3::Skin Melanoma|MP:6037,,,0,0,0,0

@@ -1,0 +1,7 @@
+Use title-only figure and table captions. Place sample definitions, units, abbreviations and interpretation in manuscript prose; do not add below-table note blocks.
+Fragments use booktabs and graphicx, already loaded in the baseline. Inputs are relative to manuscript root; include using \input{generated/table_main_results.tex}, etc.
+Main recommendations: table_candidate_coverage.tex, table_main_results.tex, table_paired_replay.tex, table_shuffle_replay.tex, table_cases_with_context.tex, table_source_excluded.tex, and figure_hrk.tex. Do not duplicate table_new_old_tradeoff.tex and table_branch_lengths.tex in main if space is tight; move to supplement. table_shuffle_all_supp.tex is full two-cohort supplementary reporting.
+Main CI table's Shared--Context and RRF--Shared rows already show the two membership steps; no duplicate step table is generated.
+RRF--Context delta +0.0435293817, drug/source CIs both cross zero. Shared-first replay MRR 0.4264844209 vs RRF 0.3895376121; all four Context/RRF/Shared-first/CIViC HR@5 = 27/45. Source exclusion leaves 39 queries/39 positives; RRF HR@5 22/39 vs Context/CIViC 23/39. Do not claim stable superiority or causal membership attribution.
+Table labels preserve baseline main/coverage/cases/order-ablation/hrk identifiers; paired, source-exclusion, tradeoff and lengths labels are new. Use table_shuffle_all_supp only in Supplement_S1 if repeated labels avoided.
+

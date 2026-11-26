@@ -1,0 +1,8 @@
+﻿claim,evidence,allowed,avoid
+主回放 RRF 点估计高于 Context,E1 delta +0.0435293817; both cluster intervals cross zero,点估计较高，样本不足以确立稳定优势,显著或稳定优于强基线
+共有优先规则解释排序改善,E2 SharedFirstContext MRR 0.4264844 vs RRF 0.3895376,简单共有优先规则在本回放复现并超过 RRF 相对 Context 的点估计增益；无因果归因,RRF 内部排序是收益的必要来源；共有优先已证明显著优于RRF
+来源内部顺序贡献,E3 graph and CIViC shuffles; Holm family 12,固定成员和另一分支顺序下的条件性诊断，按每项校正结果报告,所有指标显著；图谱没有信息；临床疗效改善
+同源标签敏感性,E4 7/46 confirmed overlapping pairs; 39 queries/39 pairs retained,剩余子集的方法差值仍为正但 HR@5 RRF 为22/39，Context为23/39,已排除所有泄漏；子集绝对MRR下降证明泄漏
+扩池覆盖与位移,E5 displacement -0.03096774; coverage +0.02171410; net -0.00925364,本回放扩池的覆盖收益不足以抵消原阳性位移损失,所有融合普遍有害
+54组参数稳健性,E6 replay 30/54 higher than Context and CIViC; 24/54 lower,相对Append-SF的54/54优势不能替代相对强基线的稳健性,54组参数均超过强基线
+双序列上界,"archived U3=0.3294, RRF=0.3895, U2=0.4568",超过U3只说明至少放松两条序列约束之一,必须打乱图谱旧顺序

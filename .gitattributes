@@ -1,0 +1,5 @@
+# Preserve release bytes: static SHA-256 checks must survive Git checkout.
+* -text
+*.png binary
+*.pdf binary
+*.npz binary

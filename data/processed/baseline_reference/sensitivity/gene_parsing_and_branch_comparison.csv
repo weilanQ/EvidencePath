@@ -1,0 +1,5 @@
+﻿window_id,query_id,disease,molecular_profile_A,molecular_profile_B,parsed_genes_A,parsed_genes_B,r0_count_A,r0_count_B,r0_delta,civic_branch_count_A,civic_branch_count_B,civic_branch_delta,r1_count_A,r1_count_B,r1_delta,candidate_set_diff_A_minus_B,candidate_set_diff_B_minus_A,positive_drug,positive_recalled_A,positive_recalled_B
+W1,Colorectal Cancer|MP:5117,Colorectal Cancer,MSI High,TMB High,(none),(none),5,5,0,2,2,0,7,7,0,Ø,Ø,pembrolizumab,True,True
+W1,Head And Neck Squamous Cell Carcinoma|MP:5117,Head And Neck Squamous Cell Carcinoma,MSI High,TMB High,(none),(none),0,0,0,2,2,0,2,2,0,Ø,Ø,durvalumab,False,False
+W3,Skin Melanoma|MP:6036,Skin Melanoma,BRAF V600K,AGAP3::BRAF Fusion,BRAF,AGAP3; BRAF,33,33,0,20,20,0,46,46,0,Ø,Ø,trametinib,True,True
+W3,Melanoma|MP:281,Melanoma,BRAF V600E,AGK::BRAF Fusion,BRAF,AGK; BRAF,37,37,0,20,20,0,50,50,0,Ø,Ø,belvarafenib,False,False

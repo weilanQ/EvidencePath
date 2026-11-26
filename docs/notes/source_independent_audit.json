@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checks": {
+    "baseline_mrr_exact_fraction": true,
+    "shared_first_stable_partition_all_candidates": true,
+    "cluster_bootstrap_explicit_query_reweighting_40_samples": true,
+    "graph_permutation_exact_fraction_258_query_round_checks": true,
+    "all_46_source_overlaps_recomputed": true,
+    "all_45_decompositions_exact_fraction": true,
+    "all_100_anchor_unions_match_full_registered_defining_eids": true,
+    "all_input_hashes_unchanged": true,
+    "e0_to_e6_completed": true,
+    "executed_source_snapshot_matches": true
+  },
+  "input_files_unchanged": 39,
+  "audit_script_sha256": "5650c5fec27a280baee44ab18923ca12085bb27e6fb041df4f964b6d348fb91e"
+}

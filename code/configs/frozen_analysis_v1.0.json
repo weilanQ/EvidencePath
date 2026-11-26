@@ -1,0 +1,79 @@
+{
+  "release_version": "1.0",
+  "source_run": "20261123T004441Z",
+  "scope": "frozen-ranking reconstruction and archived-evidence verification",
+  "paths": {
+    "frozen_inputs": "data/processed/frozen_analysis",
+    "baseline_inputs": "data/processed/baseline_reference",
+    "default_output": "code/results/generated"
+  },
+  "cohorts": {
+    "development": {
+      "queries": 41,
+      "positive_pairs": 43
+    },
+    "replay": {
+      "queries": 45,
+      "positive_pairs": 46
+    },
+    "cutoff_defined": {
+      "queries": 3,
+      "positive_pairs": 3
+    },
+    "augmentation": {
+      "queries": 1,
+      "positive_pairs": 1
+    }
+  },
+  "rrf": {
+    "k": 60,
+    "graph_weight": 0.5,
+    "evidence_weight": 0.5,
+    "tie_break": "canonical drug name"
+  },
+  "bootstrap": {
+    "replicates_per_partition": 10000,
+    "rng": "PCG64",
+    "drug_seed": 2026112301,
+    "source_seed": 2026112302,
+    "statistic": "query-weighted paired mean using actual sampled query count",
+    "interval": "linear 2.5/97.5 empirical percentiles"
+  },
+  "permutations": {
+    "draws_per_branch_and_cohort": 5000,
+    "rng": "PCG64",
+    "seed": 7147,
+    "reset_per_cohort": true,
+    "holm_family": 12
+  },
+  "candidate_channel": {
+    "shared_pathways_min": 5,
+    "jaccard_min": 0.08,
+    "top_k": 30,
+    "scope": "shared-pathway route only; unioned with direct-target and indication candidates"
+  },
+  "insertion": {
+    "lambda": 4,
+    "transition_tie_tolerance": 1e-12,
+    "tie_policy": "end prefix with old item"
+  },
+  "expected_replay_mrr": {
+    "RRF": 0.3895376121463077,
+    "Context": 0.3460082304526748,
+    "SharedFirstContext": 0.4264844209288652
+  },
+  "expected_development_mrr": {
+    "RRF": 0.4594137783483097
+  },
+  "historical_default_scripts": [
+    "run_main_results.py",
+    "run_cluster_sensitivity.py",
+    "run_descriptor_sensitivity.py",
+    "run_parameter_grid.py"
+  ],
+  "optional_historical_live_scripts": [
+    "run_civic_order_shuffle.py",
+    "plot_figures.py"
+  ],
+  "parameter_note": "Scientific settings describe the frozen artifacts; this entry point does not retrain models or re-generate every saved resampling replicate."
+}

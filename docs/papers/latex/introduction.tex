@@ -1,0 +1,32 @@
+\section{Introduction}
+\label{sec:intro}
+Adding an evidence source changes both which candidates a query can retrieve and which appear near the top. For a joint cancer and molecular-profile query, PrimeKG supplies mechanism-linked drug candidates, while CIViC records evidence with disease, profile, direction, and provenance~\cite{primekg,civic2022}. Clinical evidence can recover a positive absent from the graph pool, but combining the pools also changes competition with previously reachable positives.
+
+We study retrieval of \emph{later qualifying CIViC annotations}, rather than prediction of treatment efficacy. The main retrospective replay contains 45 cancer--profile queries and 46 positive drug pairs. Its query descriptors are identified from the endpoint, while candidate retrieval and ranking use each window's opening evidence snapshot. Three queries identifiable at the window start form a separate, smaller cohort. Thus later entry into the knowledgebase is the evaluation event; it need not represent a newly discovered biological association or a prospectively available query.
+
+Partially overlapping candidate lists introduce a second distinction beyond coverage. A shared drug contributes a rank from each branch under standard reciprocal rank fusion (RRF)~\cite{rrf}. An observed gain may therefore be reproduced by a simple rule favoring shared membership, even without RRF's particular use of within-list ranks. We ask how candidate access, a shared-first control, and conditional changes to source order correspond to retrieval outcomes, and how those outcomes vary with retrieval depth. The comparisons diagnose fixed inputs; they do not causally partition biomedical information.
+
+The replay illustrates why a strong same-pool comparison matters. RRF reaches query mean reciprocal rank (MRR) 0.3895 versus 0.3460 for Context, but paired 95\% cluster-bootstrap intervals under both drug- and source-defined query groups span zero. A parameter-free shared-first Context rule reaches 0.4265, and all three policies hit 27/45 queries in the top five. The observed ordering reverses in development: RRF reaches 0.4594 versus 0.3750 for shared-first Context. These results do not establish either policy as a general winner; they show that an RRF advantage over appending does not establish an advantage of its ranking rule over simpler same-union controls.
+
+Access and placement also differ under frozen scoring. In replay, expansion raises pair coverage from 20/46 to 33/46, while rescoring lowers MRR from 0.1902 to 0.1809. The gain from newly reachable positives is smaller than the displacement loss on original positives. EvidencePath preserves canonical single-drug identity, branch membership, ranks, and provenance to make these comparisons inspectable. SF includes both graph features and drug-level CIViC counts; the graph pool is not a pure graph-feature baseline. All added controls are post hoc diagnostics on exposed cohorts, with frozen models and fusion defaults.
+
+We make three contributions.
+\begin{enumerate}
+\item \textbf{A traceable retrospective retrieval setting.} We separate development, cutoff-defined queries, and endpoint-defined replay, retain complete positive denominators, and connect frozen candidate lists to their visible evidence and later annotation sources.
+\item \textbf{Fixed-pool diagnostics of coverage, membership, and ordering.} An MRR decomposition, paired cluster analyses, and a shared-first control test whether observed fusion gains persist against competitive same-union alternatives, while retaining uncertain and unfavorable outcomes.
+\item \textbf{Evidence on depth-dependent trade-offs and conditional limits.} Source-order permutations, new-positive versus old-hit retention, source-overlap sensitivity, and an exact two-sequence ceiling characterize what the measured policies achieve under specified inputs and constraints.
+\end{enumerate}
+
+\section{Related Work}
+\label{sec:related}
+\paragraph{Drug retrieval over heterogeneous evidence.}
+Drug repurposing links mechanisms to potential therapeutic uses~\cite{pushpakom}. PrimeKG provides a biomedical graph~\cite{primekg}; TxGNN predicts disease-level indications and contraindications~\cite{txgnn}, and AURORA scores drug--disease associations~\cite{aurora}. PanDrugs2 prioritizes therapies from individual multi-omics inputs~\cite{pandrugs2}. Their inputs and endpoints differ from later annotation retrieval for a cancer--profile key, so their task-level scores are not matched comparisons here.
+
+\paragraph{Clinical knowledge and gene--drug retrieval.}
+CIViC retains direction, level, and provenance for profiles that may contain multiple variants~\cite{civic,civic2022,civiccuration,civicmp}. OncoKB and ESCAT organize contextual actionability~\cite{oncokb,escat}. GeneDrug retrieves gene--drug evidence, while GGEF evaluates relation extraction from cancer guidelines~\cite{genedrug,ggef}. We hold evidence visibility and candidate construction fixed when comparing the ordering of canonical drugs.
+
+\paragraph{Learning to rank and fusion.}
+We use LambdaMART with LightGBM and metasearch aggregation~\cite{lambdamart,lightgbm,metasearch,rrf}. Bruch et al.\ compare score convex combinations with RRF and examine parameter sensitivity~\cite{bruch}. Exp4Fuse combines original- and LLM-expanded-query routes and weights fusion using the number of lists containing a document~\cite{exp4fuse}. Shared support is therefore an existing fusion signal. We use standard RRF and diagnose fixed biomedical lists; we claim neither a new fusion rule nor superiority over untested rules.
+
+\paragraph{Evaluation with evolving knowledge.}
+Retrospective estimates depend on query selection, information visibility, and model-selection exposure~\cite{cawley,kapoor}. Dated exports make these boundaries inspectable but do not create an independent prospective validation. Sect.~\ref{sec:eval} separates the evaluation populations and specifies the paired, conditional, and provenance-based analyses.

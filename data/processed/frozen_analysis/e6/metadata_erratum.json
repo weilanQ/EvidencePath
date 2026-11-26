@@ -1,0 +1,12 @@
+{
+  "source": "runs/20261123T004441Z/e6/reproduction_settings.csv",
+  "field": "Candidate limit",
+  "old_problem": "此前说明完整并集无截断，未区分图谱共享通路生成支路的Top-30限制",
+  "correction": "共享通路候选：shared>=5且Jaccard>=0.08，依Jaccard降序、覆盖率降序、规范名称升序取Top-30，与直接靶点及适应证候选取并；不是总R0上限30；临床分支及最终并集无额外截断",
+  "affected": "复现说明文字；冻结候选、模型、排名和本次指标不受影响",
+  "requires_experiment_rerun": false,
+  "verified_code": "<PROJECT_ROOT>\\EvidencePath_Applicability_Dev_v1\\research_direction_screening\\merge_study_v1\\08_final_validation\\inference_adapter_v2_raw_rebuild\\candidate_generator.py",
+  "code_sha256": "6c2bee05d87ad16774a659a94d10263eca523d7760b08ba89d445d04650ad217",
+  "corrected_table": "reproduction_settings_corrected_20261123.csv",
+  "original_experiment_tables_unchanged": true
+}

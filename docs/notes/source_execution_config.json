@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "protocol_date": "2026-11-23",
+  "timezone": "Asia/Shanghai",
+  "status": "passed",
+  "experiments_executed": true,
+  "protocol_file": "实验方案与交接.txt",
+  "input_manifest_file": "inputs_manifest.json",
+  "source_project_root": "<PROJECT_ROOT>",
+  "execution_output_root": "<PROJECT_ROOT>\\DASFAA2027_supplementary_20261123",
+  "repository": {
+    "reference_commit": "e6135082b9701b2e194af0d87fd4a1d156324f44",
+    "remote_mutation_requested": false
+  },
+  "scope": {
+    "evaluation_group": "NEW_ENDPOINT_QUERY",
+    "endpoint_type": "first_observed_pairs",
+    "query_key": [
+      "window_id",
+      "query_id"
+    ],
+    "candidate_key": [
+      "window_id",
+      "query_id",
+      "drug_norm"
+    ],
+    "positive_key": [
+      "window_id",
+      "query_id",
+      "positive_drug"
+    ],
+    "expected_queries": 45,
+    "expected_positive_pairs": 46,
+    "expected_union_candidate_rows": 1580,
+    "development_queries": 41,
+    "development_positive_pairs": 43,
+    "missing_positive_rr": 0,
+    "retain_unretrieved_labels": true
+  },
+  "rrf": {
+    "k": 60,
+    "graph_weight": 1,
+    "civic_weight": 1,
+    "score_order": "exact rational descending",
+    "tie_break": "drug_norm ascending",
+    "max_rank": "derive from observed branch lengths",
+    "refit": false
+  },
+  "metrics": {
+    "primary": "query_mrr",
+    "query_rr": "reciprocal of best eligible positive rank; zero if none retrieved",
+    "hits_at": [
+      1,
+      3,
+      5
+    ],
+    "supplementary": [
+      "query_hr10",
+      "pair_mrr"
+    ],
+    "win_tie_loss": "exact best-positive ranks with unretrieved state; no rounded RR comparison",
+    "mrr_tolerance": 1e-12
+  },
+  "bootstrap": {
+    "unit": "connected component",
+    "partitions": [
+      "shared_positive_drug",
+      "shared_canonical_positive_label_source"
+    ],
+    "draw_components": "C draws with replacement from C components",
+    "statistic": "sum of sampled query differences divided by actual sampled query count",
+    "rounds": 10000,
+    "rng": "NumPy PCG64",
+    "seeds": {
+      "drug": 2026112301,
+      "source": 2026112302
+    },
+    "interval": "percentile [0.025,0.975]; linear quantile interpolation",
+    "loco": true
+  },
+  "permutation": {
+    "new_branch": "graph",
+    "fixed_branch": "CIViC complete frozen order",
+    "rounds": 5000,
+    "seed": 7147,
+    "rng": "NumPy PCG64",
+    "reset_per_cohort": true,
+    "query_order": "stable sorted (window_id, query_id)",
+    "fixed": [
+      "candidate_union",
+      "branch_membership",
+      "positive_labels",
+      "CIViC_order",
+      "rrf_parameters",
+      "final_tie_rule"
+    ],
+    "tail": "greater_or_equal",
+    "p_correction": "(upper_tail_count+1)/(rounds+1)",
+    "multiplicity": {
+      "method": "Holm",
+      "family": "2 branches x 2 cohorts x 3 metrics",
+      "tests": 12,
+      "conditional": "when making significance claims across combined permutation table"
+    }
+  },
+  "source_exclusion": {
+    "input_source_set": "union of evidence actually used for candidate generation, clinical ordering, or SF count features for the fixed query and candidate union",
+    "positive_source_set": "all qualifying source records defining each frozen positive pair",
+    "matching": "any shared normalized PubMed identifier or typed source identifier",
+    "unknown_handling": "retain unknown-source labels in confirmed-overlap exclusion analysis and report missingness",
+    "drop": "confirmed-overlap labels only",
+    "ranking": "unchanged",
+    "queries": "drop queries with no remaining positive labels",
+    "new_labels": false,
+    "p6_sealed_pilot_in_scope": false
+  },
+  "expected_baselines": [
+    {
+      "method": "Context",
+      "rank_column": "b6_rank",
+      "query_mrr": 0.34600823045267487,
+      "hr1": 7,
+      "hr3": 23,
+      "hr5": 27,
+      "covered_pairs": 33
+    },
+    {
+      "method": "RRF",
+      "rank_column": "b5_rank",
+      "query_mrr": 0.3895376121463077,
+      "hr1": 11,
+      "hr3": 21,
+      "hr5": 27,
+      "covered_pairs": 33
+    },
+    {
+      "method": "CIViC",
+      "rank_column": "re",
+      "query_mrr": 0.34518518518518515,
+      "hr1": 7,
+      "hr3": 23,
+      "hr5": 27,
+      "covered_pairs": 32
+    },
+    {
+      "method": "Graph",
+      "rank_column": "b0_rank",
+      "query_mrr": 0.19017639232297678,
+      "hr1": 7,
+      "hr3": 9,
+      "hr5": 10,
+      "covered_pairs": 20
+    },
+    {
+      "method": "Mix",
+      "rank_column": "b1_rank",
+      "query_mrr": 0.18092274927362648,
+      "hr1": 6,
+      "hr3": 8,
+      "hr5": 9,
+      "covered_pairs": 33
+    }
+  ],
+  "tasks": [
+    {
+      "id": "E0",
+      "name": "输入冻结与基准核验",
+      "depends_on": [],
+      "status": "passed",
+      "proposed_script": "verify_frozen_inputs.py",
+      "script_implemented": true,
+      "outputs": [
+        "baseline_metrics.csv",
+        "query_metrics.csv",
+        "positive_pair_ranks.csv",
+        "input_validation.json",
+        "frozen_analysis_bundle/"
+      ],
+      "gate": "all expected baseline counts and full RRF ranks reproduce",
+      "actual_script": "scripts/run_experiments.py"
+    },
+    {
+      "id": "E1",
+      "name": "主回放强基线统计",
+      "depends_on": [
+        "E0"
+      ],
+      "status": "passed",
+      "proposed_script": "run_strong_baseline_stats.py",
+      "script_implemented": true,
+      "outputs": [
+        "strong_baseline_summary.csv",
+        "paired_query_differences.csv",
+        "cluster_memberships.csv",
+        "cluster_summary.csv",
+        "bootstrap_replicates.csv",
+        "leave_one_component_out.csv",
+        "new_old_top5_tradeoff.csv"
+      ],
+      "actual_script": "scripts/run_experiments.py"
+    },
+    {
+      "id": "E2",
+      "name": "共有候选优先对照",
+      "depends_on": [
+        "E0"
+      ],
+      "optional_dependency_for_intervals": "E1 bootstrap indices",
+      "status": "passed",
+      "proposed_script": "run_shared_first.py",
+      "script_implemented": true,
+      "ranking": "stable partition full frozen Context order into shared members followed by all others",
+      "outputs": [
+        "shared_first_rankings.csv",
+        "membership_diagnostic_summary.csv",
+        "stepwise_query_differences.csv",
+        "branch_lengths.csv",
+        "positive_origin_breakdown.csv"
+      ],
+      "actual_script": "scripts/run_experiments.py"
+    },
+    {
+      "id": "E3",
+      "name": "图谱顺序置换",
+      "depends_on": [
+        "E0"
+      ],
+      "status": "passed",
+      "proposed_script": "run_graph_order_shuffle.py",
+      "script_implemented": true,
+      "outputs": [
+        "graph_shuffle_round_metrics.csv",
+        "graph_and_civic_shuffle_summary.csv",
+        "permutation_tail_tests.csv",
+        "permutation_invariants.json"
+      ],
+      "actual_script": "scripts/run_experiments.py"
+    },
+    {
+      "id": "E4",
+      "name": "同源标签敏感性",
+      "depends_on": [
+        "E0"
+      ],
+      "status": "passed",
+      "input_readiness": "requires reconstruction and validation of actual query-level evidence lineage",
+      "proposed_script": "run_source_overlap.py",
+      "script_implemented": true,
+      "outputs": [
+        "query_start_evidence_used.csv",
+        "label_support_sources.csv",
+        "positive_source_overlap.csv",
+        "source_normalization_audit.csv",
+        "retained_labels.csv",
+        "source_excluded_metrics.csv",
+        "source_excluded_paired_differences.csv",
+        "lineage_validation.json"
+      ],
+      "actual_script": "scripts/run_experiments.py"
+    },
+    {
+      "id": "E5",
+      "name": "主回放 Mix 分解",
+      "depends_on": [
+        "E0"
+      ],
+      "status": "passed",
+      "input_readiness": "independent old-pool scores must be located; same-column comparison is insufficient",
+      "proposed_script": "run_replay_decomposition.py",
+      "script_implemented": true,
+      "outputs": [
+        "old_candidate_score_invariance.csv",
+        "query_displacement_decomposition.csv",
+        "replay_displacement_summary.csv",
+        "decomposition_validation.json"
+      ],
+      "actual_script": "scripts/run_experiments.py"
+    },
+    {
+      "id": "E6",
+      "name": "参数与论文证据整理",
+      "depends_on": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "status": "passed",
+      "proposed_script": "build_paper_evidence_tables.py",
+      "script_implemented": true,
+      "outputs": [
+        "parameter_grid_vs_strong_baselines.csv",
+        "parameter_robustness_summary.csv",
+        "reproduction_settings.csv",
+        "evidence_to_claims.csv"
+      ],
+      "partial_delivery": "retain explicit needs_input status for unresolved source lineage; do not mark complete",
+      "actual_script": "scripts/run_experiments.py"
+    }
+  ],
+  "execution_rules": {
+    "run_id_required": true,
+    "immutable_input": true,
+    "no_model_training": true,
+    "no_parameter_reselection_on_replay": true,
+    "no_existing_output_overwrite": true,
+    "do_not_execute_whole_legacy_notebooks": true,
+    "status_values": [
+      "planned",
+      "running",
+      "passed",
+      "failed",
+      "needs_input"
+    ],
+    "positive_result_required_for_pass": false
+  }
+}

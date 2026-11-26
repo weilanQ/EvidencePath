@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "train_pairs": 84,
+  "validation_pairs": 16,
+  "train_queries": 31,
+  "validation_queries": 7,
+  "profile_split_disjoint": true,
+  "pair_specific_anchor_intersections": 0,
+  "derived_count_checks": 300,
+  "count_max_absolute_error": 8.881784197001252e-16,
+  "scope": "all three derived CIViC count features consumed by frozen SF and AltGraph; does not audit unused legacy 37D features or certify clinical validity"
+}

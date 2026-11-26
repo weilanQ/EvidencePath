@@ -1,0 +1,635 @@
+{
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": "data/processed/baseline_reference/frozen_candidates/corrected_candidate_rankings.csv",
+      "bytes": 767390,
+      "sha256": "2abae4dbbfcaeaffa19bad0c0d879d19465bb2b96132c15e4e13689ec5f6f294",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/frozen_candidates/january_candidate_matrix_1051.csv",
+      "bytes": 269764,
+      "sha256": "522fb82b0e9607c54e89c027699ccde087c12c207291510003d3910a3d2aa90f",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/frozen_candidates/quarterly_candidate_matrix_2762.csv",
+      "bytes": 756637,
+      "sha256": "912083d7a0560c63aec2acaf650ab9b786350fbc8fa5010e5a4140ec136126a7",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/frozen_candidates/rebuilt_full_rankings_b0_b6.csv",
+      "bytes": 542996,
+      "sha256": "3350e31aeb930c71f3d034ad3ef028251a0866462290fdd9472c5628aabe88cb",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/ground_truth/corrected_main_summary.csv",
+      "bytes": 8320,
+      "sha256": "367197953d03f0d59e67874d9dc472d7b5b94a75db2ff304a15025f0a0a296ce",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/ground_truth/corrected_per_pair_comparison.csv",
+      "bytes": 30340,
+      "sha256": "51de2a8b52c5e8103781ea331b27a785055b985e80eaee5f75a63d88453abf5d",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/ground_truth/january_positive_pairs_43.csv",
+      "bytes": 9515,
+      "sha256": "7fc9fde167281d4eb19d2869c5b0f62f697e7da597eab55556dc7e9b269a631d",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/ground_truth/quarterly_positive_pairs_50.csv",
+      "bytes": 12534,
+      "sha256": "1613a27b0a95d9c6dc969b2abda615598f9ae9a55426c18f29503091de81ac1b",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/manifest/input_manifest.csv",
+      "bytes": 3476,
+      "sha256": "4323433d623f3a299058946457c23bd0e99fe1a9278200f47add4d560f1ff380",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/models/primekg_genes.json",
+      "bytes": 281131,
+      "sha256": "c2d524ba4d887bd6d6fb62dce54fc6cbc8244d3de012f18dbc2f3376110358f1",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/models/sf_july_simple_fusion_lambdamart_4iter.txt",
+      "bytes": 6457,
+      "sha256": "40dfd92427aa99406f394bbef3870faaa4732872aef3a5faf55c7d15d6ccd0dc",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sealed_pilot/formal_unblinding_evaluation_results.json",
+      "bytes": 3687,
+      "sha256": "fd3b2738bab0e0e9fd513e71e91ce3a62bc6a5938bd0051eac8e2b28aea8a09c",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sealed_pilot/formal_unblinding_report.md",
+      "bytes": 3699,
+      "sha256": "1fffc54a8627be2f853e6183dc39d8664590f4a69dd210b6a8d5c321427b8e80",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sealed_pilot/october_handover_certificate.csv",
+      "bytes": 2571,
+      "sha256": "5d82877aa0417c3d1cf14f6b89bd83efb0b56eed6570e29625426a3c56301ce9",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sealed_pilot/q_eval_and_positives_summary.csv",
+      "bytes": 251,
+      "sha256": "5b5f277869d8d58411290aa73e624862d2916d7784ddb0bab34a3224bdcbf3b1",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sealed_pilot/unique_positive_pairs.csv",
+      "bytes": 3494,
+      "sha256": "6e40d70673306a080ba3d6d13b82e32e7721e98b7bd7eba1dc6ba0f3ca5ae356",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/bootstrap_confidence_intervals.csv",
+      "bytes": 2931,
+      "sha256": "698d4d7abd859e08c2abecca13cacae4d9b53623436ecbc0892e6c29808f17ef",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/candidate_level_differences.csv",
+      "bytes": 19756,
+      "sha256": "8b4d9d6e72f0d24f74f59ffac4f74276de930b522ac9407f48367d32ca720a9a",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/cluster_definitions_summary.csv",
+      "bytes": 5175,
+      "sha256": "d2c31007dba4f0ee44c2beda6bee454c733fb9fc73cab2a9bf049f3600194d86",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/gene_parsing_and_branch_comparison.csv",
+      "bytes": 896,
+      "sha256": "3929490bd5fdbafbdac4eb2367b61670b062037380a8e1b86b7ac8ea627fa3ce",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/group_replacement_metrics_summary.csv",
+      "bytes": 3005,
+      "sha256": "aadf7d2e83c63d91c55e90865e156a8348e05dd06968ec67de8c0614bbc6c4d7",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/leave_one_cluster_out_sensitivity.csv",
+      "bytes": 10005,
+      "sha256": "72136c0aa0d555d3408f3223be1c3a8e228731c6d037bc7dbf20e54051ccc3f9",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/baseline_reference/sensitivity/positive_pair_ranks_comparison.csv",
+      "bytes": 1449,
+      "sha256": "c8b7a994f0f6fe8f378930c11f74a0c9a0a7f1a9f786d94862eabca88ebae49c",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/diagnostics/civic_shuffle_round_metrics.csv",
+      "bytes": 923124,
+      "sha256": "5f80da9e1c2cd7a95086c31964f5b308b7b541bf415093df54760cb28d62588e",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/diagnostics/rrf_grid_scan_54_summary.csv",
+      "bytes": 7762,
+      "sha256": "a616fda5a982ea3616cb12281fccd30f964eb77c21dd0fd54ad79af03f09c6fc",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/frozen_candidates/corrected_candidate_rankings.csv",
+      "bytes": 767390,
+      "sha256": "2abae4dbbfcaeaffa19bad0c0d879d19465bb2b96132c15e4e13689ec5f6f294",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/frozen_candidates/quarterly_candidate_matrix_2762.csv",
+      "bytes": 756637,
+      "sha256": "912083d7a0560c63aec2acaf650ab9b786350fbc8fa5010e5a4140ec136126a7",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/archived_inputs/ground_truth/quarterly_positive_pairs_50.csv",
+      "bytes": 12534,
+      "sha256": "1613a27b0a95d9c6dc969b2abda615598f9ae9a55426c18f29503091de81ac1b",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/development_baseline_metrics.csv",
+      "bytes": 652,
+      "sha256": "2819cc3ef95aac68be3242e78ccfb59674c8d9cfb8964a69b6dd70583ed76596",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/development_positive_pair_ranks.csv",
+      "bytes": 44086,
+      "sha256": "23ee970289758fab751626e6c9466cee09a24a39af4ba45abbb6572166067208",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/development_query_metrics.csv",
+      "bytes": 37483,
+      "sha256": "e4db7c357be747aeef334707c20abeb308713cb03db0f28cb115692273768109",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/frozen_analysis_bundle/development_candidates.csv",
+      "bytes": 380276,
+      "sha256": "924298192720c75b6921fe3e1582bf75b48fd401a7a4902afba81da9e070709a",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/frozen_analysis_bundle/development_labels.csv",
+      "bytes": 11346,
+      "sha256": "e360327d8810fbbb2f65ef99fa7aa7b9a00b41b1e0384a21383b61065bf56dd5",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/frozen_analysis_bundle/replay_candidates.csv",
+      "bytes": 473741,
+      "sha256": "429a1c4114f8e2eb930ed2e3d2ec702e21c29aa85c1a1124d4f0a65fb75bc155",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/frozen_analysis_bundle/replay_labels.csv",
+      "bytes": 13146,
+      "sha256": "49501a1cdc922ebd0735c50ff5a2175237660ea48f56bc45e330cf91bce1ecf7",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/input_validation.json",
+      "bytes": 381,
+      "sha256": "7d29855e5700b7c972fd6efaed0c7669ab2c69031d6e5b4c4183460b68521253",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/replay_baseline_metrics.csv",
+      "bytes": 643,
+      "sha256": "dd6bb76fd4db3d7bff290b87db316e96978f721d0298a103adbdad68184b25b3",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/replay_positive_pair_ranks.csv",
+      "bytes": 40134,
+      "sha256": "88cb0c8ac38dc7d2c613458aafbfde0f7e121effec9c573b7727e87cf4f3621c",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e0/replay_query_metrics.csv",
+      "bytes": 34158,
+      "sha256": "f0c0f36e85045bf8f121987046a14de76a492eecc0ba45c32fca355ba3163e90",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/bootstrap_confidence_intervals.csv",
+      "bytes": 3502,
+      "sha256": "43f452da4a54b33def7281a3acc3f15b5553e28df0f86679f818afe9c6490bc8",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/bootstrap_replicates.csv",
+      "bytes": 8812827,
+      "sha256": "396a90df073a556c50dc117b0ce918ed552372c98abce391e00b4390aa75efcf",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/cluster_memberships.csv",
+      "bytes": 4170,
+      "sha256": "f79e8c2a6c6ecc2ffcd734de4af9963a70a02e48eff0d767b3d980509b423be0",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/cluster_summary.csv",
+      "bytes": 207,
+      "sha256": "f44356b0762250068c210556190ad852492c6e401e76480c5a58242b659fe8ce",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/drug_bootstrap_draws.npz",
+      "bytes": 170636,
+      "sha256": "b2431de9ab752793d67f4312b5afa56d3cf3af64a06540777b39b9bc89fdd1be",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/leave_one_component_out.csv",
+      "bytes": 22149,
+      "sha256": "199d9d0ae106bf8d06716c7a8341b6e509dfed433bf3517a47de14f4ff7a9a2a",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/new_old_top5_tradeoff.csv",
+      "bytes": 188,
+      "sha256": "fe1b6328ff364db8ca30f4117822639b1f7b263251817251eca7cbad38fe9d36",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/paired_query_differences.csv",
+      "bytes": 13120,
+      "sha256": "b3bb62ac17eec5083f622ceecd5f0250a7def6318f9d1497ae9a15b2c79685f8",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/source_bootstrap_draws.npz",
+      "bytes": 227133,
+      "sha256": "d1bbcb6dcadb516b16d3062d10ec3942fe08c7b5c718812accff15c5b5148f7d",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/strong_baseline_summary.csv",
+      "bytes": 446,
+      "sha256": "e6ee053ecb5c2eb518f17dcc55ba97dfbf9580cdc14c459beede3445d4a35dae",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e1/validation.json",
+      "bytes": 180,
+      "sha256": "67b36ecfc4f8bb8220ac723764b53a82becb71aa50a80dffc826eefdd9dea47c",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/branch_length_summary.csv",
+      "bytes": 167,
+      "sha256": "b3758e63352a0ae6d23bc5d7b5d0391ff18c6750d8bfaea67c0710f728cda2d8",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/branch_lengths.csv",
+      "bytes": 10184,
+      "sha256": "80cbd17937ca02220c2d107b2923f8dd51e6a768074d9f248f536aba2b5fb7c6",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/development_shared_first_rankings.csv",
+      "bytes": 383130,
+      "sha256": "87a1aba52b71e6d3eb594d1c871bec1b1adb733e188a6965cc8781f1b2a64aab",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/membership_diagnostic_summary.csv",
+      "bytes": 1530,
+      "sha256": "5670414ea62c0782ddac12130cb613f417c3978b85f31046ed29c6a03ec469d8",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/positive_origin_breakdown.csv",
+      "bytes": 3979,
+      "sha256": "abd9bb6c479d3d6a8a67d32537246ddc995e5c1f56887573c555d93408e7e2ad",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/replay_shared_first_rankings.csv",
+      "bytes": 478108,
+      "sha256": "8b1fe48aa2b4e1c53623bbd00f26420ddf1fdaabcbd0f63b6edbf32a47fefa30",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/stepwise_query_differences.csv",
+      "bytes": 5952,
+      "sha256": "c657baf607d443bd7fcf0b732bc3129797390a6f4f70b66164e5f1635e21de81",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e2/validation.json",
+      "bytes": 157,
+      "sha256": "5222258b0a4735a3e163fd474cbf5d784e23fa9a1134e486d956b1a47f4fbdf5",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/development_graph_permutations.npz",
+      "bytes": 3649131,
+      "sha256": "a2f57322dd31af10f418b1387a171a7e294f9f6edb166dacd7ecae6cc1289f38",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/development_graph_shuffle_round_metrics.csv",
+      "bytes": 218357,
+      "sha256": "e47c2d8b3253a6c914215623172917c18c5c7b091d11b4b9d3976ac8e71b66e5",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/development_permutation_index.json",
+      "bytes": 58861,
+      "sha256": "b2811e06b1c52b724004ba1fbeebc4997b3091d973033d440d6185784aa3d25f",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/development_permuted_best_positive_ranks.npz",
+      "bytes": 33073,
+      "sha256": "81ce9139bb24e9c3eaecaf1ab99e24172570cc47d953cee09bbb685617df4fdd",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/graph_and_civic_shuffle_summary.csv",
+      "bytes": 2441,
+      "sha256": "30f7bf4de7f346b47e1721c3a5378c79c6dc456900b7333e84ee49fc8cd22416",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/per_query_shuffle_summary.csv",
+      "bytes": 6646,
+      "sha256": "86eff97ecfe1b0e35ae2cee967882a3283e0f4eb26d3c1bb0db8ee9c7025bc36",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/permutation_invariants.json",
+      "bytes": 369,
+      "sha256": "4015a693a90cf8f76be4fdfc85bcd801c29799ef204d7435ef725f20e66a2dde",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/permutation_tail_tests.csv",
+      "bytes": 2586,
+      "sha256": "ec40c463ef562bb5c9202c2a0339b92da9215455dbdfaa4c2812dfbc189e7da5",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/replay_graph_permutations.npz",
+      "bytes": 5205197,
+      "sha256": "fae988c2fede8720a092043dc372a737ba058a7c6b25053c2da145205fdc7985",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/replay_graph_shuffle_round_metrics.csv",
+      "bytes": 193370,
+      "sha256": "e0a279eb985bed11a9dc9e799b1bc684b6f254b89364c40103942fc740ec76ba",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/replay_permutation_index.json",
+      "bytes": 110338,
+      "sha256": "323b32793f7f4921e96f8d412d5701e58bae573d57b1ad9b6997fa7e233cb31e",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e3/replay_permuted_best_positive_ranks.npz",
+      "bytes": 61432,
+      "sha256": "3d57510e3c04674968e4f2f5075c5e1e4c85c8c45cc3caa68793e6854de78a0f",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/confirmed_overlap_removed_positive_pair_ranks.csv",
+      "bytes": 12220,
+      "sha256": "b7fe0af8270df663db189c51c2b3b88c64714a36c9b43d5ee6ba61cbaed14d62",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/context_rank_validation.csv",
+      "bytes": 4552,
+      "sha256": "199acfdc18809895157031e62b937c76b32cb45a3e3b56fe458acdda251ad340",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/evidence_membership_validation.csv",
+      "bytes": 5007,
+      "sha256": "c14f57b0bdbfa96eacef7e45898ee314645fab04d46c951b8755770b19a99094",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/full_replay_positive_pair_ranks.csv",
+      "bytes": 14677,
+      "sha256": "90387d5856bfeb5e174e5089a9a530135feaa51144aa965ef5a5e2b2ccf24c88",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/label_support_sources.csv",
+      "bytes": 30449,
+      "sha256": "85c02e4fd6d587140c526249c105df941f957c988be0066ba34e8015f156489a",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/lineage_validation.json",
+      "bytes": 421,
+      "sha256": "a2742fdcf11f64518089a7d8b119bd110589df01d2fe5aeef95540b2bf7e03cc",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/overlap_by_window.csv",
+      "bytes": 89,
+      "sha256": "29a65bd858ac7999f531315e9d956facc6d3d725df15c2e5f5e886612826b958",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/overlap_source_witnesses.csv",
+      "bytes": 2817,
+      "sha256": "7ed12abe93484dea47d8d26a38e01bcc25e695ee714ba44693a80900b2d45384",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/positive_source_overlap.csv",
+      "bytes": 5721,
+      "sha256": "ae16be25b7588c3de3fc22dcf1e848132b0140736737fc677951a32a24c6a5ff",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/query_start_evidence_used.csv",
+      "bytes": 3105602,
+      "sha256": "99cf61856d0cde123dcb65b2fe0325be240c90a0a5809c51d77bb2ac37f53a71",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/retained_labels.csv",
+      "bytes": 10889,
+      "sha256": "ff3514e299ab75033e72e49540bbb81f8eeb417c3f50334b11b3a5b56af723d2",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/source_excluded_metrics.csv",
+      "bytes": 627,
+      "sha256": "d13c6d98c45a6e5a947c82e4a76c1c8b1e90f61b4a0446d4be5f3514e65b5eb1",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/source_excluded_paired_differences.csv",
+      "bytes": 12488,
+      "sha256": "0341223552724ed23715fde6080625b9bf25919667e286c0408f74af3d6cc34b",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/source_exclusion_validation.json",
+      "bytes": 380,
+      "sha256": "4da8decc7f5c781027dae2fa3038b86d8c584e11984b600ff08c712be5460e82",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e4/source_normalization_audit.csv",
+      "bytes": 837,
+      "sha256": "7b0561369fffe4e4ed96ea284eb3f4ce26c152def183bc63bfd262d281b6f205",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e5/decomposition_validation.json",
+      "bytes": 277,
+      "sha256": "d47b117aed9581a2f3aa3d95dec64a33abfbf3a8a09c4548ac4790a327e3b4ad",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e5/old_candidate_score_invariance.csv",
+      "bytes": 150448,
+      "sha256": "181511f289a604bbca201fb991222b43a5e0ce050f694edfff597fe391338782",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e5/query_displacement_decomposition.csv",
+      "bytes": 4036,
+      "sha256": "9c7647849c517c5eb5f9247d0dd466954c9f2a0b15d45119dcc0f6d04fb20fa2",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e5/replay_displacement_summary.csv",
+      "bytes": 331,
+      "sha256": "d7007553a6c510dd9b4b6e9779ea043008f02c6e9eb0a53ced41c58c2825307e",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e5/scoring_implementation_evidence.json",
+      "bytes": 1461,
+      "sha256": "d5f3f658a394b6ffcd16417d73ae8096191c2fcd2f7c90d0ef80f9280493cadb",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/archived_insertion_lambda_tuning.csv",
+      "bytes": 342,
+      "sha256": "10351c1d725a82d114146e20f2563a65f0bef7b45a946e8e48cf5caacf86e68d",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/case_rankings_with_context.csv",
+      "bytes": 1784,
+      "sha256": "32ce79922400d68cccc6c73d4af236ce867f3f0862faf1c3a567ebf3b622dda2",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/evidence_to_claims.csv",
+      "bytes": 1436,
+      "sha256": "281b4cc2cdebad95f7ebf4232af7311a5142d2902691f4b6d267a67be1c19af8",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/metadata_erratum.json",
+      "bytes": 997,
+      "sha256": "b96a8e71f3f0d6206df1dcbfd51f514193a49e6e97ae21e7053e45db7320fb3f",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/paper_table_export_validation.json",
+      "bytes": 335,
+      "sha256": "a9c3b2865f0cbcb285108e3081e42ff43d1e09d82893cb0c111d3cea69346f6a",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/parameter_default_neighborhood.csv",
+      "bytes": 3206,
+      "sha256": "c5243d12b41b784737c4d38ac1124ededdf75ff4e08d6a450c8da9559d70c6a9",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/parameter_default_neighborhood_summary.csv",
+      "bytes": 351,
+      "sha256": "e481ee9fd9b194ac5ecc6e672a0975c4aea88379a1cbffbc860f8c471bfb032e",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/parameter_grid_vs_strong_baselines.csv",
+      "bytes": 19772,
+      "sha256": "9d4d4043aaf8c5d372908508baf344cec6a5e3e40e7adf7e06af4893bdeeef2e",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/parameter_robustness_summary.csv",
+      "bytes": 425,
+      "sha256": "27da59b3f5d9a4c6cd7ddb8b723d148b545c2d3ba95466df4f8c9c461098cc30",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/reproduction_settings.csv",
+      "bytes": 2865,
+      "sha256": "949f156ae752740f63ab83c402302501494f011da109deb30354281ca6b603da",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/resource_versions.csv",
+      "bytes": 3423,
+      "sha256": "07b05232089769e75fe7bfd23a4ae051f09d57a687bf2297f5deb364ba4f2cf1",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/training_validation_anchor_count_audit.csv",
+      "bytes": 36210,
+      "sha256": "5173cc4937790bec7f2acebfb1ee2013638af482c1da900057eceb54ddcea7fa",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/training_validation_validation.json",
+      "bytes": 455,
+      "sha256": "a8e6d3fd5f402338e01afd4e88a3003ee95509231e1a0f12f26aedc5d10d89ec",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/frozen_analysis/e6/validation.json",
+      "bytes": 133,
+      "sha256": "733047daa3da88568f719572dc485396f0bb21de549500d89d47a78f24d8a939",
+      "role": "immutable derived input"
+    },
+    {
+      "path": "data/processed/README.md",
+      "bytes": 563,
+      "sha256": "843fe229150b87d3cdc8bd1039555df4fe14719222e9071ad1690a496998ba2c",
+      "role": "immutable derived input"
+    }
+  ]
+}

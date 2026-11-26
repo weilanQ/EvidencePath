@@ -1,0 +1,87 @@
+﻿cohort,qid,shared_first_minus_context,rrf_minus_shared_first,rrf_minus_context
+Replay,W1::Biliary Tract Cancer|MP:4409,0,-0.25,-0.25
+Replay,W1::Breast Carcinoma|MP:4409,0,-0.25,-0.25
+Replay,W1::Cancer|MP:113,0.14999999999999999,0.25,0.40000000000000002
+Replay,W1::Cancer|MP:4939,0.14999999999999999,0.25,0.40000000000000002
+Replay,W1::Colorectal Cancer|MP:5117,0,-0.5,-0.5
+Replay,W1::Colorectal Cancer|MP:5317,-0.33333333333333337,0,-0.33333333333333337
+Replay,W1::Colorectal Cancer|MP:5627,-0.33333333333333337,0,-0.33333333333333337
+Replay,"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",0,0,0
+Replay,W1::Head And Neck Squamous Cell Carcinoma|MP:5117,0,0,0
+Replay,W1::Lung Carcinoma|MP:4409,0,-0.25,-0.25
+Replay,W1::Lung Non-small Cell Carcinoma|MP:5861,0,0,0
+Replay,W1::Lung Non-small Cell Carcinoma|MP:5862,0,0,0
+Replay,W1::Medullary Thyroid Carcinoma|MP:4938,0.083333333333333315,0.66666666666666674,0.75
+Replay,W1::Solid Tumor|MP:3333,0,0,0
+Replay,W1::Solid Tumor|MP:4409,0,-0.25,-0.25
+Replay,W1::Thyroid Cancer|MP:3333,0,0,0
+Replay,W1::Uterine Cancer|MP:4409,0,-0.25,-0.25
+Replay,W2::B-cell Non-Hodgkin Lymphoma|MP:4344,0,0,0
+Replay,W2::Diffuse Large B-cell Lymphoma|MP:4344,0,0,0
+Replay,W2::Lung Adenocarcinoma|MP:5927,0,0.75,0.75
+Replay,W2::Lung Non-small Cell Carcinoma|MP:4659,0,0,0
+Replay,W2::Lung Non-small Cell Carcinoma|MP:4660,0.083333333333333329,0.33333333333333337,0.41666666666666669
+Replay,W2::Urinary Bladder Cancer|MP:624,0,0,0
+Replay,W3::Acral Lentiginous Melanoma|MP:423,0,0,0
+Replay,W3::Acral Lentiginous Melanoma|MP:5250,0,0,0
+Replay,W3::Acral Lentiginous Melanoma|MP:870,0,0,0
+Replay,W3::Acute Myeloid Leukemia|MP:5963,0.75,0,0.75
+Replay,W3::Appendix Cancer|MP:4494,0,0,0
+Replay,W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,0,-0.0013227513227513227,-0.0013227513227513227
+Replay,W3::Castration-resistant Prostate Carcinoma|MP:4409,0,-0.16666666666666666,-0.16666666666666666
+Replay,W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,0.66666666666666674,-0.5,0.16666666666666674
+Replay,W3::Glioblastoma|MP:808,0.5,0,0.5
+Replay,W3::HER2 Positive Breast Cancer|MP:2235,-0.011904761904761904,-0.027950310559006208,-0.039855072463768113
+Replay,W3::Intrahepatic Cholangiocarcinoma|MP:6042,0.66666666666666674,-0.66666666666666674,0
+Replay,W3::Intrahepatic Cholangiocarcinoma|MP:764,0.66666666666666674,-0.66666666666666674,0
+Replay,W3::Malignant Ovarian Brenner Tumor|MP:624,0,0,0
+Replay,W3::Melanoma|MP:4827,0,0,0
+Replay,W3::Melanoma|MP:6034,0,0,0
+Replay,W3::Melanoma|MP:6077,0,-0.1333333333333333,-0.1333333333333333
+Replay,W3::Mucosal Melanoma|MP:95,0,0,0
+Replay,W3::Pseudomyxoma Peritonei|MP:4494,0,0,0
+Replay,W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,0.5,-0.66666666666666674,-0.16666666666666674
+Replay,W3::Skin Melanoma|MP:6035,0,0,0
+Replay,W3::Skin Melanoma|MP:6036,0.083333333333333315,0.66666666666666674,0.75
+Replay,W3::Skin Melanoma|MP:6037,0,0,0
+Development,Jul25_Jan26::Acute Myeloid Leukemia|MP:3070,0.083333333333333315,0,0.083333333333333315
+Development,Jul25_Jan26::Anaplastic Astrocytoma|MP:779,0,0.5,0.5
+Development,Jul25_Jan26::Breast Cancer|MP:263,-0.75,-0.049999999999999989,-0.80000000000000004
+Development,Jul25_Jan26::Congenital Fibrosarcoma|MP:4167,0,0.5,0.5
+Development,Jul25_Jan26::Congenital Fibrosarcoma|MP:779,0,-0.5,-0.5
+Development,Jul25_Jan26::Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma|MP:4931,0,0,0
+Development,"Jul25_Jan26::Diffuse Midline Glioma, H3 K27M-mutant|MP:2639",0,0,0
+Development,Jul25_Jan26::Ewing Sarcoma|MP:687,0,0,0
+Development,Jul25_Jan26::Extraskeletal Myxoid Chondrosarcoma|MP:5622,0,0,0
+Development,Jul25_Jan26::Ganglioglioma|MP:4932,0,0.5,0.5
+Development,Jul25_Jan26::Ganglioneuroblastoma|MP:3027,0,0.5,0.5
+Development,Jul25_Jan26::Glioblastoma|MP:779,0,0.5,0.5
+Development,Jul25_Jan26::Gliosarcoma|MP:3333,0,-0.5,-0.5
+Development,Jul25_Jan26::High Grade Glioma|MP:3333,0.16666666666666669,0.5,0.66666666666666674
+Development,Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:4476,0,-0.038277511961722493,-0.038277511961722493
+Development,Jul25_Jan26::Inflammatory Myofibroblastic Tumor|MP:572,0.5,0,0.5
+Development,Jul25_Jan26::Leukemia|MP:2880,0.033333333333333354,0.049999999999999989,0.083333333333333343
+Development,Jul25_Jan26::Low Grade Glioma|MP:2639,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:438,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:4463,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5117,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5386,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5606,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5687,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5688,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5690,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5691,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5782,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:5787,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:662,0,0,0
+Development,Jul25_Jan26::Lung Non-small Cell Carcinoma|MP:707,0,0,0
+Development,Jul25_Jan26::Medullary Thyroid Carcinoma|MP:4447,0,0,0
+Development,Jul25_Jan26::Melanoma|MP:779,0,0.5,0.5
+Development,Jul25_Jan26::Mesenchymal Chondrosarcoma|MP:2454,0,0,0
+Development,Jul25_Jan26::Myofibroma|MP:2861,0.16666666666666669,0.5,0.66666666666666674
+Development,Jul25_Jan26::Myxoid Liposarcoma|MP:5614,0,0,0
+Development,Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:481,0,0,0
+Development,Jul25_Jan26::Pancreatic Ductal Adenocarcinoma|MP:5613,0,0,0
+Development,Jul25_Jan26::Plexiform Neurofibroma|MP:583,0,0,0
+Development,Jul25_Jan26::Solid Tumor|MP:5117,0,0,0
+Development,Jul25_Jan26::Solid Tumor|MP:5163,0.16666666666666669,0.5,0.66666666666666674

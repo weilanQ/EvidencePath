@@ -1,0 +1,1263 @@
+﻿qid,drug_norm,historical_pre_correction_score,frozen_score,difference,baseline_code_uses_same_prediction_for_graph_and_mix,old_relative_order_preserved
+W1::Biliary Tract Cancer|MP:4409,"(2r)-1-[(5,6-diphenyl-7h-pyrrolo[2,3-d]pyrimidin-4-yl)amino]propan-2-ol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"(2r)-3-{[(4z)-5,6-diphenyl-6,7-dihydro-4h-pyrrolo[2,3-d]pyrimidin-4-ylidene]amino}propane-1,2-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,(2s)-1-amino-3-[(5-nitroquinolin-8-yl)amino]propan-2-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"(3-endo)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl 1h-pyrrolo[2,3-b]pyridine-3-carboxylate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"(3z)-6-(4-hydroxy-3-methoxyphenyl)-3-(1h-pyrrol-2-ylmethylene)-1,3-dihydro-2h-indol-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"(5,6-diphenyl-furo[2,3-d]pyrimidin-4-ylamino)-acetic",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"(5-{3-[5-(piperidin-1-ylmethyl)-1h-indol-2-yl]-1h-indazol-6-yl}-2h-1,2,3-triazol-4-yl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-cyanopyrazin-2-yl)urea",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,1-(5-chloro-2-methoxyphenyl)-3-{6-[2-(dimethylamino)-1-methylethoxy]pyrazin-2-yl}urea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"1-[(2s)-4-(5-bromo-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"1-[(2s)-4-(5-phenyl-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"18-chloro-11,12,13,14-tetrahydro-1h,10h-8,4-(azeno)-9,15,1,3,6-benzodioxatriazacycloheptadecin-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"2,2'-{[9-(hydroxyimino)-9h-fluorene-2,7-diyl]bis(oxy)}diacetic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,2-(cyclohexylamino)benzoic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,2-(methylsulfanyl)-5-(thiophen-2-ylmethyl)-1h-imidazol-4-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"2-[(5,6-diphenylfuro[2,3-d]pyrimidin-4-yl)amino]ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"2-[5,6-bis-(4-methoxy-phenyl)-furo[2,3-d]pyrimidin-4-ylamino]-ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,3-(1h-benzimidazol-2-yl)-1h-indazole,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)-1h-indazole-6-carbonitrile,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)quinolin-2(1h)-one,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"3-amino-3-benzyl-[4.3.0]bicyclo-1,6-diazanonan-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"4-(6-{[(4-methylcyclohexyl)amino]methyl}-1,4-dihydroindeno[1,2-c]pyrazol-3-yl)benzoic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,4-[3-(1h-benzimidazol-2-yl)-1h-indazol-6-yl]-2-methoxyphenol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"5,6,7,8-tetrahydro[1]benzothieno[2,3-d]pyrimidin-4(3h)-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"5-ethyl-3-methyl-1,5-dihydro-4h-pyrazolo[4,3-c]quinolin-4-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,6-morpholin-4-yl-9h-purine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,"[4-amino-2-(tert-butylamino)-1,3-thiazol-5-yl](phenyl)methanone",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,chir-124,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,s-acetyl-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Biliary Tract Cancer|MP:4409,xl844,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,everolimus,0.14314703987718189,0.14314703987718189,0,True,True
+W1::Breast Carcinoma|MP:4409,docetaxel,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Breast Carcinoma|MP:4409,doxorubicin,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Breast Carcinoma|MP:4409,"(2r)-1-[(5,6-diphenyl-7h-pyrrolo[2,3-d]pyrimidin-4-yl)amino]propan-2-ol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"(2r)-3-{[(4z)-5,6-diphenyl-6,7-dihydro-4h-pyrrolo[2,3-d]pyrimidin-4-ylidene]amino}propane-1,2-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,(2s)-1-amino-3-[(5-nitroquinolin-8-yl)amino]propan-2-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"(3-endo)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl 1h-pyrrolo[2,3-b]pyridine-3-carboxylate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"(3z)-6-(4-hydroxy-3-methoxyphenyl)-3-(1h-pyrrol-2-ylmethylene)-1,3-dihydro-2h-indol-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"(5,6-diphenyl-furo[2,3-d]pyrimidin-4-ylamino)-acetic",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"(5-{3-[5-(piperidin-1-ylmethyl)-1h-indol-2-yl]-1h-indazol-6-yl}-2h-1,2,3-triazol-4-yl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-cyanopyrazin-2-yl)urea",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,1-(5-chloro-2-methoxyphenyl)-3-{6-[2-(dimethylamino)-1-methylethoxy]pyrazin-2-yl}urea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"1-[(2s)-4-(5-bromo-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"1-[(2s)-4-(5-phenyl-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"18-chloro-11,12,13,14-tetrahydro-1h,10h-8,4-(azeno)-9,15,1,3,6-benzodioxatriazacycloheptadecin-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"2,2'-{[9-(hydroxyimino)-9h-fluorene-2,7-diyl]bis(oxy)}diacetic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,2-(cyclohexylamino)benzoic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,2-(methylsulfanyl)-5-(thiophen-2-ylmethyl)-1h-imidazol-4-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"2-[(5,6-diphenylfuro[2,3-d]pyrimidin-4-yl)amino]ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"2-[5,6-bis-(4-methoxy-phenyl)-furo[2,3-d]pyrimidin-4-ylamino]-ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,3-(1h-benzimidazol-2-yl)-1h-indazole,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)-1h-indazole-6-carbonitrile,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)quinolin-2(1h)-one,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"3-amino-3-benzyl-[4.3.0]bicyclo-1,6-diazanonan-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"4-(6-{[(4-methylcyclohexyl)amino]methyl}-1,4-dihydroindeno[1,2-c]pyrazol-3-yl)benzoic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,4-[3-(1h-benzimidazol-2-yl)-1h-indazol-6-yl]-2-methoxyphenol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"5,6,7,8-tetrahydro[1]benzothieno[2,3-d]pyrimidin-4(3h)-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"5-ethyl-3-methyl-1,5-dihydro-4h-pyrazolo[4,3-c]quinolin-4-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,6-morpholin-4-yl-9h-purine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,"[4-amino-2-(tert-butylamino)-1,3-thiazol-5-yl](phenyl)methanone",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,chir-124,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,cyclophosphamide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,epirubicin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,ixabepilone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,s-acetyl-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,xl844,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Breast Carcinoma|MP:4409,paclitaxel,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Cancer|MP:113,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W1::Cancer|MP:113,amuvatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Cancer|MP:113,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Cancer|MP:113,vandetanib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Cancer|MP:113,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W1::Cancer|MP:113,"1-ter-butyl-3-p-tolyl-1h-pyrazolo[3,4-d]pyrimidin-4-ylamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:113,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:113,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:113,olaratumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:113,tasonermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:113,cabozantinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Cancer|MP:113,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Cancer|MP:113,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Cancer|MP:4939,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W1::Cancer|MP:4939,amuvatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Cancer|MP:4939,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Cancer|MP:4939,vandetanib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Cancer|MP:4939,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W1::Cancer|MP:4939,"1-ter-butyl-3-p-tolyl-1h-pyrazolo[3,4-d]pyrimidin-4-ylamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:4939,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:4939,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:4939,olaratumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:4939,tasonermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Cancer|MP:4939,cabozantinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Cancer|MP:4939,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Cancer|MP:4939,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Colorectal Cancer|MP:5117,carmofur,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5117,tipiracil,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5117,trifluridine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5117,fluorouracil,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Colorectal Cancer|MP:5117,cetuximab,-0.282891912763575,-0.282891912763575,0,True,True
+W1::Colorectal Cancer|MP:5317,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Colorectal Cancer|MP:5317,enzastaurin,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Colorectal Cancer|MP:5317,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Colorectal Cancer|MP:5317,2-((9h-purin-6-ylthio)methyl)-5-chloro-3-(2-methoxyphenyl)quinazolin-4(3h)-one,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,"4-[(10s,14s,18s)-18-(2-amino-2-oxoethyl)-14-(1-naphthylmethyl)-8,17,20-trioxo-7,16,19-triazaspiro[5.14]icos-11-en-10-yl]benzylphosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,"[(3,7,11-trimethyl-dodeca-2,6,10-trienyloxycarbamoyl)-methyl]-phosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,amg-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,atp,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,caffeine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,carmofur,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,dodecyltrimethylammonium,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,duvelisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,farnesyl diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,"hexane-1,6-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,idelalisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,isoprenaline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,mrtx849,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,"n,n'-dimethyl-n-(acetyl)-n'-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)ethylenediamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,pegademase,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,sf1126,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,tg100-115,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,tipiracil,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,trifluoroethanol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,trifluridine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,wortmannin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,xl765,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5317,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Colorectal Cancer|MP:5317,fluorouracil,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Colorectal Cancer|MP:5317,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Colorectal Cancer|MP:5317,cetuximab,-0.282891912763575,-0.282891912763575,0,True,True
+W1::Colorectal Cancer|MP:5627,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Colorectal Cancer|MP:5627,enzastaurin,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Colorectal Cancer|MP:5627,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Colorectal Cancer|MP:5627,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W1::Colorectal Cancer|MP:5627,"4-[(10s,14s,18s)-18-(2-amino-2-oxoethyl)-14-(1-naphthylmethyl)-8,17,20-trioxo-7,16,19-triazaspiro[5.14]icos-11-en-10-yl]benzylphosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,"[(3,7,11-trimethyl-dodeca-2,6,10-trienyloxycarbamoyl)-methyl]-phosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,amg-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,atp,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,caffeine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,carmofur,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,dodecyltrimethylammonium,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,farnesyl diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,guanosine-5'-diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,guanosine-5'-triphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,"hexane-1,6-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,isoprenaline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,mrtx849,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,"n,n'-dimethyl-n-(acetyl)-n'-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)ethylenediamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,pegademase,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,phosphatidylethanolamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,sf1126,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,tipiracil,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,trifluoroethanol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,trifluridine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,wortmannin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,xl765,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,zanubrutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Colorectal Cancer|MP:5627,dasatinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W1::Colorectal Cancer|MP:5627,fluorouracil,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Colorectal Cancer|MP:5627,cetuximab,-0.282891912763575,-0.282891912763575,0,True,True
+W1::Colorectal Cancer|MP:5627,imatinib,-0.282891912763575,-0.282891912763575,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",panobinostat,0.1288657738664874,0.1288657738664874,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",vorinostat,0.1288657738664874,0.1288657738664874,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807","(3r)-3-(aminomethyl)-9-methoxy-1,2,3,4-tetrahydro-5h-[1]benzothieno[3,2-e][1,4]diazepin-5-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",abexinostat,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",adapalene,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",belinostat,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",coenzyme a,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",fingolimod,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",irbesartan,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",lgd-1550,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",mocetinostat,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",pracinostat,-0.011437961154117699,-0.011437961154117699,0,True,True
+"W1::Diffuse Midline Glioma, H3 K27M-mutant|MP:3807",romidepsin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"(2r)-1-[(5,6-diphenyl-7h-pyrrolo[2,3-d]pyrimidin-4-yl)amino]propan-2-ol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"(2r)-3-{[(4z)-5,6-diphenyl-6,7-dihydro-4h-pyrrolo[2,3-d]pyrimidin-4-ylidene]amino}propane-1,2-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,(2s)-1-amino-3-[(5-nitroquinolin-8-yl)amino]propan-2-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"(3-endo)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl 1h-pyrrolo[2,3-b]pyridine-3-carboxylate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"(3z)-6-(4-hydroxy-3-methoxyphenyl)-3-(1h-pyrrol-2-ylmethylene)-1,3-dihydro-2h-indol-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"(5,6-diphenyl-furo[2,3-d]pyrimidin-4-ylamino)-acetic",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"(5-{3-[5-(piperidin-1-ylmethyl)-1h-indol-2-yl]-1h-indazol-6-yl}-2h-1,2,3-triazol-4-yl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-cyanopyrazin-2-yl)urea",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,1-(5-chloro-2-methoxyphenyl)-3-{6-[2-(dimethylamino)-1-methylethoxy]pyrazin-2-yl}urea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"1-[(2s)-4-(5-bromo-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"1-[(2s)-4-(5-phenyl-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"18-chloro-11,12,13,14-tetrahydro-1h,10h-8,4-(azeno)-9,15,1,3,6-benzodioxatriazacycloheptadecin-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"2,2'-{[9-(hydroxyimino)-9h-fluorene-2,7-diyl]bis(oxy)}diacetic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,2-(cyclohexylamino)benzoic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,2-(methylsulfanyl)-5-(thiophen-2-ylmethyl)-1h-imidazol-4-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"2-[(5,6-diphenylfuro[2,3-d]pyrimidin-4-yl)amino]ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"2-[5,6-bis-(4-methoxy-phenyl)-furo[2,3-d]pyrimidin-4-ylamino]-ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,3-(1h-benzimidazol-2-yl)-1h-indazole,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)-1h-indazole-6-carbonitrile,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)quinolin-2(1h)-one,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"3-amino-3-benzyl-[4.3.0]bicyclo-1,6-diazanonan-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"4-(6-{[(4-methylcyclohexyl)amino]methyl}-1,4-dihydroindeno[1,2-c]pyrazol-3-yl)benzoic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,4-[3-(1h-benzimidazol-2-yl)-1h-indazol-6-yl]-2-methoxyphenol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"5,6,7,8-tetrahydro[1]benzothieno[2,3-d]pyrimidin-4(3h)-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"5-ethyl-3-methyl-1,5-dihydro-4h-pyrazolo[4,3-c]quinolin-4-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,6-morpholin-4-yl-9h-purine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,"[4-amino-2-(tert-butylamino)-1,3-thiazol-5-yl](phenyl)methanone",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,chir-124,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,s-acetyl-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Carcinoma|MP:4409,xl844,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,trastuzumab emtansine,0.1661209022929335,0.1661209022929335,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,brigatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,canertinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,ceritinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,docetaxel,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,lorlatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,neratinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,vinorelbine,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,osimertinib,0.100378904346393,0.100378904346393,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,panitumumab,0.100378904346393,0.100378904346393,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,trastuzumab,0.0384138050248512,0.0384138050248512,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,afatinib,-0.0089277216985574007,-0.0089277216985574007,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,alpha-aminobutyric acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,av-412,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,belotecan,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,depatuxizumab mafodotin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,icotinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,ign311,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,lidocaine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,margetuximab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,matuzumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,necitumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,nivolumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,olmutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,pelitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,pertuzumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,porfimer sodium,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,ramucirumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,rindopepimut,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,s-{3-[(4-anilinoquinazolin-6-yl)amino]-3-oxopropyl}-l-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,tesevatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,tucatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,varlitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,zalutumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,zanubrutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,crizotinib,-0.039293599303172798,-0.039293599303172798,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,erlotinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,dacomitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,gemcitabine,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,lapatinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,paclitaxel,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,pemetrexed,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,gefitinib,-0.1131717553253983,-0.1131717553253983,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,alectinib,-0.1202979883803896,-0.1202979883803896,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5861,pembrolizumab,-0.1202979883803896,-0.1202979883803896,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,trastuzumab emtansine,0.1661209022929335,0.1661209022929335,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,brigatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,canertinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,ceritinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,docetaxel,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,lorlatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,neratinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,vinorelbine,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,osimertinib,0.100378904346393,0.100378904346393,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,panitumumab,0.100378904346393,0.100378904346393,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,trastuzumab,0.0384138050248512,0.0384138050248512,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,afatinib,-0.0089277216985574007,-0.0089277216985574007,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,alpha-aminobutyric acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,av-412,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,belotecan,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,depatuxizumab mafodotin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,icotinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,ign311,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,lidocaine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,margetuximab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,matuzumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,necitumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,nivolumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,olmutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,pelitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,pertuzumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,porfimer sodium,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,ramucirumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,rindopepimut,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,s-{3-[(4-anilinoquinazolin-6-yl)amino]-3-oxopropyl}-l-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,tesevatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,tucatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,varlitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,zalutumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,zanubrutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,crizotinib,-0.039293599303172798,-0.039293599303172798,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,erlotinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,dacomitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,gemcitabine,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,lapatinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,paclitaxel,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,pemetrexed,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,gefitinib,-0.1131717553253983,-0.1131717553253983,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,alectinib,-0.1202979883803896,-0.1202979883803896,0,True,True
+W1::Lung Non-small Cell Carcinoma|MP:5862,pembrolizumab,-0.1202979883803896,-0.1202979883803896,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,amuvatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,doxorubicin,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,vandetanib,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,"1-ter-butyl-3-p-tolyl-1h-pyrazolo[3,4-d]pyrimidin-4-ylamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,levothyroxine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,liothyronine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,cabozantinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Medullary Thyroid Carcinoma|MP:4938,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W1::Solid Tumor|MP:3333,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W1::Solid Tumor|MP:3333,amitriptyline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:3333,cenegermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:3333,clenbuterol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:3333,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:3333,ri 624,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:3333,entrectinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W1::Solid Tumor|MP:3333,larotrectinib,-0.17857580396704581,-0.17857580396704581,0,True,True
+W1::Solid Tumor|MP:3333,imatinib,-0.282891912763575,-0.282891912763575,0,True,True
+W1::Solid Tumor|MP:4409,"(2r)-1-[(5,6-diphenyl-7h-pyrrolo[2,3-d]pyrimidin-4-yl)amino]propan-2-ol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"(2r)-3-{[(4z)-5,6-diphenyl-6,7-dihydro-4h-pyrrolo[2,3-d]pyrimidin-4-ylidene]amino}propane-1,2-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,(2s)-1-amino-3-[(5-nitroquinolin-8-yl)amino]propan-2-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"(3-endo)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl 1h-pyrrolo[2,3-b]pyridine-3-carboxylate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"(3z)-6-(4-hydroxy-3-methoxyphenyl)-3-(1h-pyrrol-2-ylmethylene)-1,3-dihydro-2h-indol-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"(5,6-diphenyl-furo[2,3-d]pyrimidin-4-ylamino)-acetic",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"(5-{3-[5-(piperidin-1-ylmethyl)-1h-indol-2-yl]-1h-indazol-6-yl}-2h-1,2,3-triazol-4-yl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-cyanopyrazin-2-yl)urea",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,1-(5-chloro-2-methoxyphenyl)-3-{6-[2-(dimethylamino)-1-methylethoxy]pyrazin-2-yl}urea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"1-[(2s)-4-(5-bromo-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"1-[(2s)-4-(5-phenyl-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"18-chloro-11,12,13,14-tetrahydro-1h,10h-8,4-(azeno)-9,15,1,3,6-benzodioxatriazacycloheptadecin-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"2,2'-{[9-(hydroxyimino)-9h-fluorene-2,7-diyl]bis(oxy)}diacetic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,2-(cyclohexylamino)benzoic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,2-(methylsulfanyl)-5-(thiophen-2-ylmethyl)-1h-imidazol-4-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"2-[(5,6-diphenylfuro[2,3-d]pyrimidin-4-yl)amino]ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"2-[5,6-bis-(4-methoxy-phenyl)-furo[2,3-d]pyrimidin-4-ylamino]-ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,3-(1h-benzimidazol-2-yl)-1h-indazole,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)-1h-indazole-6-carbonitrile,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)quinolin-2(1h)-one,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"3-amino-3-benzyl-[4.3.0]bicyclo-1,6-diazanonan-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"4-(6-{[(4-methylcyclohexyl)amino]methyl}-1,4-dihydroindeno[1,2-c]pyrazol-3-yl)benzoic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,4-[3-(1h-benzimidazol-2-yl)-1h-indazol-6-yl]-2-methoxyphenol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"5,6,7,8-tetrahydro[1]benzothieno[2,3-d]pyrimidin-4(3h)-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"5-ethyl-3-methyl-1,5-dihydro-4h-pyrazolo[4,3-c]quinolin-4-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,6-morpholin-4-yl-9h-purine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,"[4-amino-2-(tert-butylamino)-1,3-thiazol-5-yl](phenyl)methanone",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,chir-124,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,s-acetyl-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Solid Tumor|MP:4409,xl844,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Thyroid Cancer|MP:3333,doxorubicin,0.1288657738664874,0.1288657738664874,0,True,True
+W1::Thyroid Cancer|MP:3333,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W1::Thyroid Cancer|MP:3333,amitriptyline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Thyroid Cancer|MP:3333,cenegermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Thyroid Cancer|MP:3333,clenbuterol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Thyroid Cancer|MP:3333,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Thyroid Cancer|MP:3333,levothyroxine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Thyroid Cancer|MP:3333,liothyronine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Thyroid Cancer|MP:3333,ri 624,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Thyroid Cancer|MP:3333,entrectinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W1::Thyroid Cancer|MP:3333,larotrectinib,-0.17857580396704581,-0.17857580396704581,0,True,True
+W1::Thyroid Cancer|MP:3333,imatinib,-0.282891912763575,-0.282891912763575,0,True,True
+W1::Uterine Cancer|MP:4409,"(2r)-1-[(5,6-diphenyl-7h-pyrrolo[2,3-d]pyrimidin-4-yl)amino]propan-2-ol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"(2r)-3-{[(4z)-5,6-diphenyl-6,7-dihydro-4h-pyrrolo[2,3-d]pyrimidin-4-ylidene]amino}propane-1,2-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,(2s)-1-amino-3-[(5-nitroquinolin-8-yl)amino]propan-2-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"(3-endo)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl 1h-pyrrolo[2,3-b]pyridine-3-carboxylate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"(3z)-6-(4-hydroxy-3-methoxyphenyl)-3-(1h-pyrrol-2-ylmethylene)-1,3-dihydro-2h-indol-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"(5,6-diphenyl-furo[2,3-d]pyrimidin-4-ylamino)-acetic",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"(5-{3-[5-(piperidin-1-ylmethyl)-1h-indol-2-yl]-1h-indazol-6-yl}-2h-1,2,3-triazol-4-yl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-cyanopyrazin-2-yl)urea",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,1-(5-chloro-2-methoxyphenyl)-3-{6-[2-(dimethylamino)-1-methylethoxy]pyrazin-2-yl}urea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"1-[(2s)-4-(5-bromo-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"1-[(2s)-4-(5-phenyl-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"18-chloro-11,12,13,14-tetrahydro-1h,10h-8,4-(azeno)-9,15,1,3,6-benzodioxatriazacycloheptadecin-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"2,2'-{[9-(hydroxyimino)-9h-fluorene-2,7-diyl]bis(oxy)}diacetic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,2-(cyclohexylamino)benzoic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,2-(methylsulfanyl)-5-(thiophen-2-ylmethyl)-1h-imidazol-4-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"2-[(5,6-diphenylfuro[2,3-d]pyrimidin-4-yl)amino]ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"2-[5,6-bis-(4-methoxy-phenyl)-furo[2,3-d]pyrimidin-4-ylamino]-ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,3-(1h-benzimidazol-2-yl)-1h-indazole,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)-1h-indazole-6-carbonitrile,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)quinolin-2(1h)-one,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"3-amino-3-benzyl-[4.3.0]bicyclo-1,6-diazanonan-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"4-(6-{[(4-methylcyclohexyl)amino]methyl}-1,4-dihydroindeno[1,2-c]pyrazol-3-yl)benzoic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,4-[3-(1h-benzimidazol-2-yl)-1h-indazol-6-yl]-2-methoxyphenol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"5,6,7,8-tetrahydro[1]benzothieno[2,3-d]pyrimidin-4(3h)-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"5-ethyl-3-methyl-1,5-dihydro-4h-pyrazolo[4,3-c]quinolin-4-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,6-morpholin-4-yl-9h-purine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,"[4-amino-2-(tert-butylamino)-1,3-thiazol-5-yl](phenyl)methanone",-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,chir-124,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,s-acetyl-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W1::Uterine Cancer|MP:4409,xl844,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::B-cell Non-Hodgkin Lymphoma|MP:4344,tazemetostat,0.1288657738664874,0.1288657738664874,0,True,True
+W2::B-cell Non-Hodgkin Lymphoma|MP:4344,cpi-1205,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,doxorubicin,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,tazemetostat,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,bleomycin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,carmustine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,cpi-1205,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,dexamethasone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,prednisone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,vincristine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,osimertinib,0.1661209022929335,0.1661209022929335,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,panitumumab,0.1661209022929335,0.1661209022929335,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,alvocidib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,brigatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,canertinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,neratinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,vandetanib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,gefitinib,0.0209590028227238,0.0209590028227238,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,afatinib,-0.0089277216985574007,-0.0089277216985574007,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,abivertinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,alpha-aminobutyric acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,av-412,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,depatuxizumab mafodotin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,icotinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,ign311,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,lidocaine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,margetuximab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,matuzumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,necitumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,olmutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,pd-168393,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,pelitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,rindopepimut,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,s-{3-[(4-anilinoquinazolin-6-yl)amino]-3-oxopropyl}-l-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,tesevatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,tucatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,varlitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,zalutumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,zanubrutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,erlotinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,dacomitinib,-0.054555990433848997,-0.054555990433848997,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,lapatinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Adenocarcinoma|MP:5927,cetuximab,-0.282891912763575,-0.282891912763575,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,osimertinib,0.1661209022929335,0.1661209022929335,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,panitumumab,0.1661209022929335,0.1661209022929335,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,alvocidib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,brigatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,canertinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,ceritinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,docetaxel,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,lorlatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,neratinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,vandetanib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,vinorelbine,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,gefitinib,0.0209590028227238,0.0209590028227238,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,afatinib,-0.0089277216985574007,-0.0089277216985574007,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,abivertinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,alpha-aminobutyric acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,av-412,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,belotecan,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,depatuxizumab mafodotin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,icotinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,ign311,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,lidocaine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,margetuximab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,matuzumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,necitumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,nivolumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,olmutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,pd-168393,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,pelitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,porfimer sodium,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,ramucirumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,rindopepimut,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,s-{3-[(4-anilinoquinazolin-6-yl)amino]-3-oxopropyl}-l-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,tesevatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,tucatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,varlitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,zalutumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,zanubrutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,crizotinib,-0.039293599303172798,-0.039293599303172798,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,erlotinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,dacomitinib,-0.054555990433848997,-0.054555990433848997,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,gemcitabine,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,lapatinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,paclitaxel,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,pemetrexed,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,alectinib,-0.1202979883803896,-0.1202979883803896,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,pembrolizumab,-0.1202979883803896,-0.1202979883803896,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,cetuximab,-0.282891912763575,-0.282891912763575,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,osimertinib,0.1661209022929335,0.1661209022929335,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,panitumumab,0.1661209022929335,0.1661209022929335,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,alvocidib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,brigatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,canertinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,ceritinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,docetaxel,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,lorlatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,neratinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,vandetanib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,vinorelbine,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,gefitinib,0.0209590028227238,0.0209590028227238,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,afatinib,-0.0089277216985574007,-0.0089277216985574007,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,abivertinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,alpha-aminobutyric acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,av-412,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,belotecan,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,depatuxizumab mafodotin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,icotinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,ign311,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,lidocaine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,margetuximab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,matuzumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,necitumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,nivolumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,olmutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,pd-168393,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,pelitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,porfimer sodium,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,ramucirumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,rindopepimut,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,s-{3-[(4-anilinoquinazolin-6-yl)amino]-3-oxopropyl}-l-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,tesevatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,tucatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,varlitinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,zalutumumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,zanubrutinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,crizotinib,-0.039293599303172798,-0.039293599303172798,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,erlotinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,dacomitinib,-0.054555990433848997,-0.054555990433848997,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,gemcitabine,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,lapatinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,paclitaxel,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,pemetrexed,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,alectinib,-0.1202979883803896,-0.1202979883803896,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,pembrolizumab,-0.1202979883803896,-0.1202979883803896,0,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,cetuximab,-0.282891912763575,-0.282891912763575,0,True,True
+W2::Urinary Bladder Cancer|MP:624,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W2::Urinary Bladder Cancer|MP:624,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Urinary Bladder Cancer|MP:624,lestaurtinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Urinary Bladder Cancer|MP:624,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Urinary Bladder Cancer|MP:624,quizartinib,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Urinary Bladder Cancer|MP:624,sirolimus,0.1288657738664874,0.1288657738664874,0,True,True
+W2::Urinary Bladder Cancer|MP:624,"(e)-[4-(3,5-difluorophenyl)-3h-pyrrolo[2,3-b]pyridin-3-ylidene](3-methoxyphenyl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,"1,4-dideoxy-5-dehydro-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,"1,4-dideoxy-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,"3-(3-methoxybenzyl)-1h-pyrrolo[2,3-b]pyridine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,3-[(3-(2-carboxyethyl)-4-methylpyrrol-2-yl)methylene]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,4-[4-(1-amino-1-methylethyl)phenyl]-5-chloro-n-[4-(2-morpholin-4-ylethyl)phenyl]pyrimidin-2-amine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,5-aminonaphthalene-2-sulfonic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,abt-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,foreskin fibroblast (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,formic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,heparin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,"n,o6-disulfo-glucosamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,naphthalene trisulfonate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,o2-sulfo-glucuronic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,pentosan polysulfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,sucrosofate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,thiotepa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,tp-508,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,valrubicin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,xl999,-0.011437961154117699,-0.011437961154117699,0,True,True
+W2::Urinary Bladder Cancer|MP:624,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W2::Urinary Bladder Cancer|MP:624,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,"4-[(10s,14s,18s)-18-(2-amino-2-oxoethyl)-14-(1-naphthylmethyl)-8,17,20-trioxo-7,16,19-triazaspiro[5.14]icos-11-en-10-yl]benzylphosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,"[(3,7,11-trimethyl-dodeca-2,6,10-trienyloxycarbamoyl)-methyl]-phosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,amg-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,farnesyl diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,guanosine-5'-diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,guanosine-5'-triphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,"hexane-1,6-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,isoprenaline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,mrtx849,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,"n,n'-dimethyl-n-(acetyl)-n'-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)ethylenediamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,pd-168393,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,pegademase,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,ripretinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,sf1126,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,trifluoroethanol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,xl765,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acral Lentiginous Melanoma|MP:423,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,selumetinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,cobimetinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,trametinib,0.100378904346393,0.100378904346393,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,"(1e)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,"(5s)-4,5-difluoro-6-[(2-fluoro-4-iodophenyl)imino]-n-(2-hydroxyethoxy)cyclohexa-1,3-diene-1-carboxamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,"2-[(2-chloro-4-iodophenyl)amino]-n-{[(2r)-2,3-dihydroxypropyl]oxy}-3,4-difluorobenzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,"2-[(4-ethynyl-2-fluorophenyl)amino]-3,4-difluoro-n-(2-hydroxyethoxy)benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,"5-bromo-n-[(2s)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,"antihemophilic factor (recombinant), pegylated",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,caplacizumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,efmoroctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,egaptivon pegol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,encorafenib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,eptifibatide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,fradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,ico-007,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,lefradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,lerafaon,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,lm-609,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,"n-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,"n-{2,4-difluoro-3-[(5-pyridin-3-yl-1h-pyrrolo[2,3-b]pyridin-3-yl)carbonyl]phenyl}ethanesulfonamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,pd-0325901,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,plx-4720,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,raf-265,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,simoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,susoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,tg-100801,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,xl281,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,dabrafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acral Lentiginous Melanoma|MP:5250,vemurafenib,-0.282891912763575,-0.282891912763575,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,"4-[(10s,14s,18s)-18-(2-amino-2-oxoethyl)-14-(1-naphthylmethyl)-8,17,20-trioxo-7,16,19-triazaspiro[5.14]icos-11-en-10-yl]benzylphosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,"[(3,7,11-trimethyl-dodeca-2,6,10-trienyloxycarbamoyl)-methyl]-phosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,amg-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,farnesyl diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,guanosine-5'-diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,guanosine-5'-triphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,"hexane-1,6-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,isoprenaline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,mrtx849,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,"n,n'-dimethyl-n-(acetyl)-n'-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)ethylenediamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,pd-168393,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,pegademase,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,ripretinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,sf1126,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,trifluoroethanol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,xl765,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acral Lentiginous Melanoma|MP:870,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Acute Myeloid Leukemia|MP:5963,isocitric acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acute Myeloid Leukemia|MP:5963,nicotinamide adenine dinucleotide phosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Acute Myeloid Leukemia|MP:5963,ivosidenib,-0.054555990433848997,-0.054555990433848997,0,True,True
+W3::Appendix Cancer|MP:4494,"(1s)-1-(1h-indol-3-ylmethyl)-2-(2-pyridin-4-yl-[1,7]naphtyridin-5-yloxy)-ehylamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,(1s)-2-(1h-indol-3-yl)-1-[({5-[(e)-2-pyridin-4-ylvinyl]pyridin-3-yl}oxy)methyl]ethylamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,(2r)-2-(4-chlorophenyl)-2-[4-(1h-pyrazol-4-yl)phenyl]ethanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,(2r)-2-(4-chlorophenyl)-2-phenylethanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,(2s)-1-(3h-indol-3-yl)-3-{[5-(6-isoquinolinyl)-3-pyridinyl]oxy}-2-propanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"(2s)-1-(6h-indol-3-yl)-3-{[5-(7h-pyrazolo[3,4-c]pyridin-5-yl)pyridin-3-yl]oxy}propan-2-amine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,(2s)-1-{[5-(1h-indazol-5-yl)-3-pyridinyl]oxy}-3-(7ah-indol-3-yl)-2-propanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,(2s)-2-(4-chlorophenyl)-2-[4-(1h-pyrazol-4-yl)phenyl]ethanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"(4r,2s)-5'-(4-(4-chlorobenzyloxy)pyrrolidin-2-ylmethanesulfonyl)isoquinoline",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,(rp)-camps,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,(s)-1-phenyl-1-[4-(9h-purin-6-yl)phenyl]methanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"1-[4-(4-chlorobenzyl)-1-(7h-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"1-[4-(4-chlorophenyl)-1-(7h-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"2',5'-dideoxy-adenosine 3'-monophosphate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,2-[4-(3-methyl-1h-pyrazol-4-yl)phenyl]ethanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"3-(1h-indol-3-yl)-4-{1-[2-(1-methylpyrrolidin-2-yl)ethyl]-1h-indol-3-yl}-1h-pyrrole-2,5-dione",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,3-[(3-sec-butyl-4-hydroxybenzoyl)amino]azepan-4-yl 4-(2-hydroxy-5-methoxybenzoyl)benzoate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,3-pyridin-4-yl-1h-indazole,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"3-pyridin-4-yl-2,4-dihydro-indeno[1,2-.c.] pyrazole",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"4-(4-chlorobenzyl)-1-(7h-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-aminium",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,5-(2-methylpiperazine-1-sulfonyl)isoquinoline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,"5-benzyl-1,3-thiazol-2-amine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,6-{4-[4-(4-chlorophenyl)piperidin-4-yl]phenyl}-9h-purine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,adenosine phosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,aurothioglucose,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,colforsin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,cyclic adenosine monophosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,cyclic gmp,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,gem-231,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Appendix Cancer|MP:4494,halothane,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,amuvatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,midostaurin,0.1288657738664874,0.1288657738664874,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,tandutinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,sunitinib,0.054269882407935899,0.054269882407935899,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,becaplermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,foreskin fibroblast (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,olaratumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,pegpleranib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,pexidartinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,polaprezinc,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,ripretinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,trapidil,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,triglyme,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,xl820,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,xl999,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,dasatinib,-0.049974151218904903,-0.049974151218904903,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::B-cell Acute Lymphoblastic Leukemia|MP:6050,imatinib,-0.282891912763575,-0.282891912763575,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"(2r)-1-[(5,6-diphenyl-7h-pyrrolo[2,3-d]pyrimidin-4-yl)amino]propan-2-ol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"(2r)-3-{[(4z)-5,6-diphenyl-6,7-dihydro-4h-pyrrolo[2,3-d]pyrimidin-4-ylidene]amino}propane-1,2-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,(2s)-1-amino-3-[(5-nitroquinolin-8-yl)amino]propan-2-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"(3-endo)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl 1h-pyrrolo[2,3-b]pyridine-3-carboxylate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"(3z)-6-(4-hydroxy-3-methoxyphenyl)-3-(1h-pyrrol-2-ylmethylene)-1,3-dihydro-2h-indol-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"(5,6-diphenyl-furo[2,3-d]pyrimidin-4-ylamino)-acetic",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"(5-{3-[5-(piperidin-1-ylmethyl)-1h-indol-2-yl]-1h-indazol-6-yl}-2h-1,2,3-triazol-4-yl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-cyanopyrazin-2-yl)urea",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,1-(5-chloro-2-methoxyphenyl)-3-{6-[2-(dimethylamino)-1-methylethoxy]pyrazin-2-yl}urea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"1-[(2s)-4-(5-bromo-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"1-[(2s)-4-(5-phenyl-1h-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"18-chloro-11,12,13,14-tetrahydro-1h,10h-8,4-(azeno)-9,15,1,3,6-benzodioxatriazacycloheptadecin-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"2,2'-{[9-(hydroxyimino)-9h-fluorene-2,7-diyl]bis(oxy)}diacetic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,2-(cyclohexylamino)benzoic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,2-(methylsulfanyl)-5-(thiophen-2-ylmethyl)-1h-imidazol-4-ol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"2-[(5,6-diphenylfuro[2,3-d]pyrimidin-4-yl)amino]ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"2-[5,6-bis-(4-methoxy-phenyl)-furo[2,3-d]pyrimidin-4-ylamino]-ethanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,3-(1h-benzimidazol-2-yl)-1h-indazole,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)-1h-indazole-6-carbonitrile,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,3-(5-{[4-(aminomethyl)piperidin-1-yl]methyl}-1h-indol-2-yl)quinolin-2(1h)-one,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"3-amino-3-benzyl-[4.3.0]bicyclo-1,6-diazanonan-2-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"4-(6-{[(4-methylcyclohexyl)amino]methyl}-1,4-dihydroindeno[1,2-c]pyrazol-3-yl)benzoic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,4-[3-(1h-benzimidazol-2-yl)-1h-indazol-6-yl]-2-methoxyphenol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"5,6,7,8-tetrahydro[1]benzothieno[2,3-d]pyrimidin-4(3h)-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"5-ethyl-3-methyl-1,5-dihydro-4h-pyrazolo[4,3-c]quinolin-4-one",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,6-morpholin-4-yl-9h-purine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,"[4-amino-2-(tert-butylamino)-1,3-thiazol-5-yl](phenyl)methanone",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,chir-124,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,s-acetyl-cysteine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Castration-resistant Prostate Carcinoma|MP:4409,xl844,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,sirolimus,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,"(e)-[4-(3,5-difluorophenyl)-3h-pyrrolo[2,3-b]pyridin-3-ylidene](3-methoxyphenyl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,"1,4-dideoxy-5-dehydro-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,"1,4-dideoxy-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,"3-(3-methoxybenzyl)-1h-pyrrolo[2,3-b]pyridine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,3-[(3-(2-carboxyethyl)-4-methylpyrrol-2-yl)methylene]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,4-[4-(1-amino-1-methylethyl)phenyl]-5-chloro-n-[4-(2-morpholin-4-ylethyl)phenyl]pyrimidin-2-amine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,5-aminonaphthalene-2-sulfonic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,abt-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,foreskin fibroblast (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,formic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,heparin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,"n,o6-disulfo-glucosamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,naphthalene trisulfonate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,o2-sulfo-glucuronic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,palifermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,pentosan polysulfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,sucrosofate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,tp-508,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,xl999,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Dysembryoplastic Neuroepithelial Tumor|MP:4692,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Glioblastoma|MP:808,bevacizumab,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Glioblastoma|MP:808,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Glioblastoma|MP:808,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Glioblastoma|MP:808,lestaurtinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Glioblastoma|MP:808,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Glioblastoma|MP:808,quizartinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Glioblastoma|MP:808,sirolimus,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Glioblastoma|MP:808,"(e)-[4-(3,5-difluorophenyl)-3h-pyrrolo[2,3-b]pyridin-3-ylidene](3-methoxyphenyl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,"1,4-dideoxy-5-dehydro-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,"1,4-dideoxy-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,"3-(3-methoxybenzyl)-1h-pyrrolo[2,3-b]pyridine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,3-[(3-(2-carboxyethyl)-4-methylpyrrol-2-yl)methylene]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,4-[4-(1-amino-1-methylethyl)phenyl]-5-chloro-n-[4-(2-morpholin-4-ylethyl)phenyl]pyrimidin-2-amine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,5-aminonaphthalene-2-sulfonic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,abt-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,carmustine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,foreskin fibroblast (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,formic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,heparin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,"n,o6-disulfo-glucosamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,naphthalene trisulfonate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,o2-sulfo-glucuronic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,pentosan polysulfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,sucrosofate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,tp-508,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,xl999,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Glioblastoma|MP:808,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Glioblastoma|MP:808,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,enzastaurin,0.1288657738664874,0.1288657738664874,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,2-((9h-purin-6-ylthio)methyl)-5-chloro-3-(2-methoxyphenyl)quinazolin-4(3h)-one,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,"4-[(10s,14s,18s)-18-(2-amino-2-oxoethyl)-14-(1-naphthylmethyl)-8,17,20-trioxo-7,16,19-triazaspiro[5.14]icos-11-en-10-yl]benzylphosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,"[(3,7,11-trimethyl-dodeca-2,6,10-trienyloxycarbamoyl)-methyl]-phosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,amg-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,atp,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,caffeine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dodecyltrimethylammonium,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,duvelisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,farnesyl diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,"hexane-1,6-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,idelalisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,isoprenaline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,mrtx849,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,"n,n'-dimethyl-n-(acetyl)-n'-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)ethylenediamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,pegademase,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,sf1126,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,tg100-115,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,trifluoroethanol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,wortmannin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,xl765,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,lestaurtinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,sirolimus,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,"(e)-[4-(3,5-difluorophenyl)-3h-pyrrolo[2,3-b]pyridin-3-ylidene](3-methoxyphenyl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,"1,4-dideoxy-5-dehydro-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,"1,4-dideoxy-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,"3-(3-methoxybenzyl)-1h-pyrrolo[2,3-b]pyridine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,3-[(3-(2-carboxyethyl)-4-methylpyrrol-2-yl)methylene]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,4-[4-(1-amino-1-methylethyl)phenyl]-5-chloro-n-[4-(2-morpholin-4-ylethyl)phenyl]pyrimidin-2-amine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,5-aminonaphthalene-2-sulfonic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,abt-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,foreskin fibroblast (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,formic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,heparin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,"n,o6-disulfo-glucosamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,naphthalene trisulfonate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,o2-sulfo-glucuronic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,palifermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,pentosan polysulfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,sucrosofate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,thalidomide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,tp-508,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:6042,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,sirolimus,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,"1,4-dideoxy-5-dehydro-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,"1,4-dideoxy-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,"1d-myo-inositol 1,4,5-trisphosphate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,4-[4-(1-amino-1-methylethyl)phenyl]-5-chloro-n-[4-(2-morpholin-4-ylethyl)phenyl]pyrimidin-2-amine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,5-aminonaphthalene-2-sulfonic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,abt-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,caffeine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,foreskin fibroblast (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,formic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,glycerin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,heparin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,"n,o6-disulfo-glucosamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,naphthalene trisulfonate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,o2-sulfo-glucuronic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,palifermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,pentosan polysulfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,sucrosofate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,thalidomide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,tp-508,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Intrahepatic Cholangiocarcinoma|MP:764,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,lestaurtinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,quizartinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,sirolimus,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,"(e)-[4-(3,5-difluorophenyl)-3h-pyrrolo[2,3-b]pyridin-3-ylidene](3-methoxyphenyl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,"1,4-dideoxy-5-dehydro-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,"1,4-dideoxy-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,"3-(3-methoxybenzyl)-1h-pyrrolo[2,3-b]pyridine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,3-[(3-(2-carboxyethyl)-4-methylpyrrol-2-yl)methylene]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,4-[4-(1-amino-1-methylethyl)phenyl]-5-chloro-n-[4-(2-morpholin-4-ylethyl)phenyl]pyrimidin-2-amine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,5-aminonaphthalene-2-sulfonic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,abt-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,foreskin fibroblast (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,formic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,heparin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,"n,o6-disulfo-glucosamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,naphthalene trisulfonate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,o2-sulfo-glucuronic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,pentosan polysulfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,sucrosofate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,tp-508,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,xl999,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Malignant Ovarian Brenner Tumor|MP:624,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Melanoma|MP:4827,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Melanoma|MP:4827,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Melanoma|MP:4827,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Melanoma|MP:4827,"4-[(10s,14s,18s)-18-(2-amino-2-oxoethyl)-14-(1-naphthylmethyl)-8,17,20-trioxo-7,16,19-triazaspiro[5.14]icos-11-en-10-yl]benzylphosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,"[(3,7,11-trimethyl-dodeca-2,6,10-trienyloxycarbamoyl)-methyl]-phosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,amg-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,farnesyl diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,guanosine-5'-diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,guanosine-5'-triphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,"hexane-1,6-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,hydroxyurea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,interferon alfa-2b,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,isoprenaline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,mrtx849,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,"n,n'-dimethyl-n-(acetyl)-n'-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)ethylenediamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,pd-168393,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,pegademase,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,ripretinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,sf1126,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,talimogene laherparepvec,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,trifluoroethanol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,vindesine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,xl765,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:4827,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Melanoma|MP:4827,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Melanoma|MP:4827,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Melanoma|MP:6034,selumetinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Melanoma|MP:6034,cobimetinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Melanoma|MP:6034,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Melanoma|MP:6034,trametinib,0.100378904346393,0.100378904346393,0,True,True
+W3::Melanoma|MP:6034,"(1e)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,"(5s)-4,5-difluoro-6-[(2-fluoro-4-iodophenyl)imino]-n-(2-hydroxyethoxy)cyclohexa-1,3-diene-1-carboxamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,"2-[(2-chloro-4-iodophenyl)amino]-n-{[(2r)-2,3-dihydroxypropyl]oxy}-3,4-difluorobenzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,"2-[(4-ethynyl-2-fluorophenyl)amino]-3,4-difluoro-n-(2-hydroxyethoxy)benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,"5-bromo-n-[(2s)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,"antihemophilic factor (recombinant), pegylated",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,caplacizumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,efmoroctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,egaptivon pegol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,encorafenib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,eptifibatide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,fradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,hydroxyurea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,ico-007,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,interferon alfa-2b,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,lefradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,lerafaon,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,lm-609,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,"n-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,"n-{2,4-difluoro-3-[(5-pyridin-3-yl-1h-pyrrolo[2,3-b]pyridin-3-yl)carbonyl]phenyl}ethanesulfonamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,pd-0325901,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,plx-4720,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,raf-265,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,simoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,susoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,talimogene laherparepvec,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,tg-100801,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,vindesine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,xl281,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6034,dabrafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Melanoma|MP:6034,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Melanoma|MP:6034,vemurafenib,-0.282891912763575,-0.282891912763575,0,True,True
+W3::Melanoma|MP:6077,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Melanoma|MP:6077,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Melanoma|MP:6077,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Melanoma|MP:6077,"4-[(10s,14s,18s)-18-(2-amino-2-oxoethyl)-14-(1-naphthylmethyl)-8,17,20-trioxo-7,16,19-triazaspiro[5.14]icos-11-en-10-yl]benzylphosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,"[(3,7,11-trimethyl-dodeca-2,6,10-trienyloxycarbamoyl)-methyl]-phosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,amg-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,farnesyl diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,guanosine-5'-diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,guanosine-5'-triphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,"hexane-1,6-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,hydroxyurea,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,interferon alfa-2b,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,isoprenaline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,mrtx849,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,"n,n'-dimethyl-n-(acetyl)-n'-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)ethylenediamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,pd-168393,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,pegademase,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,ripretinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,sf1126,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,talimogene laherparepvec,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,trifluoroethanol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,vindesine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,xl765,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Melanoma|MP:6077,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Melanoma|MP:6077,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Melanoma|MP:6077,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Mucosal Melanoma|MP:95,alpelisib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Mucosal Melanoma|MP:95,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Mucosal Melanoma|MP:95,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Mucosal Melanoma|MP:95,"4-[(10s,14s,18s)-18-(2-amino-2-oxoethyl)-14-(1-naphthylmethyl)-8,17,20-trioxo-7,16,19-triazaspiro[5.14]icos-11-en-10-yl]benzylphosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,"[(3,7,11-trimethyl-dodeca-2,6,10-trienyloxycarbamoyl)-methyl]-phosphonic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,amg-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,copanlisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,farnesyl diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,guanosine-5'-diphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,guanosine-5'-triphosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,"hexane-1,6-diol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,isoprenaline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,mrtx849,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,"n,n'-dimethyl-n-(acetyl)-n'-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)ethylenediamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,pd-168393,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,pegademase,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,pilaralisib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,ripretinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,sf1126,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,trifluoroethanol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,xl765,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Mucosal Melanoma|MP:95,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Mucosal Melanoma|MP:95,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Mucosal Melanoma|MP:95,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"(1s)-1-(1h-indol-3-ylmethyl)-2-(2-pyridin-4-yl-[1,7]naphtyridin-5-yloxy)-ehylamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,(1s)-2-(1h-indol-3-yl)-1-[({5-[(e)-2-pyridin-4-ylvinyl]pyridin-3-yl}oxy)methyl]ethylamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,(2r)-2-(4-chlorophenyl)-2-[4-(1h-pyrazol-4-yl)phenyl]ethanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,(2r)-2-(4-chlorophenyl)-2-phenylethanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,(2s)-1-(3h-indol-3-yl)-3-{[5-(6-isoquinolinyl)-3-pyridinyl]oxy}-2-propanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"(2s)-1-(6h-indol-3-yl)-3-{[5-(7h-pyrazolo[3,4-c]pyridin-5-yl)pyridin-3-yl]oxy}propan-2-amine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,(2s)-1-{[5-(1h-indazol-5-yl)-3-pyridinyl]oxy}-3-(7ah-indol-3-yl)-2-propanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,(2s)-2-(4-chlorophenyl)-2-[4-(1h-pyrazol-4-yl)phenyl]ethanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"(4r,2s)-5'-(4-(4-chlorobenzyloxy)pyrrolidin-2-ylmethanesulfonyl)isoquinoline",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,(rp)-camps,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,(s)-1-phenyl-1-[4-(9h-purin-6-yl)phenyl]methanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"1-[4-(4-chlorobenzyl)-1-(7h-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"1-[4-(4-chlorophenyl)-1-(7h-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"2',5'-dideoxy-adenosine 3'-monophosphate",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,2-[4-(3-methyl-1h-pyrazol-4-yl)phenyl]ethanamine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"3-(1h-indol-3-yl)-4-{1-[2-(1-methylpyrrolidin-2-yl)ethyl]-1h-indol-3-yl}-1h-pyrrole-2,5-dione",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,3-[(3-sec-butyl-4-hydroxybenzoyl)amino]azepan-4-yl 4-(2-hydroxy-5-methoxybenzoyl)benzoate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,3-pyridin-4-yl-1h-indazole,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"3-pyridin-4-yl-2,4-dihydro-indeno[1,2-.c.] pyrazole",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"4-(4-chlorobenzyl)-1-(7h-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-aminium",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,5-(2-methylpiperazine-1-sulfonyl)isoquinoline,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,"5-benzyl-1,3-thiazol-2-amine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,6-{4-[4-(4-chlorophenyl)piperidin-4-yl]phenyl}-9h-purine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,adenosine phosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,aurothioglucose,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,colforsin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,cyclic adenosine monophosphate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,cyclic gmp,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,gem-231,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Pseudomyxoma Peritonei|MP:4494,halothane,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,selpercatinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,lestaurtinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,ponatinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,sirolimus,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,"(e)-[4-(3,5-difluorophenyl)-3h-pyrrolo[2,3-b]pyridin-3-ylidene](3-methoxyphenyl)methanol",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,"1,4-dideoxy-5-dehydro-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,"1,4-dideoxy-o2-sulfo-glucuronic acid",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,"3-(3-methoxybenzyl)-1h-pyrrolo[2,3-b]pyridine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,3-[(3-(2-carboxyethyl)-4-methylpyrrol-2-yl)methylene]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,4-[4-(1-amino-1-methylethyl)phenyl]-5-chloro-n-[4-(2-morpholin-4-ylethyl)phenyl]pyrimidin-2-amine,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,5-aminonaphthalene-2-sulfonic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,abt-510,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,amlexanox,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,foreskin fibroblast (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,foreskin keratinocyte (neonatal),-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,formic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,heparin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,lenvatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,"n,o6-disulfo-glucosamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,naphthalene trisulfonate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,nintedanib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,o2-sulfo-glucuronic acid,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,palifermin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,pemigatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,pentosan polysulfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,sucralfate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,sucrosofate,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,thalidomide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,tp-508,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,erdafitinib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Salivary Gland Adenoid Cystic Carcinoma|MP:6041,pazopanib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Skin Melanoma|MP:6035,selumetinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Skin Melanoma|MP:6035,cobimetinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Skin Melanoma|MP:6035,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Skin Melanoma|MP:6035,trametinib,0.100378904346393,0.100378904346393,0,True,True
+W3::Skin Melanoma|MP:6035,"(1e)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,"(5s)-4,5-difluoro-6-[(2-fluoro-4-iodophenyl)imino]-n-(2-hydroxyethoxy)cyclohexa-1,3-diene-1-carboxamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,"2-[(2-chloro-4-iodophenyl)amino]-n-{[(2r)-2,3-dihydroxypropyl]oxy}-3,4-difluorobenzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,"2-[(4-ethynyl-2-fluorophenyl)amino]-3,4-difluoro-n-(2-hydroxyethoxy)benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,"5-bromo-n-[(2s)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,"antihemophilic factor (recombinant), pegylated",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,caplacizumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,efmoroctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,egaptivon pegol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,encorafenib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,eptifibatide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,fradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,ico-007,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,lefradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,lerafaon,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,lm-609,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,"n-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,"n-{2,4-difluoro-3-[(5-pyridin-3-yl-1h-pyrrolo[2,3-b]pyridin-3-yl)carbonyl]phenyl}ethanesulfonamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,pd-0325901,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,plx-4720,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,raf-265,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,simoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,susoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,tg-100801,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,xl281,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6035,dabrafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Skin Melanoma|MP:6035,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Skin Melanoma|MP:6035,vemurafenib,-0.282891912763575,-0.282891912763575,0,True,True
+W3::Skin Melanoma|MP:6036,selumetinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Skin Melanoma|MP:6036,cobimetinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Skin Melanoma|MP:6036,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Skin Melanoma|MP:6036,trametinib,0.100378904346393,0.100378904346393,0,True,True
+W3::Skin Melanoma|MP:6036,"(1e)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,"(5s)-4,5-difluoro-6-[(2-fluoro-4-iodophenyl)imino]-n-(2-hydroxyethoxy)cyclohexa-1,3-diene-1-carboxamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,"2-[(2-chloro-4-iodophenyl)amino]-n-{[(2r)-2,3-dihydroxypropyl]oxy}-3,4-difluorobenzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,"2-[(4-ethynyl-2-fluorophenyl)amino]-3,4-difluoro-n-(2-hydroxyethoxy)benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,"5-bromo-n-[(2s)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,"antihemophilic factor (recombinant), pegylated",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,caplacizumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,efmoroctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,egaptivon pegol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,encorafenib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,eptifibatide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,fradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,ico-007,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,k-252a,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,lerafaon,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,lm-609,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,"n-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,"n-{2,4-difluoro-3-[(5-pyridin-3-yl-1h-pyrrolo[2,3-b]pyridin-3-yl)carbonyl]phenyl}ethanesulfonamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,pd-0325901,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,plx-4720,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,raf-265,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,ripretinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,simoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,susoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,xl281,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6036,dabrafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Skin Melanoma|MP:6036,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Skin Melanoma|MP:6036,vemurafenib,-0.2355503860401664,-0.2355503860401664,0,True,True
+W3::Skin Melanoma|MP:6037,selumetinib,0.14314703987718189,0.14314703987718189,0,True,True
+W3::Skin Melanoma|MP:6037,cobimetinib,0.1288657738664874,0.1288657738664874,0,True,True
+W3::Skin Melanoma|MP:6037,regorafenib,0.100378904346393,0.100378904346393,0,True,True
+W3::Skin Melanoma|MP:6037,trametinib,0.100378904346393,0.100378904346393,0,True,True
+W3::Skin Melanoma|MP:6037,"(1e)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,"(5s)-4,5-difluoro-6-[(2-fluoro-4-iodophenyl)imino]-n-(2-hydroxyethoxy)cyclohexa-1,3-diene-1-carboxamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,"2-[(2-chloro-4-iodophenyl)amino]-n-{[(2r)-2,3-dihydroxypropyl]oxy}-3,4-difluorobenzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,"2-[(4-ethynyl-2-fluorophenyl)amino]-3,4-difluoro-n-(2-hydroxyethoxy)benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,"5-bromo-n-[(2s)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,"antihemophilic factor (recombinant), pegylated",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,caplacizumab,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,cholecystokinin,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,efmoroctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,egaptivon pegol,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,encorafenib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,eptifibatide,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,fostamatinib,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,fradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,ico-007,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,lefradafiban,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,lerafaon,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,lm-609,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,"n-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,"n-{2,4-difluoro-3-[(5-pyridin-3-yl-1h-pyrrolo[2,3-b]pyridin-3-yl)carbonyl]phenyl}ethanesulfonamide",-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,pd-0325901,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,plx-4720,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,raf-265,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,simoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,susoctocog alfa,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,tg-100801,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,xl281,-0.011437961154117699,-0.011437961154117699,0,True,True
+W3::Skin Melanoma|MP:6037,dabrafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Skin Melanoma|MP:6037,sorafenib,-0.077529852849600706,-0.077529852849600706,0,True,True
+W3::Skin Melanoma|MP:6037,vemurafenib,-0.282891912763575,-0.282891912763575,0,True,True

@@ -1,0 +1,56 @@
+﻿evaluation_group,method_code,method_name,num_queries,num_pairs,query_mrr,query_hr1,query_hr5,query_hr10,pair_mrr,macro_recall5,new_positives_in_top5,old_positives_exited_top5,old_positives_rr_loss_count,old_positives_total_rr_loss,improved_vs_b2,degraded_vs_b2,tied_vs_b2,improved_vs_orig_p4,degraded_vs_orig_p4,tied_vs_orig_p4
+1_January_Dev_Reference,B0,B0: SF/R0 (Frozen Baseline),41,43,0.2996,0.2195,0.3659,0.439,0.2857,0.3659,0/5,0/15,0,0.0,0,5,38,1,5,37
+1_January_Dev_Reference,B2,B2: SF Append (R0 -> R1\R0),41,43,0.3733,0.2927,0.439,0.5122,0.3565,0.439,3/5,0/15,0,0.0,0,0,43,1,2,40
+1_January_Dev_Reference,B4,B4: Condition A Append,41,43,0.4146,0.3659,0.439,0.5366,0.3959,0.439,3/5,1/15,1,0.8333,7,1,35,7,3,33
+1_January_Dev_Reference,B5,B5: Standard RRF (k=60),41,43,0.4594,0.4146,0.5366,0.5366,0.4386,0.5203,4/5,0/15,1,0.0059,11,1,31,11,1,31
+1_January_Dev_Reference,B6,B6: Context-Aware Fusion,41,43,0.366,0.2439,0.5122,0.5366,0.3496,0.4959,4/5,0/15,9,3.0053,5,9,29,5,8,30
+1_January_Dev_Reference,P4_Orig_lam4,Original P4: Constrained Insertion (lambda*=4.0),41,43,0.3743,0.2927,0.439,0.5122,0.3575,0.439,3/5,0/15,1,0.0053,2,1,40,0,0,43
+1_January_Dev_Reference,P4_Orig_lam1,Original P4: Constrained Insertion (lambda=1.0),41,43,0.3567,0.2927,0.439,0.4878,0.3407,0.4228,4/5,1/15,9,1.7588,2,9,32,2,8,33
+1_January_Dev_Reference,P4_Orig_lam025,Original P4: Constrained Insertion (lambda=0.25),41,43,0.2084,0.1463,0.2439,0.4878,0.1993,0.2276,4/5,9/15,17,7.8576,2,17,24,2,16,25
+1_January_Dev_Reference,P4_EvOrder_lam4,P4-EvidenceOrder: B5 Order N (lambda*=4.0),41,43,0.3744,0.2927,0.439,0.5122,0.3575,0.439,3/5,0/15,1,0.0053,2,1,40,1,0,42
+1_January_Dev_Reference,P4_EvOrder_lam1,P4-EvidenceOrder: B5 Order N (lambda=1.0),41,43,0.3572,0.2927,0.439,0.4878,0.3411,0.4228,4/5,1/15,9,1.7588,2,9,32,2,8,33
+1_January_Dev_Reference,P4_EvOrder_lam025,P4-EvidenceOrder: B5 Order N (lambda=0.25),41,43,0.2088,0.1463,0.2439,0.4634,0.1996,0.2276,4/5,9/15,17,7.8667,2,17,24,2,16,25
+2_Fixed_Queries_W1_W3,B0,B0: SF/R0 (Frozen Baseline),3,3,0.3333,0.3333,0.3333,0.3333,0.3333,0.3333,0/0,0/1,0,0.0,0,0,3,0,0,3
+2_Fixed_Queries_W1_W3,B2,B2: SF Append (R0 -> R1\R0),3,3,0.3333,0.3333,0.3333,0.3333,0.3333,0.3333,0/0,0/1,0,0.0,0,0,3,0,0,3
+2_Fixed_Queries_W1_W3,B4,B4: Condition A Append,3,3,0.0556,0.0,0.0,0.3333,0.0556,0.0,0/0,1/1,1,0.8333,0,1,2,0,1,2
+2_Fixed_Queries_W1_W3,B5,B5: Standard RRF (k=60),3,3,0.3333,0.3333,0.3333,0.3333,0.3333,0.3333,0/0,0/1,0,0.0,0,0,3,0,0,3
+2_Fixed_Queries_W1_W3,B6,B6: Context-Aware Fusion,3,3,0.0833,0.0,0.3333,0.3333,0.0833,0.3333,0/0,0/1,1,0.75,0,1,2,0,1,2
+2_Fixed_Queries_W1_W3,P4_Orig_lam4,Original P4: Constrained Insertion (lambda*=4.0),3,3,0.3333,0.3333,0.3333,0.3333,0.3333,0.3333,0/0,0/1,0,0.0,0,0,3,0,0,3
+2_Fixed_Queries_W1_W3,P4_Orig_lam1,Original P4: Constrained Insertion (lambda=1.0),3,3,0.3333,0.3333,0.3333,0.3333,0.3333,0.3333,0/0,0/1,0,0.0,0,0,3,0,0,3
+2_Fixed_Queries_W1_W3,P4_Orig_lam025,Original P4: Constrained Insertion (lambda=0.25),3,3,0.0417,0.0,0.0,0.3333,0.0417,0.0,0/0,1/1,1,0.875,0,1,2,0,1,2
+2_Fixed_Queries_W1_W3,P4_EvOrder_lam4,P4-EvidenceOrder: B5 Order N (lambda*=4.0),3,3,0.3333,0.3333,0.3333,0.3333,0.3333,0.3333,0/0,0/1,0,0.0,0,0,3,0,0,3
+2_Fixed_Queries_W1_W3,P4_EvOrder_lam1,P4-EvidenceOrder: B5 Order N (lambda=1.0),3,3,0.3333,0.3333,0.3333,0.3333,0.3333,0.3333,0/0,0/1,0,0.0,0,0,3,0,0,3
+2_Fixed_Queries_W1_W3,P4_EvOrder_lam025,P4-EvidenceOrder: B5 Order N (lambda=0.25),3,3,0.0417,0.0,0.0,0.3333,0.0417,0.0,0/0,1/1,1,0.875,0,1,2,0,1,2
+3_New_Queries_W1_W3,B0,B0: SF/R0 (Frozen Baseline),45,46,0.1902,0.1556,0.2222,0.2444,0.186,0.2222,0/13,0/10,0,0.0,0,13,33,7,13,26
+3_New_Queries_W1_W3,B2,B2: SF Append (R0 -> R1\R0),45,46,0.2004,0.1556,0.2222,0.2667,0.1965,0.2222,0/13,0/10,0,0.0,0,0,46,8,10,28
+3_New_Queries_W1_W3,B4,B4: Condition A Append,45,46,0.133,0.0444,0.2444,0.4222,0.1305,0.2444,0/13,4/10,6,5.1545,11,6,29,12,16,18
+3_New_Queries_W1_W3,B5,B5: Standard RRF (k=60),45,46,0.3895,0.2444,0.6,0.6667,0.3816,0.6,8/13,0/10,4,1.5097,25,4,17,25,4,17
+3_New_Queries_W1_W3,B6,B6: Context-Aware Fusion,45,46,0.346,0.1556,0.6,0.6444,0.3389,0.6,11/13,3/10,7,4.3084,23,7,16,23,7,16
+3_New_Queries_W1_W3,P4_Orig_lam4,Original P4: Constrained Insertion (lambda*=4.0),45,46,0.2064,0.1556,0.2222,0.2667,0.2023,0.2222,0/13,0/10,7,0.026,10,8,28,0,0,46
+3_New_Queries_W1_W3,P4_Orig_lam1,Original P4: Constrained Insertion (lambda=1.0),45,46,0.2608,0.1556,0.4222,0.4444,0.2555,0.4222,11/13,2/10,15,1.7241,12,15,19,12,9,25
+3_New_Queries_W1_W3,P4_Orig_lam025,Original P4: Constrained Insertion (lambda=0.25),45,46,0.1804,0.0444,0.2889,0.4222,0.1774,0.2889,11/13,8/10,20,6.6763,13,20,13,13,14,19
+3_New_Queries_W1_W3,P4_EvOrder_lam4,P4-EvidenceOrder: B5 Order N (lambda*=4.0),45,46,0.2065,0.1556,0.2222,0.2667,0.2024,0.2222,0/13,0/10,7,0.0267,12,7,27,2,1,43
+3_New_Queries_W1_W3,P4_EvOrder_lam1,P4-EvidenceOrder: B5 Order N (lambda=1.0),45,46,0.2612,0.1556,0.4222,0.4444,0.2562,0.4222,11/13,2/10,15,1.7289,13,15,18,13,9,24
+3_New_Queries_W1_W3,P4_EvOrder_lam025,P4-EvidenceOrder: B5 Order N (lambda=0.25),45,46,0.181,0.0444,0.2889,0.4444,0.1781,0.2889,11/13,8/10,20,6.6811,13,20,13,13,14,19
+4_Combined_Prospective_W1_W3,B0,B0: SF/R0 (Frozen Baseline),48,49,0.1991,0.1667,0.2292,0.25,0.1951,0.2292,0/13,0/11,0,0.0,0,13,36,7,13,29
+4_Combined_Prospective_W1_W3,B2,B2: SF Append (R0 -> R1\R0),48,49,0.2087,0.1667,0.2292,0.2708,0.2048,0.2292,0/13,0/11,0,0.0,0,0,49,8,10,31
+4_Combined_Prospective_W1_W3,B4,B4: Condition A Append,48,49,0.1281,0.0417,0.2292,0.4167,0.1259,0.2292,0/13,5/11,7,5.9878,11,7,31,12,17,20
+4_Combined_Prospective_W1_W3,B5,B5: Standard RRF (k=60),48,49,0.386,0.25,0.5833,0.6458,0.3786,0.5833,8/13,0/11,4,1.5097,25,4,20,25,4,20
+4_Combined_Prospective_W1_W3,B6,B6: Context-Aware Fusion,48,49,0.3296,0.1458,0.5833,0.625,0.3233,0.5833,11/13,3/11,8,5.0584,23,8,18,23,8,18
+4_Combined_Prospective_W1_W3,P4_Orig_lam4,Original P4: Constrained Insertion (lambda*=4.0),48,49,0.2143,0.1667,0.2292,0.2708,0.2104,0.2292,0/13,0/11,7,0.026,10,8,31,0,0,49
+4_Combined_Prospective_W1_W3,P4_Orig_lam1,Original P4: Constrained Insertion (lambda=1.0),48,49,0.2653,0.1667,0.4167,0.4375,0.2603,0.4167,11/13,2/11,15,1.7241,12,15,22,12,9,28
+4_Combined_Prospective_W1_W3,P4_Orig_lam025,Original P4: Constrained Insertion (lambda=0.25),48,49,0.1718,0.0417,0.2708,0.4167,0.1691,0.2708,11/13,9/11,21,7.5513,13,21,15,13,15,21
+4_Combined_Prospective_W1_W3,P4_EvOrder_lam4,P4-EvidenceOrder: B5 Order N (lambda*=4.0),48,49,0.2144,0.1667,0.2292,0.2708,0.2105,0.2292,0/13,0/11,7,0.0267,12,7,30,2,1,46
+4_Combined_Prospective_W1_W3,P4_EvOrder_lam1,P4-EvidenceOrder: B5 Order N (lambda=1.0),48,49,0.2657,0.1667,0.4167,0.4375,0.2609,0.4167,11/13,2/11,15,1.7289,13,15,21,13,9,27
+4_Combined_Prospective_W1_W3,P4_EvOrder_lam025,P4-EvidenceOrder: B5 Order N (lambda=0.25),48,49,0.1723,0.0417,0.2708,0.4375,0.1698,0.2708,11/13,9/11,21,7.5561,13,21,15,13,15,21
+5_Secondary_Boosted_W1_W3,B0,B0: SF/R0 (Frozen Baseline),1,1,1.0,1.0,1.0,1.0,1.0,1.0,0/0,0/1,0,0.0,0,0,1,0,0,1
+5_Secondary_Boosted_W1_W3,B2,B2: SF Append (R0 -> R1\R0),1,1,1.0,1.0,1.0,1.0,1.0,1.0,0/0,0/1,0,0.0,0,0,1,0,0,1
+5_Secondary_Boosted_W1_W3,B4,B4: Condition A Append,1,1,0.2,0.0,1.0,1.0,0.2,1.0,0/0,0/1,1,0.8,0,1,0,0,1,0
+5_Secondary_Boosted_W1_W3,B5,B5: Standard RRF (k=60),1,1,1.0,1.0,1.0,1.0,1.0,1.0,0/0,0/1,0,0.0,0,0,1,0,0,1
+5_Secondary_Boosted_W1_W3,B6,B6: Context-Aware Fusion,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0/0,0/1,0,0.0,0,0,1,0,0,1
+5_Secondary_Boosted_W1_W3,P4_Orig_lam4,Original P4: Constrained Insertion (lambda*=4.0),1,1,1.0,1.0,1.0,1.0,1.0,1.0,0/0,0/1,0,0.0,0,0,1,0,0,1
+5_Secondary_Boosted_W1_W3,P4_Orig_lam1,Original P4: Constrained Insertion (lambda=1.0),1,1,1.0,1.0,1.0,1.0,1.0,1.0,0/0,0/1,0,0.0,0,0,1,0,0,1
+5_Secondary_Boosted_W1_W3,P4_Orig_lam025,Original P4: Constrained Insertion (lambda=0.25),1,1,0.125,0.0,0.0,1.0,0.125,0.0,0/0,1/1,1,0.875,0,1,0,0,1,0
+5_Secondary_Boosted_W1_W3,P4_EvOrder_lam4,P4-EvidenceOrder: B5 Order N (lambda*=4.0),1,1,1.0,1.0,1.0,1.0,1.0,1.0,0/0,0/1,0,0.0,0,0,1,0,0,1
+5_Secondary_Boosted_W1_W3,P4_EvOrder_lam1,P4-EvidenceOrder: B5 Order N (lambda=1.0),1,1,1.0,1.0,1.0,1.0,1.0,1.0,0/0,0/1,0,0.0,0,0,1,0,0,1
+5_Secondary_Boosted_W1_W3,P4_EvOrder_lam025,P4-EvidenceOrder: B5 Order N (lambda=0.25),1,1,0.125,0.0,0.0,1.0,0.125,0.0,0/0,1/1,1,0.875,0,1,0,0,1,0

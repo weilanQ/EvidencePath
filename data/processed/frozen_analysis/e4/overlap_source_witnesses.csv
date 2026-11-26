@@ -1,0 +1,30 @@
+﻿qid,positive_drug,matched_source,cutoff_eid,input_candidate_drug,used_for_civic_retrieval_or_context,used_for_sf_count
+W1::Solid Tumor|MP:3333,larotrectinib,PubMed:30624546,7496,larotrectinib,False,True
+W1::Solid Tumor|MP:3333,larotrectinib,PubMed:30624546,9588,larotrectinib,True,True
+W1::Solid Tumor|MP:3333,larotrectinib,PubMed:30624546,9592,larotrectinib,False,True
+W1::Solid Tumor|MP:3333,larotrectinib,PubMed:30624546,9593,larotrectinib,True,True
+W1::Solid Tumor|MP:3333,larotrectinib,PubMed:30624546,10170,larotrectinib,True,True
+W2::B-cell Non-Hodgkin Lymphoma|MP:4344,tazemetostat,PubMed:29650362,9377,tazemetostat,True,True
+W2::Diffuse Large B-cell Lymphoma|MP:4344,tazemetostat,PubMed:34159682,11109,tazemetostat,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4659,osimertinib,PubMed:27959700,1867,osimertinib,True,True
+W2::Lung Non-small Cell Carcinoma|MP:4660,osimertinib,PubMed:27959700,1867,osimertinib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,6202,lapatinib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,6203,trastuzumab,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,6206,dactolisib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,6207,lapatinib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,6209,trastuzumab,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,6213,dactolisib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,8267,trastuzumab,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,8274,trastuzumab,False,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,8275,lapatinib,False,True
+W3::HER2 Positive Breast Cancer|MP:2235,dactolisib,PubMed:19010894,8276,dactolisib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,6202,lapatinib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,6203,trastuzumab,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,6206,dactolisib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,6207,lapatinib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,6209,trastuzumab,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,6213,dactolisib,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,8267,trastuzumab,True,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,8274,trastuzumab,False,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,8275,lapatinib,False,True
+W3::HER2 Positive Breast Cancer|MP:2235,lapatinib,PubMed:19010894,8276,dactolisib,True,True

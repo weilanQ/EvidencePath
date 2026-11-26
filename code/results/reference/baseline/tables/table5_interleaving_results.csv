@@ -1,0 +1,8 @@
+Policy,Ordering constraint,Query MRR
+Append-SF,O followed by N_SF,0.2004
+Append-CIViC,O followed by N_e,0.2018
+Original insertion,"Fixed O, N_v, lambda=4",0.2064
+Evidence insertion,"Fixed O, N_e, lambda=4",0.2065
+Two-sequence oracle,"Best label-informed merge of O, N_e",0.3294
+RRF,"Fusion of full L_g, L_e",0.3895
+Old-order oracle,"Fixed O, freely ordered additions",0.4568
